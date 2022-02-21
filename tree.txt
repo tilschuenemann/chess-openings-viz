@@ -1,0 +1,500 @@
+Root
+├── Bird's Opening
+│   └── Bird's Opening
+├── English
+│   ├── English
+│   │   └── English
+│   │       ├── English
+│   │       │   ├── English
+│   │       │   └── English, Three Knights System
+│   │       │       └── English
+│   │       │           └── English, Four Knights, Kingside Fianchetto
+│   │       └── English
+│   │           ├── English, Bremen System with ...g6
+│   │           └── English, Bremen System, Keres Variation
+│   ├── English
+│   │   └── English
+│   ├── English
+│   │   └── English
+│   │       └── English
+│   │           └── English, Mikenas-Carls
+│   │               └── English, Mikenas-Carls, Sicilian Variation
+│   ├── English, Caro-Kann Defensive System
+│   │   └── English with b3
+│   └── English, Symmetrical
+│       ├── English, Symmetrical
+│       │   └── English, Symmetrical
+│       │       └── English
+│       │           └── English, Symmetrical
+│       │               └── English, Symmetrical
+│       │                   └── English, Symmetrical, Main line with d4
+│       └── English, Symmetrical, Benoni Formation
+│           └── English, Symmetrical Variation
+│               └── English, Symmetrical
+├── Nimzovich-Larsen Attack
+├── Queen's Pawn Game
+│   ├── Dutch
+│   │   ├── Dutch
+│   │   ├── Dutch
+│   │   │   ├── Dutch
+│   │   │   │   ├── Dutch
+│   │   │   │   │   └── Dutch Defense
+│   │   │   │   │       └── Dutch
+│   │   │   │   │           ├── Dutch, Classical Variation
+│   │   │   │   │           │   └── Dutch, Ilyin-Genevsky
+│   │   │   │   │           │       ├── Dutch, Ilyin-Genevsky Variation with Qc2
+│   │   │   │   │           │       └── Dutch, Ilyin-Genevsky Variation with b3
+│   │   │   │   │           ├── Dutch, Stonewall
+│   │   │   │   │           └── Dutch, Stonewall, Botvinnik Variation
+│   │   │   │   │               └── Dutch, Stonewall with Ba3
+│   │   │   │   └── Dutch, Leningrad, Main Variation
+│   │   │   │       ├── Dutch, Leningrad, Main Variation with Nc6
+│   │   │   │       └── Dutch, Leningrad, Main Variation with c6
+│   │   │   └── Dutch, with c4 & Nc3
+│   │   └── Dutch, Staunton Gambit
+│   │       └── Dutch, Staunton Gambit
+│   ├── Old Benoni
+│   │   └── Old Benoni Defense
+│   ├── Queen's Pawn Game
+│   │   ├── Queen's Gambit Declined
+│   │   │   ├── Queen's Gambit Accepted
+│   │   │   │   └── Queen's Gambit Accepted
+│   │   │   │       ├── Queen's Gambit Accepted
+│   │   │   │       │   ├── Queen's Gambit Accepted
+│   │   │   │       │   │   └── Queen's Gambit Accepted
+│   │   │   │       │   │       └── Queen's Gambit Accepted, Classical
+│   │   │   │       │   │           └── Queen's Gambit Accepted, Classical
+│   │   │   │       │   │               └── Queen's Gambit Accepted, Classical
+│   │   │   │       │   └── Queen's Gambit Accepted
+│   │   │   │       └── Queen's Gambit Accepted
+│   │   │   ├── Queen's Gambit Declined
+│   │   │   │   └── Queen's Gambit Declined
+│   │   │   │       ├── Queen's Gambit Declined
+│   │   │   │       │   ├── Queen's Gambit Declined
+│   │   │   │       │   │   ├── Queen's Gambit Declined Semi-Slav
+│   │   │   │       │   │   │   ├── Queen's Gambit Declined Semi-Slav
+│   │   │   │       │   │   │   │   └── Queen's Gambit Declined Semi-Slav
+│   │   │   │       │   │   │   │       └── Queen's Gambit Declined Semi-Slav
+│   │   │   │       │   │   │   │           └── Queen's Gambit Declined Semi-Slav, Meran
+│   │   │   │       │   │   │   │               └── Queen's Gambit Declined Semi-Slav, Meran
+│   │   │   │       │   │   │   └── Queen's Gambit Declined Semi-Slav
+│   │   │   │       │   │   ├── Queen's Gambit Declined, Ragozin Variation
+│   │   │   │       │   │   │   └── Queen's Gambit Declined, Ragozin, Vienna Variation
+│   │   │   │       │   │   └── Queen's Gambit Declined, Semi-Tarrasch
+│   │   │   │       │   │       └── Queen's Gambit Declined, Semi-Tarrasch
+│   │   │   │       │   │           └── Queen's Gambit Declined, Semi-Tarrasch, 7.Bd3
+│   │   │   │       │   ├── Queen's Gambit Declined
+│   │   │   │       │   │   ├── Queen's Gambit Declined
+│   │   │   │       │   │   │   ├── Queen's Gambit Declined
+│   │   │   │       │   │   │   │   ├── Queen's Gambit Declined
+│   │   │   │       │   │   │   │   │   ├── Queen's Gambit Declined, Lasker Defense
+│   │   │   │       │   │   │   │   │   └── Queen's Gambit Declined, Tartakower (Makagonov-Bondarevsky) System
+│   │   │   │       │   │   │   │   │       └── Queen's Gambit Declined, Tartakower
+│   │   │   │       │   │   │   │   └── Queen's Gambit Declined, Orthodox Defense
+│   │   │   │       │   │   │   │       ├── Queen's Gambit Declined, Orthodox Defense
+│   │   │   │       │   │   │   │       │   ├── Queen's Gambit Declined, Orthodox Defense, Bd3 line
+│   │   │   │       │   │   │   │       │   │   ├── Queen's Gambit Declined, Orthodox Defense, Classical
+│   │   │   │       │   │   │   │       │   │   │   └── Queen's Gambit Declined, Orthodox Defense, Bd3 line
+│   │   │   │       │   │   │   │       │   │   └── Queen's Gambit Declined, Orthodox Defense, Classical, 13.de
+│   │   │   │       │   │   │   │       │   └── Queen's Gambit Declined, Orthodox, Rubinstein Attack
+│   │   │   │       │   │   │   │       │       └── Queen's Gambit Declined, Orthodox, Rubinstein Attack, Main line
+│   │   │   │       │   │   │   │       └── Queen's Gambit Declined, Orthodox, Rubinstein Attack
+│   │   │   │       │   │   │   │           └── Queen's Gambit Declined, Orthodox, Rubinstein Attack
+│   │   │   │       │   │   │   └── Queen's Gambit Declined, Anti-Neo-Orthodox Variation
+│   │   │   │       │   │   └── Queen's Gambit Declined
+│   │   │   │       │   │       └── Queen's Gambit Declined
+│   │   │   │       │   └── Queen's Gambit Declined, Exchange, Positional line, 6.Qc2
+│   │   │   │       └── Queen's Gambit Declined, Tarrasch
+│   │   │   │           └── Queen's Gambit Declined, Tarrasch
+│   │   │   │               └── Queen's Gambit Declined, Tarrasch
+│   │   │   ├── Queen's Gambit Declined Slav
+│   │   │   │   └── Queen's Gambit Declined Slav
+│   │   │   │       ├── Queen's Gambit Declined Slav
+│   │   │   │       │   └── Queen's Gambit Declined Slav
+│   │   │   │       │       └── Queen's Gambit Declined Slav
+│   │   │   │       │           └── Queen's Gambit Declined Slav, Dutch
+│   │   │   │       │               └── Queen's Gambit Declined Slav, Dutch
+│   │   │   │       ├── Queen's Gambit Declined Slav
+│   │   │   │       └── Queen's Gambit Declined Slav, Exchange Variation
+│   │   │   │           └── Queen's Gambit Declined Slav, Exchange Variation
+│   │   │   ├── Queen's Gambit Declined, Albin Counter Gambit
+│   │   │   │   └── Queen's Gambit Declined, Albin Counter Gambit, 5.g3
+│   │   │   └── Queen's Gambit Declined, Chigorin Defense
+│   │   ├── Queen's Pawn Game
+│   │   │   ├── Queen's Pawn Game
+│   │   │   │   └── Queen's Pawn Game
+│   │   │   └── Torre Attack (Tartakower Variation)
+│   │   └── Richter-Veresov Attack
+│   ├── Queen's Pawn Game
+│   │   ├── Queen's Pawn Game
+│   │   │   ├── Benoni Defense
+│   │   │   │   ├── Benko Gambit
+│   │   │   │   │   └── Benko Gambit
+│   │   │   │   │       └── Benko Gambit
+│   │   │   │   └── Benoni Defense
+│   │   │   │       ├── Benoni
+│   │   │   │       │   └── Benoni, Fianchetto Variation
+│   │   │   │       │       ├── Benoni, Fianchetto, 11...Re8
+│   │   │   │       │       └── Benoni, Fianchetto, 9...Nbd7
+│   │   │   │       └── Benoni, 6.e4
+│   │   │   │           ├── Benoni
+│   │   │   │           │   ├── Benoni, Four Pawns Attack
+│   │   │   │           │   │   └── Benoni, Four Pawns Attack, Main line
+│   │   │   │           │   └── Benoni, Taimanov Variation
+│   │   │   │           └── Benoni, Classical with 7.Nf3
+│   │   │   │               ├── Benoni, Classical without 9.O-O
+│   │   │   │               │   ├── Benoni, Classical with ...Re8 and ...Na6
+│   │   │   │               │   ├── Benoni, Classical with ...a6 and 10...Bg4
+│   │   │   │               │   ├── Benoni, Classical, 11.f3
+│   │   │   │               │   ├── Benoni, Classical, 9...Re8
+│   │   │   │               │   ├── Benoni, Classical, 9...Re8, 10.Nd2
+│   │   │   │               │   ├── Benoni, Classical, 9...a6, 10.a4
+│   │   │   │               │   └── Benoni, Classical, 9.O-O
+│   │   │   │               └── Benoni, Classical, 8.Bg5
+│   │   │   ├── Budapest Gambit
+│   │   │   │   └── Budapest Gambit
+│   │   │   ├── King's Indian Defense
+│   │   │   │   ├── King's Indian
+│   │   │   │   │   ├── Grunfeld
+│   │   │   │   │   │   ├── Grunfeld
+│   │   │   │   │   │   │   ├── Grunfeld
+│   │   │   │   │   │   │   │   └── Grunfeld
+│   │   │   │   │   │   │   ├── Grunfeld, 5.Bf4
+│   │   │   │   │   │   │   │   └── Grunfeld, with Bf4 & e3
+│   │   │   │   │   │   │   ├── Grunfeld, 5.Bg5
+│   │   │   │   │   │   │   └── Grunfeld, Russian Variation
+│   │   │   │   │   │   │       └── Grunfeld, Russian
+│   │   │   │   │   │   │           └── Grunfeld, Russian
+│   │   │   │   │   │   │               └── Grunfeld Defense, Smyslov
+│   │   │   │   │   │   ├── Grunfeld
+│   │   │   │   │   │   │   └── Grunfeld, Exchange
+│   │   │   │   │   │   │       ├── Grunfeld
+│   │   │   │   │   │   │       └── Grunfeld, Spassky Variation, Main line, 10...cd, 11.cd
+│   │   │   │   │   │   │           └── Grunfeld, Exchange
+│   │   │   │   │   │   ├── Grunfeld, 4.Bf4
+│   │   │   │   │   │   │   └── Grunfeld, Grunfeld Gambit
+│   │   │   │   │   │   │       └── Grunfeld, Grunfeld Gambit Accepted
+│   │   │   │   │   │   └── Grunfeld, Russian Variation
+│   │   │   │   │   ├── King's Indian
+│   │   │   │   │   │   ├── King's Indian
+│   │   │   │   │   │   ├── King's Indian
+│   │   │   │   │   │   │   └── King's Indian
+│   │   │   │   │   │   │       └── King's Indian
+│   │   │   │   │   │   │           ├── King's Indian, Orthodox
+│   │   │   │   │   │   │           │   ├── King's Indian
+│   │   │   │   │   │   │           │   │   └── King's Indian, Orthodox, Taimanov, 9.Ne1
+│   │   │   │   │   │   │           │   │       └── King's Indian, Orthodox, Taimanov
+│   │   │   │   │   │   │           │   └── King's Indian, Orthodox, 7...Nbd7, 8.Re1
+│   │   │   │   │   │   │           │       └── King's Indian, Orthodox, 7...Nbd7, Main line
+│   │   │   │   │   │   │           └── King's Indian, Petrosian System
+│   │   │   │   │   │   ├── King's Indian
+│   │   │   │   │   │   │   └── King's Indian, Averbakh, 6...c5
+│   │   │   │   │   │   │       └── King's Indian, Averbakh, Main line
+│   │   │   │   │   │   ├── King's Indian, Four Pawns Attack
+│   │   │   │   │   │   │   └── King's Indian
+│   │   │   │   │   │   │       └── King's Indian, Four Pawns Attack, with Be2 and Nf3
+│   │   │   │   │   │   │           └── King's Indian, Four Pawns Attack, Main line
+│   │   │   │   │   │   ├── King's Indian, Makagonov System (5.h3)
+│   │   │   │   │   │   └── King's Indian, Samisch Variation
+│   │   │   │   │   │       └── King's Indian, Samisch
+│   │   │   │   │   │           ├── King's Indian, Samisch
+│   │   │   │   │   │           │   └── King's Indian, Samisch, Panno Main line
+│   │   │   │   │   │           ├── King's Indian, Samisch, Orthodox Variation
+│   │   │   │   │   │           │   ├── King's Indian, Samisch, Orthodox
+│   │   │   │   │   │           │   │   └── King's Indian, Samisch, Orthodox, 7.d5 c6
+│   │   │   │   │   │           │   │       └── King's Indian, Samisch, Orthodox Main line
+│   │   │   │   │   │           │   └── King's Indian, Samisch, Orthodox, 7.Nge2 c6
+│   │   │   │   │   │           └── King's Indian, Samisch, double Fianchetto Variation
+│   │   │   │   │   └── King's Indian, Fianchetto
+│   │   │   │   │       ├── King's Indian, Fianchetto
+│   │   │   │   │       │   └── King's Indian, Fianchetto, Classical Variation, 8.e4
+│   │   │   │   │       │       └── King's Indian, Fianchetto, Classical Main line
+│   │   │   │   │       ├── King's Indian, Fianchetto, Panno Variation
+│   │   │   │   │       └── King's Indian, Fianchetto, Yugoslav System
+│   │   │   │   │           └── King's Indian, Fianchetto, Yugoslav, 7.O-O
+│   │   │   │   │               └── King's Indian, Fianchetto, Yugoslav Panno
+│   │   │   │   ├── Neo-Grunfeld
+│   │   │   │   │   ├── Neo-Grunfeld, 5.Nf3
+│   │   │   │   │   │   ├── Neo-Grunfeld, 6.O-O
+│   │   │   │   │   │   │   └── Neo-Grunfeld, 6.O-O c6
+│   │   │   │   │   │   │       └── Neo-Grunfeld, 6.O-O, Main line
+│   │   │   │   │   │   └── Neo-Grunfeld, 6.cd Nxd5, 7.O-O
+│   │   │   │   │   │       ├── Neo-Grunfeld, 6.cd Nxd5, 7.O-O Nb6
+│   │   │   │   │   │       └── Neo-Grunfeld, 6.cd Nxd5, 7.O-O c5, 8.dxc5
+│   │   │   │   │   └── Neo-Grunfeld, 5.cd, Main line
+│   │   │   │   └── Neo-Grunfeld Defense
+│   │   │   ├── Old Indian
+│   │   │   │   └── Old Indian, Ukrainian Variation, 4.Nf3
+│   │   │   │       └── Old Indian, Main line
+│   │   │   └── Queen's Pawn Game
+│   │   │       ├── Catalan, Closed
+│   │   │       │   ├── Catalan, Closed, 5.Nf3
+│   │   │       │   │   └── Catalan, Closed
+│   │   │       │   │       └── Catalan, Closed
+│   │   │       │   │           └── Catalan, Closed
+│   │   │       │   ├── Catalan, Open, 5.Nf3
+│   │   │       │   │   └── Catalan, Open, Classical line
+│   │   │       │   └── Catalan, Open, 5.Qa4
+│   │   │       │       └── Catalan, Open
+│   │   │       ├── Nimzo-Indian
+│   │   │       │   ├── Nimzo-Indian, 4.e3
+│   │   │       │   │   ├── Nimzo-Indian
+│   │   │       │   │   │   └── Nimzo-Indian, 4.e3 c5, 5.Ne2 (Rubinstein)
+│   │   │       │   │   ├── Nimzo-Indian
+│   │   │       │   │   │   ├── Nimzo-Indian, 4.e3 O-O 5.Bd3
+│   │   │       │   │   │   │   └── Nimzo-Indian, 4.e3 O-O 5.Bd3 d5
+│   │   │       │   │   │   │       └── Nimzo-Indian, 4.e3, Botvinnik System
+│   │   │       │   │   │   └── Nimzo-Indian, 4.e3 O-O 5.Nf3, without ...d5
+│   │   │       │   │   │       └── Nimzo-Indian, 4.e3
+│   │   │       │   │   │           ├── Nimzo-Indian, 4.e3
+│   │   │       │   │   │           │   ├── Nimzo-Indian, 4.e3, Gligoric System
+│   │   │       │   │   │           │   │   └── Nimzo-Indian, 4.e3, Gligoric System, Bronstein Variation
+│   │   │       │   │   │           │   └── Nimzo-Indian, 4.e3, Main line with 7...Nc6
+│   │   │       │   │   │           │       ├── Nimzo-Indian, 4.e3, Main line with 8...Bxc3
+│   │   │       │   │   │           │       │   └── Nimzo-Indian, 4.e3, Main line
+│   │   │       │   │   │           │       └── Nimzo-Indian, 4.e3, Main line with 8...dc and 9...cd
+│   │   │       │   │   │           └── Nimzo-Indian, 4.e3, Main line with ...b6
+│   │   │       │   │   └── Nimzo-Indian, Fischer Variation
+│   │   │       │   │       └── Nimzo-Indian, Fischer Variation, 5.Ne2
+│   │   │       │   │           └── Nimzo-Indian, 4.e3, Bronstein (Byrne) Variation
+│   │   │       │   ├── Nimzo-Indian, Classical
+│   │   │       │   │   ├── Nimzo-Indian, Classical
+│   │   │       │   │   ├── Nimzo-Indian, Classical, 4...c5
+│   │   │       │   │   │   └── Nimzo-Indian, Classical, Pirc Variation
+│   │   │       │   │   └── Nimzo-Indian, Classical, Noa Variation
+│   │   │       │   │       ├── Nimzo-Indian, Classical
+│   │   │       │   │       │   └── Nimzo-Indian, Classical
+│   │   │       │   │       └── Nimzo-Indian, Classical, Noa Variation, 5.cd ed
+│   │   │       │   ├── Nimzo-Indian, Leningrad
+│   │   │       │   │   └── Nimzo-Indian, Leningrad, Main line
+│   │   │       │   ├── Nimzo-Indian, Samisch
+│   │   │       │   │   ├── Nimzo-Indian, Samisch
+│   │   │       │   │   ├── Nimzo-Indian, Samisch
+│   │   │       │   │   └── Nimzo-Indian, Samisch Variation
+│   │   │       │   │       └── Nimzo-Indian, Samisch Variation
+│   │   │       │   │           └── Nimzo-Indian, Samisch
+│   │   │       │   ├── Nimzo-Indian, Spielmann Variation
+│   │   │       │   │   └── Nimzo-Indian, Spielmann
+│   │   │       │   └── Nimzo-Indian, Three Knights
+│   │   │       └── Queen's Pawn Game
+│   │   │           ├── Bogo-Indian Defense
+│   │   │           └── Queen's Indian
+│   │   │               ├── Queen's Indian
+│   │   │               │   ├── Queen's Indian
+│   │   │               │   │   └── Queen's Indian, Old Main line, 7.Nc3
+│   │   │               │   │       └── Queen's Indian, Old Main line, 9.Qxc3
+│   │   │               │   └── Queen's Indian
+│   │   │               ├── Queen's Indian
+│   │   │               └── Queen's Indian, 4.Nc3, Main line
+│   │   └── Queen's Pawn Game
+│   │       ├── King's Indian
+│   │       │   └── King's Indian, Fianchetto without c4
+│   │       └── Queen's Indian
+│   └── Queen's Pawn Game (with ...d6)
+│       └── Modern Defense, Averbakh System
+├── Reti Opening
+│   ├── Reti Opening
+│   │   ├── King's Indian Attack
+│   │   │   └── King's Indian Attack
+│   │   └── Reti Opening
+│   └── Reti Opening
+└── Uncommon King's Pawn Opening
+    ├── Alekhine's Defense
+    │   └── Alekhine's Defense
+    │       └── Alekhine's Defense, Modern
+    │           └── Alekhine's Defense, Modern
+    ├── Caro-Kann
+    │   ├── Caro-Kann Defense
+    │   │   ├── Caro-Kann
+    │   │   │   ├── Caro-Kann, Bronstein-Larsen Variation
+    │   │   │   ├── Caro-Kann, Classical
+    │   │   │   │   └── Caro-Kann, Classical
+    │   │   │   └── Caro-Kann, Steinitz Variation
+    │   │   └── Caro-Kann, Exchange
+    │   │       └── Caro-Kann, Panov-Botvinnik Attack
+    │   └── Caro-Kann, Two Knights, 3...Bg4
+    ├── French Defense
+    │   ├── French
+    │   │   ├── French
+    │   │   │   ├── French
+    │   │   │   │   └── French, Classical
+    │   │   │   └── French, McCutcheon
+    │   │   └── French, Winawer
+    │   │       └── French, Winawer
+    │   │           └── French, Winawer, Advance
+    │   │               └── French, Winawer
+    │   │                   └── French, Winawer, Advance
+    │   ├── French, Advance
+    │   ├── French, Exchange
+    │   └── French, Tarrasch
+    │       ├── French, Tarrasch
+    │       │   └── French, Tarrasch, Open, 4.ed ed
+    │       │       └── French, Tarrasch, Open Variation, Main line
+    │       ├── French, Tarrasch
+    │       │   └── French, Tarrasch
+    │       └── French, Tarrasch, Guimard Main line
+    ├── King's Pawn Game
+    │   ├── Bishop's Opening
+    │   │   └── Bishop's Opening
+    │   ├── Center Game
+    │   │   └── Center Game
+    │   ├── King's Gambit Declined
+    │   │   ├── King's Gambit Accepted
+    │   │   │   └── King's Gambit Accepted
+    │   │   │       ├── King's Gambit Accepted
+    │   │   │       ├── King's Gambit Accepted
+    │   │   │       ├── King's Gambit Accepted
+    │   │   │       ├── King's Gambit Accepted, Abbazia Defense
+    │   │   │       └── King's Gambit Accepted, Cunningham
+    │   │   └── King's Gambit Declined, Falkbeer Counter Gambit
+    │   │       └── King's Gambit Declined, Falkbeer Counter Gambit
+    │   ├── King's Knight Opening
+    │   │   ├── King's Pawn Game
+    │   │   │   ├── Giuoco Piano
+    │   │   │   │   ├── Evans Gambit
+    │   │   │   │   ├── Evans Gambit
+    │   │   │   │   └── Giuoco Piano
+    │   │   │   │       └── Giuoco Piano
+    │   │   │   ├── Ruy Lopez
+    │   │   │   │   ├── Ruy Lopez
+    │   │   │   │   │   ├── Ruy Lopez
+    │   │   │   │   │   │   ├── Ruy Lopez, Modern Steinitz Defense
+    │   │   │   │   │   │   │   └── Ruy Lopez, Modern Steinitz Defense
+    │   │   │   │   │   │   │       └── Ruy Lopez, Modern Steinitz Defense, Fianchetto Variation
+    │   │   │   │   │   │   ├── Ruy Lopez, Modern Steinitz Defense
+    │   │   │   │   │   │   └── Ruy Lopez, Modern Steinitz Defense, 5.O-O
+    │   │   │   │   │   └── Ruy Lopez
+    │   │   │   │   │       └── Ruy Lopez
+    │   │   │   │   │           ├── Ruy Lopez, Closed
+    │   │   │   │   │           │   ├── Ruy Lopez
+    │   │   │   │   │           │   ├── Ruy Lopez
+    │   │   │   │   │           │   │   ├── Ruy Lopez, Closed
+    │   │   │   │   │           │   │   │   ├── Ruy Lopez, Closed
+    │   │   │   │   │           │   │   │   │   ├── Ruy Lopez, Closed
+    │   │   │   │   │           │   │   │   │   │   └── Ruy Lopez, Closed, Chigorin
+    │   │   │   │   │           │   │   │   │   │       ├── Ruy Lopez, Closed, Chigorin
+    │   │   │   │   │           │   │   │   │   │       └── Ruy Lopez, Closed, Chigorin, 12...cd
+    │   │   │   │   │           │   │   │   │   ├── Ruy Lopez, Closed, Breyer Defense
+    │   │   │   │   │           │   │   │   │   │   └── Ruy Lopez, Closed, Breyer
+    │   │   │   │   │           │   │   │   │   └── Ruy Lopez, Closed, Smyslov Defense
+    │   │   │   │   │           │   │   │   └── Ruy Lopez, Closed
+    │   │   │   │   │           │   │   └── Ruy Lopez, Marshall
+    │   │   │   │   │           │   ├── Ruy Lopez, Exchange Variation Doubly Deferred (DERLD)
+    │   │   │   │   │           │   └── Ruy Lopez, Worrall Attack
+    │   │   │   │   │           ├── Ruy Lopez, Open
+    │   │   │   │   │           │   └── Ruy Lopez, Open
+    │   │   │   │   │           │       ├── Ruy Lopez, Open
+    │   │   │   │   │           │       └── Ruy Lopez, Open, Howell Attack
+    │   │   │   │   │           └── Ruy Lopez, Steinitz Defense Deferred
+    │   │   │   │   ├── Ruy Lopez, Berlin Defense
+    │   │   │   │   │   ├── Ruy Lopez
+    │   │   │   │   │   └── Ruy Lopez
+    │   │   │   │   ├── Ruy Lopez, Bird's Defense
+    │   │   │   │   ├── Ruy Lopez, Classical
+    │   │   │   │   ├── Ruy Lopez, Exchange
+    │   │   │   │   │   └── Ruy Lopez, Exchange, Gligoric Variation
+    │   │   │   │   ├── Ruy Lopez, Old Steinitz Defense
+    │   │   │   │   └── Ruy Lopez, Schliemann Defense
+    │   │   │   ├── Scotch Game
+    │   │   │   ├── Three Knights
+    │   │   │   │   └── Four Knights
+    │   │   │   │       └── Four Knights
+    │   │   │   │           └── Four Knights
+    │   │   │   └── Two Knights Defense
+    │   │   │       ├── Two Knights
+    │   │   │       │   └── Two Knights
+    │   │   │       │       └── Two Knights
+    │   │   │       └── Two Knights
+    │   │   ├── Petrov Defense
+    │   │   │   └── Petrov, Modern Attack
+    │   │   └── Philidor Defense
+    │   └── Vienna
+    │       └── Vienna
+    │           ├── Vienna Gambit
+    │           ├── Vienna Game
+    │           └── Vienna Game
+    ├── Pirc
+    │   ├── Pirc, Austrian Attack
+    │   └── Pirc, Classical
+    ├── Robatsch
+    ├── Scandinavian
+    └── Sicilian
+        ├── Sicilian
+        │   ├── Sicilian
+        │   │   ├── Sicilian
+        │   │   ├── Sicilian
+        │   │   │   ├── Sicilian
+        │   │   │   │   ├── Sicilian
+        │   │   │   │   ├── Sicilian, Dragon Variation
+        │   │   │   │   │   ├── Sicilian, Dragon
+        │   │   │   │   │   │   ├── Sicilian, Dragon, Classical
+        │   │   │   │   │   │   │   └── Sicilian, Dragon, Classical
+        │   │   │   │   │   │   └── Sicilian, Dragon, Yugoslav Attack
+        │   │   │   │   │   │       └── Sicilian, Dragon, Yugoslav Attack
+        │   │   │   │   │   │           └── Sicilian, Dragon, Yugoslav Attack
+        │   │   │   │   │   │               └── Sicilian, Dragon, Yugoslav Attack, 10.castle long
+        │   │   │   │   │   │                   └── Sicilian, Dragon, Yugoslav Attack, 12.h4
+        │   │   │   │   │   └── Sicilian, Dragon, Levenfish Variation
+        │   │   │   │   ├── Sicilian, Najdorf
+        │   │   │   │   │   ├── Sicilian, Najdorf
+        │   │   │   │   │   │   └── Sicilian, Najdorf, 6...e6
+        │   │   │   │   │   │       └── Sicilian, Najdorf
+        │   │   │   │   │   │           ├── Sicilian, Najdorf
+        │   │   │   │   │   │           └── Sicilian, Najdorf
+        │   │   │   │   │   │               └── Sicilian, Najdorf, 7...Be7 Main line
+        │   │   │   │   │   ├── Sicilian, Najdorf, 6.f4
+        │   │   │   │   │   ├── Sicilian, Najdorf, Opocensky Variation
+        │   │   │   │   │   └── Sicilian, Najdorf, Zagreb (Fianchetto) Variation
+        │   │   │   │   ├── Sicilian, Richter-Rauzer
+        │   │   │   │   │   ├── Sicilian, Richter-Rauzer
+        │   │   │   │   │   │   └── Sicilian, Richter-Rauzer Attack
+        │   │   │   │   │   │       ├── Sicilian, Richter-Rauzer Attack
+        │   │   │   │   │   │       │   └── Sicilian, Richter-Rauzer Attack, 7...Be7 Defense, 9...Nxd4
+        │   │   │   │   │   │       └── Sicilian, Richter-Rauzer Attack, 7...a6
+        │   │   │   │   │   │           └── Sicilian, Richter-Rauzer Attack, 7...a6 Defense, 8...Bd7
+        │   │   │   │   │   │               └── Sicilian, Richter-Rauzer Attack, 7...a6 Defense, 9...Be7
+        │   │   │   │   │   │                   └── Sicilian, Richter-Rauzer Attack, 7...a6 Defense, 11.Bxf6
+        │   │   │   │   │   └── Sicilian, Richter-Rauzer, Larsen Variation, 7.Qd2
+        │   │   │   │   └── Sicilian, Scheveningen
+        │   │   │   │       ├── Sicilian
+        │   │   │   │       │   └── Sicilian, Scheveningen
+        │   │   │   │       │       └── Sicilian, Scheveningen, Classical
+        │   │   │   │       ├── Sicilian, Fischer-Sozin Attack
+        │   │   │   │       │   ├── Sicilian, Fischer-Sozin Attack
+        │   │   │   │       │   │   └── Sicilian
+        │   │   │   │       │   └── Sicilian, Fischer-Sozin with ...a6 and ...b5
+        │   │   │   │       ├── Sicilian, Scheveningen
+        │   │   │   │       └── Sicilian, Scheveningen, Keres Attack
+        │   │   │   └── Sicilian, Prins Variation, Venice Attack
+        │   │   └── Sicilian, Canal-Sokolsky (Rossolimo) Attack
+        │   │       └── Sicilian, Canal-Sokolsky (Rossolimo) Attack
+        │   ├── Sicilian
+        │   │   ├── Sicilian
+        │   │   │   └── Sicilian, Taimanov
+        │   │   │       ├── Sicilian, Taimanov (Bastrikov) Variation
+        │   │   │       │   └── Sicilian, Taimanov Variation
+        │   │   │       │       └── Sicilian, Taimanov Variation
+        │   │   │       └── Sicilian, Taimanov Variation
+        │   │   └── Sicilian, Kan
+        │   │       ├── Sicilian, Kan
+        │   │       └── Sicilian, Kan, 5.Nc3
+        │   ├── Sicilian
+        │   │   ├── Sicilian
+        │   │   │   ├── Sicilian
+        │   │   │   ├── Sicilian
+        │   │   │   │   └── Sicilian, Boleslavsky Variation, 7.Nb3
+        │   │   │   ├── Sicilian, Accelerated Fianchetto
+        │   │   │   │   └── Sicilian, Accelerated Fianchetto
+        │   │   │   │       └── Sicilian, Accelerated Fianchetto, Maroczy Bind, 6.Be3
+        │   │   │   │           └── Sicilian, Accelerated Fianchetto, Breyer Variation
+        │   │   │   ├── Sicilian, Accelerated Fianchetto
+        │   │   │   └── Sicilian, Accelerated Fianchetto, Modern Variation with Bc4
+        │   │   └── Sicilian, Rossolimo Variation
+        │   ├── Sicilian, Nimzovich-Rubinstein
+        │   └── Sicilian, O'Kelly Variation
+        ├── Sicilian, 2.f4 and 2.d4
+        ├── Sicilian, Alapin
+        └── Sicilian, Closed
+            └── Sicilian, Closed
+                └── Sicilian, Closed
+                    └── Sicilian, Closed, 6.Be3
