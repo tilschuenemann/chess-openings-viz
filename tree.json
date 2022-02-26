@@ -1,4 +1,4 @@
-{
+[{
     "Root": {
         "children": [{
             "A01": {
@@ -4278,6 +4278,11 @@
                 }
             }
         }],
-        "data": null
+        "data": {
+            "id": "None",
+            "path": "None",
+            "name": "Root"
+
+        }
     }
-}
+}]
