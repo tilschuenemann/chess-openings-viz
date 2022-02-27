@@ -33,6 +33,8 @@ fetch("../treeData.json")
     var nodes = tree.nodes(root),
         links = tree.links(nodes);
     
+    //nodes.forEach(function(d) { d.y = d.hm * 35; });
+    
     console.log(nodes)
     var line = d3.link(d3.curveBumpY)
         .x(function(d) { return d.x; })

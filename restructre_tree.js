@@ -1,4 +1,4 @@
-fetch("../tree.json")
+fetch("../tree_halfmoves.json")
 .then(response => {
    return response.json();
 })
@@ -11,12 +11,13 @@ fetch("../tree.json")
             id: item[Object.keys(item)[0]].data.id,
             path: item[Object.keys(item)[0]].data.path,
             name: item[Object.keys(item)[0]].data.name,
+            hm: item[Object.keys(item)[0]].data.hm,
             children:  ("children" in item[Object.keys(item)[0]] ? item[Object.keys(item)[0]].children.map(createDS) : [])
         }
     })
 
     console.log(data_new)
-            /*
+    /*
             function download(content, fileName, contentType) {
             var a = document.createElement("a");
             var file = new Blob([content], {type: contentType});

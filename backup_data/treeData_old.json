@@ -2,58 +2,48 @@
     "id": "None",
     "path": "None",
     "name": "Root",
-    "hm": 0,
     "children": [{
         "id": "A01",
         "path": "./img/A01.svg",
         "name": "Nimzovich-Larsen Attack",
-        "hm": 1,
         "children": []
     }, {
         "id": "A02",
         "path": "./img/A02.svg",
         "name": "Bird's Opening",
-        "hm": 1,
         "children": [{
             "id": "A03",
             "path": "./img/A03.svg",
             "name": "Bird's Opening",
-            "hm": 2,
             "children": []
         }]
     }, {
         "id": "A04",
         "path": "./img/A04.svg",
         "name": "Reti Opening",
-        "hm": 1,
         "children": [{
             "id": "A05",
             "path": "./img/A05.svg",
             "name": "Reti Opening",
-            "hm": 2,
             "children": []
         }, {
             "id": "A06",
             "path": "./img/A06.svg",
             "name": "Reti Opening",
-            "hm": 2,
             "children": [{
                 "id": "A07",
                 "path": "./img/A07.svg",
                 "name": "King's Indian Attack",
-                "hm": 3,
                 "children": [{
                     "id": "A08",
                     "path": "./img/A08.svg",
                     "name": "King's Indian Attack",
-                    "hm": 5,
                     "children": []
                 }]
             }, {
                 "id": "A09",
                 "path": "./img/A09.svg",
                 "name": "Reti Opening",
-                "hm": 3,
                 "children": []
             }]
         }]
@@ -61,56 +51,46 @@
         "id": "A10",
         "path": "./img/A10.svg",
         "name": "English",
-        "hm": 1,
         "children": [{
             "id": "A11",
             "path": "./img/A11.svg",
             "name": "English, Caro-Kann Defensive System",
-            "hm": 2,
             "children": [{
                 "id": "A12",
                 "path": "./img/A12.svg",
                 "name": "English with b3",
-                "hm": 5,
                 "children": []
             }]
         }, {
             "id": "A13",
             "path": "./img/A13.svg",
             "name": "English",
-            "hm": 2,
             "children": [{
                 "id": "A14",
                 "path": "./img/A14.svg",
                 "name": "English",
-                "hm": 9,
                 "children": []
             }]
         }, {
             "id": "A15",
             "path": "./img/A15.svg",
             "name": "English",
-            "hm": 2,
             "children": [{
                 "id": "A16",
                 "path": "./img/A16.svg",
                 "name": "English",
-                "hm": 3,
                 "children": [{
                     "id": "A17",
                     "path": "./img/A17.svg",
                     "name": "English",
-                    "hm": 4,
                     "children": [{
                         "id": "A18",
                         "path": "./img/A18.svg",
                         "name": "English, Mikenas-Carls",
-                        "hm": 5,
                         "children": [{
                             "id": "A19",
                             "path": "./img/A19.svg",
                             "name": "English, Mikenas-Carls, Sicilian Variation",
-                            "hm": 6,
                             "children": []
                         }]
                     }]
@@ -120,56 +100,46 @@
             "id": "A20",
             "path": "./img/A20.svg",
             "name": "English",
-            "hm": 2,
             "children": [{
                 "id": "A21",
                 "path": "./img/A21.svg",
                 "name": "English",
-                "hm": 3,
                 "children": [{
                     "id": "A22",
                     "path": "./img/A22.svg",
                     "name": "English",
-                    "hm": 4,
                     "children": [{
                         "id": "A23",
                         "path": "./img/A23.svg",
                         "name": "English, Bremen System, Keres Variation",
-                        "hm": 6,
                         "children": []
                     }, {
                         "id": "A24",
                         "path": "./img/A24.svg",
                         "name": "English, Bremen System with ...g6",
-                        "hm": 6,
                         "children": []
                     }]
                 }, {
                     "id": "A25",
                     "path": "./img/A25.svg",
                     "name": "English",
-                    "hm": 4,
                     "children": [{
                         "id": "A26",
                         "path": "./img/A26.svg",
                         "name": "English",
-                        "hm": 10,
                         "children": []
                     }, {
                         "id": "A27",
                         "path": "./img/A27.svg",
                         "name": "English, Three Knights System",
-                        "hm": 5,
                         "children": [{
                             "id": "A28",
                             "path": "./img/A28.svg",
                             "name": "English",
-                            "hm": 6,
                             "children": [{
                                 "id": "A29",
                                 "path": "./img/A29.svg",
                                 "name": "English, Four Knights, Kingside Fianchetto",
-                                "hm": 7,
                                 "children": []
                             }]
                         }]
@@ -180,22 +150,18 @@
             "id": "A30",
             "path": "./img/A30.svg",
             "name": "English, Symmetrical",
-            "hm": 2,
             "children": [{
                 "id": "A31",
                 "path": "./img/A31.svg",
                 "name": "English, Symmetrical, Benoni Formation",
-                "hm": 5,
                 "children": [{
                     "id": "A32",
                     "path": "./img/A32.svg",
                     "name": "English, Symmetrical Variation",
-                    "hm": 8,
                     "children": [{
                         "id": "A33",
                         "path": "./img/A33.svg",
                         "name": "English, Symmetrical",
-                        "hm": 10,
                         "children": []
                     }]
                 }]
@@ -203,32 +169,26 @@
                 "id": "A34",
                 "path": "./img/A34.svg",
                 "name": "English, Symmetrical",
-                "hm": 3,
                 "children": [{
                     "id": "A35",
                     "path": "./img/A35.svg",
                     "name": "English, Symmetrical",
-                    "hm": 4,
                     "children": [{
                         "id": "A36",
                         "path": "./img/A36.svg",
                         "name": "English",
-                        "hm": 5,
                         "children": [{
                             "id": "A37",
                             "path": "./img/A37.svg",
                             "name": "English, Symmetrical",
-                            "hm": 9,
                             "children": [{
                                 "id": "A38",
                                 "path": "./img/A38.svg",
                                 "name": "English, Symmetrical",
-                                "hm": 10,
                                 "children": [{
                                     "id": "A39",
                                     "path": "./img/A39.svg",
                                     "name": "English, Symmetrical, Main line with d4",
-                                    "hm": 13,
                                     "children": []
                                 }]
                             }]
@@ -241,57 +201,47 @@
         "id": "A40",
         "path": "./img/A40.svg",
         "name": "Queen's Pawn Game",
-        "hm": 1,
         "children": [{
             "id": "A41",
             "path": "./img/A41.svg",
             "name": "Queen's Pawn Game (with ...d6)",
-            "hm": 2,
             "children": [{
                 "id": "A42",
                 "path": "./img/A42.svg",
                 "name": "Modern Defense, Averbakh System",
-                "hm": 7,
                 "children": []
             }]
         }, {
             "id": "A43",
             "path": "./img/A43.svg",
             "name": "Old Benoni",
-            "hm": 2,
             "children": [{
                 "id": "A44",
                 "path": "./img/A44.svg",
                 "name": "Old Benoni Defense",
-                "hm": 4,
                 "children": []
             }]
         }, {
             "id": "A45",
             "path": "./img/A45.svg",
             "name": "Queen's Pawn Game",
-            "hm": 2,
             "children": [{
                 "id": "A46",
                 "path": "./img/A46.svg",
                 "name": "Queen's Pawn Game",
-                "hm": 3,
                 "children": [{
                     "id": "A47",
                     "path": "./img/A47.svg",
                     "name": "Queen's Indian",
-                    "hm": 4,
                     "children": []
                 }, {
                     "id": "A48",
                     "path": "./img/A48.svg",
                     "name": "King's Indian",
-                    "hm": 4,
                     "children": [{
                         "id": "A49",
                         "path": "./img/A49.svg",
                         "name": "King's Indian, Fianchetto without c4",
-                        "hm": 5,
                         "children": []
                     }]
                 }]
@@ -299,34 +249,28 @@
                 "id": "A50",
                 "path": "./img/A50.svg",
                 "name": "Queen's Pawn Game",
-                "hm": 3,
                 "children": [{
                     "id": "A51",
                     "path": "./img/A51.svg",
                     "name": "Budapest Gambit",
-                    "hm": 4,
                     "children": [{
                         "id": "A52",
                         "path": "./img/A52.svg",
                         "name": "Budapest Gambit",
-                        "hm": 6,
                         "children": []
                     }]
                 }, {
                     "id": "A53",
                     "path": "./img/A53.svg",
                     "name": "Old Indian",
-                    "hm": 4,
                     "children": [{
                         "id": "A54",
                         "path": "./img/A54.svg",
                         "name": "Old Indian, Ukrainian Variation, 4.Nf3",
-                        "hm": 7,
                         "children": [{
                             "id": "A55",
                             "path": "./img/A55.svg",
                             "name": "Old Indian, Main line",
-                            "hm": 9,
                             "children": []
                         }]
                     }]
@@ -334,22 +278,18 @@
                     "id": "A56",
                     "path": "./img/A56.svg",
                     "name": "Benoni Defense",
-                    "hm": 4,
                     "children": [{
                         "id": "A57",
                         "path": "./img/A57.svg",
                         "name": "Benko Gambit",
-                        "hm": 6,
                         "children": [{
                             "id": "A58",
                             "path": "./img/A58.svg",
                             "name": "Benko Gambit",
-                            "hm": 9,
                             "children": [{
                                 "id": "A59",
                                 "path": "./img/A59.svg",
                                 "name": "Benko Gambit",
-                                "hm": 13,
                                 "children": []
                             }]
                         }]
@@ -357,28 +297,23 @@
                         "id": "A60",
                         "path": "./img/A60.svg",
                         "name": "Benoni Defense",
-                        "hm": 6,
                         "children": [{
                             "id": "A61",
                             "path": "./img/A61.svg",
                             "name": "Benoni",
-                            "hm": 12,
                             "children": [{
                                 "id": "A62",
                                 "path": "./img/A62.svg",
                                 "name": "Benoni, Fianchetto Variation",
-                                "hm": 16,
                                 "children": [{
                                     "id": "A63",
                                     "path": "./img/A63.svg",
                                     "name": "Benoni, Fianchetto, 9...Nbd7",
-                                    "hm": 16,
                                     "children": []
                                 }, {
                                     "id": "A64",
                                     "path": "./img/A64.svg",
                                     "name": "Benoni, Fianchetto, 11...Re8",
-                                    "hm": 16,
                                     "children": []
                                 }]
                             }]
@@ -386,28 +321,23 @@
                             "id": "A65",
                             "path": "./img/A65.svg",
                             "name": "Benoni, 6.e4",
-                            "hm": 11,
                             "children": [{
                                 "id": "A66",
                                 "path": "./img/A66.svg",
                                 "name": "Benoni",
-                                "hm": 13,
                                 "children": [{
                                     "id": "A67",
                                     "path": "./img/A67.svg",
                                     "name": "Benoni, Taimanov Variation",
-                                    "hm": 15,
                                     "children": []
                                 }, {
                                     "id": "A68",
                                     "path": "./img/A68.svg",
                                     "name": "Benoni, Four Pawns Attack",
-                                    "hm": 16,
                                     "children": [{
                                         "id": "A69",
                                         "path": "./img/A69.svg",
                                         "name": "Benoni, Four Pawns Attack, Main line",
-                                        "hm": 16,
                                         "children": []
                                     }]
                                 }]
@@ -415,59 +345,49 @@
                                 "id": "A70",
                                 "path": "./img/A70.svg",
                                 "name": "Benoni, Classical with 7.Nf3",
-                                "hm": 13,
                                 "children": [{
                                     "id": "A71",
                                     "path": "./img/A71.svg",
                                     "name": "Benoni, Classical, 8.Bg5",
-                                    "hm": 15,
                                     "children": []
                                 }, {
                                     "id": "A72",
                                     "path": "./img/A72.svg",
                                     "name": "Benoni, Classical without 9.O-O",
-                                    "hm": 16,
                                     "children": [{
                                         "id": "A73",
                                         "path": "./img/A73.svg",
                                         "name": "Benoni, Classical, 9.O-O",
-                                        "hm": 16,
                                         "children": []
                                     }, {
                                         "id": "A74",
                                         "path": "./img/A74.svg",
                                         "name": "Benoni, Classical, 9...a6, 10.a4",
-                                        "hm": 16,
                                         "children": []
                                     }, {
                                         "id": "A75",
                                         "path": "./img/A75.svg",
                                         "name": "Benoni, Classical with ...a6 and 10...Bg4",
-                                        "hm": 16,
                                         "children": []
                                     }, {
                                         "id": "A76",
                                         "path": "./img/A76.svg",
                                         "name": "Benoni, Classical, 9...Re8",
-                                        "hm": 16,
                                         "children": []
                                     }, {
                                         "id": "A77",
                                         "path": "./img/A77.svg",
                                         "name": "Benoni, Classical, 9...Re8, 10.Nd2",
-                                        "hm": 16,
                                         "children": []
                                     }, {
                                         "id": "A78",
                                         "path": "./img/A78.svg",
                                         "name": "Benoni, Classical with ...Re8 and ...Na6",
-                                        "hm": 16,
                                         "children": []
                                     }, {
                                         "id": "A79",
                                         "path": "./img/A79.svg",
                                         "name": "Benoni, Classical, 11.f3",
-                                        "hm": 16,
                                         "children": []
                                     }]
                                 }]
@@ -478,56 +398,46 @@
                     "id": "E00",
                     "path": "./img/E00.svg",
                     "name": "Queen's Pawn Game",
-                    "hm": 4,
                     "children": [{
                         "id": "E01",
                         "path": "./img/E01.svg",
                         "name": "Catalan, Closed",
-                        "hm": 7,
                         "children": [{
                             "id": "E02",
                             "path": "./img/E02.svg",
                             "name": "Catalan, Open, 5.Qa4",
-                            "hm": 9,
                             "children": [{
                                 "id": "E03",
                                 "path": "./img/E03.svg",
                                 "name": "Catalan, Open",
-                                "hm": 11,
                                 "children": []
                             }]
                         }, {
                             "id": "E04",
                             "path": "./img/E04.svg",
                             "name": "Catalan, Open, 5.Nf3",
-                            "hm": 9,
                             "children": [{
                                 "id": "E05",
                                 "path": "./img/E05.svg",
                                 "name": "Catalan, Open, Classical line",
-                                "hm": 10,
                                 "children": []
                             }]
                         }, {
                             "id": "E06",
                             "path": "./img/E06.svg",
                             "name": "Catalan, Closed, 5.Nf3",
-                            "hm": 9,
                             "children": [{
                                 "id": "E07",
                                 "path": "./img/E07.svg",
                                 "name": "Catalan, Closed",
-                                "hm": 12,
                                 "children": [{
                                     "id": "E08",
                                     "path": "./img/E08.svg",
                                     "name": "Catalan, Closed",
-                                    "hm": 13,
                                     "children": [{
                                         "id": "E09",
                                         "path": "./img/E09.svg",
                                         "name": "Catalan, Closed",
-                                        "hm": 15,
                                         "children": []
                                     }]
                                 }]
@@ -537,56 +447,46 @@
                         "id": "E10",
                         "path": "./img/E10.svg",
                         "name": "Queen's Pawn Game",
-                        "hm": 5,
                         "children": [{
                             "id": "E11",
                             "path": "./img/E11.svg",
                             "name": "Bogo-Indian Defense",
-                            "hm": 6,
                             "children": []
                         }, {
                             "id": "E12",
                             "path": "./img/E12.svg",
                             "name": "Queen's Indian",
-                            "hm": 6,
                             "children": [{
                                 "id": "E13",
                                 "path": "./img/E13.svg",
                                 "name": "Queen's Indian, 4.Nc3, Main line",
-                                "hm": 12,
                                 "children": []
                             }, {
                                 "id": "E14",
                                 "path": "./img/E14.svg",
                                 "name": "Queen's Indian",
-                                "hm": 7,
                                 "children": []
                             }, {
                                 "id": "E15",
                                 "path": "./img/E15.svg",
                                 "name": "Queen's Indian",
-                                "hm": 7,
                                 "children": [{
                                     "id": "E16",
                                     "path": "./img/E16.svg",
                                     "name": "Queen's Indian",
-                                    "hm": 10,
                                     "children": []
                                 }, {
                                     "id": "E17",
                                     "path": "./img/E17.svg",
                                     "name": "Queen's Indian",
-                                    "hm": 10,
                                     "children": [{
                                         "id": "E18",
                                         "path": "./img/E18.svg",
                                         "name": "Queen's Indian, Old Main line, 7.Nc3",
-                                        "hm": 13,
                                         "children": [{
                                             "id": "E19",
                                             "path": "./img/E19.svg",
                                             "name": "Queen's Indian, Old Main line, 9.Qxc3",
-                                            "hm": 16,
                                             "children": []
                                         }]
                                     }]
@@ -597,57 +497,47 @@
                         "id": "E20",
                         "path": "./img/E20.svg",
                         "name": "Nimzo-Indian",
-                        "hm": 6,
                         "children": [{
                             "id": "E21",
                             "path": "./img/E21.svg",
                             "name": "Nimzo-Indian, Three Knights",
-                            "hm": 7,
                             "children": []
                         }, {
                             "id": "E22",
                             "path": "./img/E22.svg",
                             "name": "Nimzo-Indian, Spielmann Variation",
-                            "hm": 7,
                             "children": [{
                                 "id": "E23",
                                 "path": "./img/E23.svg",
                                 "name": "Nimzo-Indian, Spielmann",
-                                "hm": 10,
                                 "children": []
                             }]
                         }, {
                             "id": "E24",
                             "path": "./img/E24.svg",
                             "name": "Nimzo-Indian, Samisch",
-                            "hm": 9,
                             "children": [{
                                 "id": "E25",
                                 "path": "./img/E25.svg",
                                 "name": "Nimzo-Indian, Samisch",
-                                "hm": 13,
                                 "children": []
                             }, {
                                 "id": "E26",
                                 "path": "./img/E26.svg",
                                 "name": "Nimzo-Indian, Samisch",
-                                "hm": 11,
                                 "children": []
                             }, {
                                 "id": "E27",
                                 "path": "./img/E27.svg",
                                 "name": "Nimzo-Indian, Samisch Variation",
-                                "hm": 10,
                                 "children": [{
                                     "id": "E28",
                                     "path": "./img/E28.svg",
                                     "name": "Nimzo-Indian, Samisch Variation",
-                                    "hm": 11,
                                     "children": [{
                                         "id": "E29",
                                         "path": "./img/E29.svg",
                                         "name": "Nimzo-Indian, Samisch",
-                                        "hm": 14,
                                         "children": []
                                     }]
                                 }]
@@ -656,46 +546,38 @@
                             "id": "E30",
                             "path": "./img/E30.svg",
                             "name": "Nimzo-Indian, Leningrad",
-                            "hm": 7,
                             "children": [{
                                 "id": "E31",
                                 "path": "./img/E31.svg",
                                 "name": "Nimzo-Indian, Leningrad, Main line",
-                                "hm": 12,
                                 "children": []
                             }]
                         }, {
                             "id": "E32",
                             "path": "./img/E32.svg",
                             "name": "Nimzo-Indian, Classical",
-                            "hm": 7,
                             "children": [{
                                 "id": "E33",
                                 "path": "./img/E33.svg",
                                 "name": "Nimzo-Indian, Classical",
-                                "hm": 8,
                                 "children": []
                             }, {
                                 "id": "E34",
                                 "path": "./img/E34.svg",
                                 "name": "Nimzo-Indian, Classical, Noa Variation",
-                                "hm": 8,
                                 "children": [{
                                     "id": "E35",
                                     "path": "./img/E35.svg",
                                     "name": "Nimzo-Indian, Classical, Noa Variation, 5.cd ed",
-                                    "hm": 10,
                                     "children": []
                                 }, {
                                     "id": "E36",
                                     "path": "./img/E36.svg",
                                     "name": "Nimzo-Indian, Classical",
-                                    "hm": 9,
                                     "children": [{
                                         "id": "E37",
                                         "path": "./img/E37.svg",
                                         "name": "Nimzo-Indian, Classical",
-                                        "hm": 13,
                                         "children": []
                                     }]
                                 }]
@@ -703,12 +585,10 @@
                                 "id": "E38",
                                 "path": "./img/E38.svg",
                                 "name": "Nimzo-Indian, Classical, 4...c5",
-                                "hm": 8,
                                 "children": [{
                                     "id": "E39",
                                     "path": "./img/E39.svg",
                                     "name": "Nimzo-Indian, Classical, Pirc Variation",
-                                    "hm": 10,
                                     "children": []
                                 }]
                             }]
@@ -716,34 +596,28 @@
                             "id": "E40",
                             "path": "./img/E40.svg",
                             "name": "Nimzo-Indian, 4.e3",
-                            "hm": 7,
                             "children": [{
                                 "id": "E41",
                                 "path": "./img/E41.svg",
                                 "name": "Nimzo-Indian",
-                                "hm": 8,
                                 "children": [{
                                     "id": "E42",
                                     "path": "./img/E42.svg",
                                     "name": "Nimzo-Indian, 4.e3 c5, 5.Ne2 (Rubinstein)",
-                                    "hm": 9,
                                     "children": []
                                 }]
                             }, {
                                 "id": "E43",
                                 "path": "./img/E43.svg",
                                 "name": "Nimzo-Indian, Fischer Variation",
-                                "hm": 8,
                                 "children": [{
                                     "id": "E44",
                                     "path": "./img/E44.svg",
                                     "name": "Nimzo-Indian, Fischer Variation, 5.Ne2",
-                                    "hm": 9,
                                     "children": [{
                                         "id": "E45",
                                         "path": "./img/E45.svg",
                                         "name": "Nimzo-Indian, 4.e3, Bronstein (Byrne) Variation",
-                                        "hm": 10,
                                         "children": []
                                     }]
                                 }]
@@ -751,22 +625,18 @@
                                 "id": "E46",
                                 "path": "./img/E46.svg",
                                 "name": "Nimzo-Indian",
-                                "hm": 8,
                                 "children": [{
                                     "id": "E47",
                                     "path": "./img/E47.svg",
                                     "name": "Nimzo-Indian, 4.e3 O-O 5.Bd3",
-                                    "hm": 9,
                                     "children": [{
                                         "id": "E48",
                                         "path": "./img/E48.svg",
                                         "name": "Nimzo-Indian, 4.e3 O-O 5.Bd3 d5",
-                                        "hm": 10,
                                         "children": [{
                                             "id": "E49",
                                             "path": "./img/E49.svg",
                                             "name": "Nimzo-Indian, 4.e3, Botvinnik System",
-                                            "hm": 13,
                                             "children": []
                                         }]
                                     }]
@@ -774,56 +644,46 @@
                                     "id": "E50",
                                     "path": "./img/E50.svg",
                                     "name": "Nimzo-Indian, 4.e3 O-O 5.Nf3, without ...d5",
-                                    "hm": 9,
                                     "children": [{
                                         "id": "E51",
                                         "path": "./img/E51.svg",
                                         "name": "Nimzo-Indian, 4.e3",
-                                        "hm": 10,
                                         "children": [{
                                             "id": "E52",
                                             "path": "./img/E52.svg",
                                             "name": "Nimzo-Indian, 4.e3, Main line with ...b6",
-                                            "hm": 12,
                                             "children": []
                                         }, {
                                             "id": "E53",
                                             "path": "./img/E53.svg",
                                             "name": "Nimzo-Indian, 4.e3",
-                                            "hm": 12,
                                             "children": [{
                                                 "id": "E54",
                                                 "path": "./img/E54.svg",
                                                 "name": "Nimzo-Indian, 4.e3, Gligoric System",
-                                                "hm": 15,
                                                 "children": [{
                                                     "id": "E55",
                                                     "path": "./img/E55.svg",
                                                     "name": "Nimzo-Indian, 4.e3, Gligoric System, Bronstein Variation",
-                                                    "hm": 16,
                                                     "children": []
                                                 }]
                                             }, {
                                                 "id": "E56",
                                                 "path": "./img/E56.svg",
                                                 "name": "Nimzo-Indian, 4.e3, Main line with 7...Nc6",
-                                                "hm": 14,
                                                 "children": [{
                                                     "id": "E57",
                                                     "path": "./img/E57.svg",
                                                     "name": "Nimzo-Indian, 4.e3, Main line with 8...dc and 9...cd",
-                                                    "hm": 17,
                                                     "children": []
                                                 }, {
                                                     "id": "E58",
                                                     "path": "./img/E58.svg",
                                                     "name": "Nimzo-Indian, 4.e3, Main line with 8...Bxc3",
-                                                    "hm": 17,
                                                     "children": [{
                                                         "id": "E59",
                                                         "path": "./img/E59.svg",
                                                         "name": "Nimzo-Indian, 4.e3, Main line",
-                                                        "hm": 19,
                                                         "children": []
                                                     }]
                                                 }]
@@ -838,62 +698,51 @@
                     "id": "E60",
                     "path": "./img/E60.svg",
                     "name": "King's Indian Defense",
-                    "hm": 4,
                     "children": [{
                         "id": "D70",
                         "path": "./img/D70.svg",
                         "name": "Neo-Grunfeld Defense",
-                        "hm": 6,
                         "children": []
                     }, {
                         "id": "D71",
                         "path": "./img/D71.svg",
                         "name": "Neo-Grunfeld",
-                        "hm": 6,
                         "children": [{
                             "id": "D72",
                             "path": "./img/D72.svg",
                             "name": "Neo-Grunfeld, 5.cd, Main line",
-                            "hm": 13,
                             "children": []
                         }, {
                             "id": "D73",
                             "path": "./img/D73.svg",
                             "name": "Neo-Grunfeld, 5.Nf3",
-                            "hm": 9,
                             "children": [{
                                 "id": "D74",
                                 "path": "./img/D74.svg",
                                 "name": "Neo-Grunfeld, 6.cd Nxd5, 7.O-O",
-                                "hm": 13,
                                 "children": [{
                                     "id": "D75",
                                     "path": "./img/D75.svg",
                                     "name": "Neo-Grunfeld, 6.cd Nxd5, 7.O-O c5, 8.dxc5",
-                                    "hm": 15,
                                     "children": []
                                 }, {
                                     "id": "D76",
                                     "path": "./img/D76.svg",
                                     "name": "Neo-Grunfeld, 6.cd Nxd5, 7.O-O Nb6",
-                                    "hm": 14,
                                     "children": []
                                 }]
                             }, {
                                 "id": "D77",
                                 "path": "./img/D77.svg",
                                 "name": "Neo-Grunfeld, 6.O-O",
-                                "hm": 11,
                                 "children": [{
                                     "id": "D78",
                                     "path": "./img/D78.svg",
                                     "name": "Neo-Grunfeld, 6.O-O c6",
-                                    "hm": 12,
                                     "children": [{
                                         "id": "D79",
                                         "path": "./img/D79.svg",
                                         "name": "Neo-Grunfeld, 6.O-O, Main line",
-                                        "hm": 14,
                                         "children": []
                                     }]
                                 }]
@@ -903,33 +752,27 @@
                         "id": "E61",
                         "path": "./img/E61.svg",
                         "name": "King's Indian",
-                        "hm": 5,
                         "children": [{
                             "id": "D80",
                             "path": "./img/D80.svg",
                             "name": "Grunfeld",
-                            "hm": 6,
                             "children": [{
                                 "id": "D81",
                                 "path": "./img/D81.svg",
                                 "name": "Grunfeld, Russian Variation",
-                                "hm": 7,
                                 "children": []
                             }, {
                                 "id": "D82",
                                 "path": "./img/D82.svg",
                                 "name": "Grunfeld, 4.Bf4",
-                                "hm": 7,
                                 "children": [{
                                     "id": "D83",
                                     "path": "./img/D83.svg",
                                     "name": "Grunfeld, Grunfeld Gambit",
-                                    "hm": 10,
                                     "children": [{
                                         "id": "D84",
                                         "path": "./img/D84.svg",
                                         "name": "Grunfeld, Grunfeld Gambit Accepted",
-                                        "hm": 15,
                                         "children": []
                                     }]
                                 }]
@@ -937,29 +780,24 @@
                                 "id": "D85",
                                 "path": "./img/D85.svg",
                                 "name": "Grunfeld",
-                                "hm": 8,
                                 "children": [{
                                     "id": "D86",
                                     "path": "./img/D86.svg",
                                     "name": "Grunfeld, Exchange",
-                                    "hm": 13,
                                     "children": [{
                                         "id": "D88",
                                         "path": "./img/D88.svg",
                                         "name": "Grunfeld, Spassky Variation, Main line, 10...cd, 11.cd",
-                                        "hm": 15,
                                         "children": [{
                                             "id": "D87",
                                             "path": "./img/D87.svg",
                                             "name": "Grunfeld, Exchange",
-                                            "hm": 16,
                                             "children": []
                                         }]
                                     }, {
                                         "id": "D89",
                                         "path": "./img/D89.svg",
                                         "name": "Grunfeld",
-                                        "hm": 15,
                                         "children": []
                                     }]
                                 }]
@@ -967,57 +805,47 @@
                                 "id": "D90",
                                 "path": "./img/D90.svg",
                                 "name": "Grunfeld",
-                                "hm": 7,
                                 "children": [{
                                     "id": "D91",
                                     "path": "./img/D91.svg",
                                     "name": "Grunfeld, 5.Bg5",
-                                    "hm": 9,
                                     "children": []
                                 }, {
                                     "id": "D92",
                                     "path": "./img/D92.svg",
                                     "name": "Grunfeld, 5.Bf4",
-                                    "hm": 9,
                                     "children": [{
                                         "id": "D93",
                                         "path": "./img/D93.svg",
                                         "name": "Grunfeld, with Bf4 & e3",
-                                        "hm": 11,
                                         "children": []
                                     }]
                                 }, {
                                     "id": "D94",
                                     "path": "./img/D94.svg",
                                     "name": "Grunfeld",
-                                    "hm": 9,
                                     "children": [{
                                         "id": "D95",
                                         "path": "./img/D95.svg",
                                         "name": "Grunfeld",
-                                        "hm": 11,
                                         "children": []
                                     }]
                                 }, {
                                     "id": "D96",
                                     "path": "./img/D96.svg",
                                     "name": "Grunfeld, Russian Variation",
-                                    "hm": 9,
                                     "children": [{
                                         "id": "D97",
                                         "path": "./img/D97.svg",
                                         "name": "Grunfeld, Russian",
-                                        "hm": 13,
                                         "children": [{
                                             "id": "D98",
                                             "path": "./img/D98.svg",
                                             "name": "Grunfeld, Russian",
-                                            "hm": 14,
                                             "children": [{
                                                 "id": "D99",
                                                 "path": "./img/D99.svg",
                                                 "name": "Grunfeld Defense, Smyslov",
-                                                "hm": 15,
                                                 "children": []
                                             }]
                                         }]
@@ -1028,28 +856,23 @@
                             "id": "E62",
                             "path": "./img/E62.svg",
                             "name": "King's Indian, Fianchetto",
-                            "hm": 9,
                             "children": [{
                                 "id": "E63",
                                 "path": "./img/E63.svg",
                                 "name": "King's Indian, Fianchetto, Panno Variation",
-                                "hm": 14,
                                 "children": []
                             }, {
                                 "id": "E64",
                                 "path": "./img/E64.svg",
                                 "name": "King's Indian, Fianchetto, Yugoslav System",
-                                "hm": 12,
                                 "children": [{
                                     "id": "E65",
                                     "path": "./img/E65.svg",
                                     "name": "King's Indian, Fianchetto, Yugoslav, 7.O-O",
-                                    "hm": 13,
                                     "children": [{
                                         "id": "E66",
                                         "path": "./img/E66.svg",
                                         "name": "King's Indian, Fianchetto, Yugoslav Panno",
-                                        "hm": 15,
                                         "children": []
                                     }]
                                 }]
@@ -1057,17 +880,14 @@
                                 "id": "E67",
                                 "path": "./img/E67.svg",
                                 "name": "King's Indian, Fianchetto",
-                                "hm": 12,
                                 "children": [{
                                     "id": "E68",
                                     "path": "./img/E68.svg",
                                     "name": "King's Indian, Fianchetto, Classical Variation, 8.e4",
-                                    "hm": 15,
                                     "children": [{
                                         "id": "E69",
                                         "path": "./img/E69.svg",
                                         "name": "King's Indian, Fianchetto, Classical Main line",
-                                        "hm": 17,
                                         "children": []
                                     }]
                                 }]
@@ -1076,34 +896,28 @@
                             "id": "E70",
                             "path": "./img/E70.svg",
                             "name": "King's Indian",
-                            "hm": 7,
                             "children": [{
                                 "id": "E71",
                                 "path": "./img/E71.svg",
                                 "name": "King's Indian, Makagonov System (5.h3)",
-                                "hm": 9,
                                 "children": []
                             }, {
                                 "id": "E72",
                                 "path": "./img/E72.svg",
                                 "name": "King's Indian",
-                                "hm": 9,
                                 "children": []
                             }, {
                                 "id": "E73",
                                 "path": "./img/E73.svg",
                                 "name": "King's Indian",
-                                "hm": 9,
                                 "children": [{
                                     "id": "E74",
                                     "path": "./img/E74.svg",
                                     "name": "King's Indian, Averbakh, 6...c5",
-                                    "hm": 12,
                                     "children": [{
                                         "id": "E75",
                                         "path": "./img/E75.svg",
                                         "name": "King's Indian, Averbakh, Main line",
-                                        "hm": 14,
                                         "children": []
                                     }]
                                 }]
@@ -1111,22 +925,18 @@
                                 "id": "E76",
                                 "path": "./img/E76.svg",
                                 "name": "King's Indian, Four Pawns Attack",
-                                "hm": 9,
                                 "children": [{
                                     "id": "E77",
                                     "path": "./img/E77.svg",
                                     "name": "King's Indian",
-                                    "hm": 11,
                                     "children": [{
                                         "id": "E78",
                                         "path": "./img/E78.svg",
                                         "name": "King's Indian, Four Pawns Attack, with Be2 and Nf3",
-                                        "hm": 13,
                                         "children": [{
                                             "id": "E79",
                                             "path": "./img/E79.svg",
                                             "name": "King's Indian, Four Pawns Attack, Main line",
-                                            "hm": 17,
                                             "children": []
                                         }]
                                     }]
@@ -1135,56 +945,46 @@
                                 "id": "E80",
                                 "path": "./img/E80.svg",
                                 "name": "King's Indian, Samisch Variation",
-                                "hm": 9,
                                 "children": [{
                                     "id": "E81",
                                     "path": "./img/E81.svg",
                                     "name": "King's Indian, Samisch",
-                                    "hm": 10,
                                     "children": [{
                                         "id": "E82",
                                         "path": "./img/E82.svg",
                                         "name": "King's Indian, Samisch, double Fianchetto Variation",
-                                        "hm": 12,
                                         "children": []
                                     }, {
                                         "id": "E83",
                                         "path": "./img/E83.svg",
                                         "name": "King's Indian, Samisch",
-                                        "hm": 12,
                                         "children": [{
                                             "id": "E84",
                                             "path": "./img/E84.svg",
                                             "name": "King's Indian, Samisch, Panno Main line",
-                                            "hm": 16,
                                             "children": []
                                         }]
                                     }, {
                                         "id": "E85",
                                         "path": "./img/E85.svg",
                                         "name": "King's Indian, Samisch, Orthodox Variation",
-                                        "hm": 12,
                                         "children": [{
                                             "id": "E86",
                                             "path": "./img/E86.svg",
                                             "name": "King's Indian, Samisch, Orthodox, 7.Nge2 c6",
-                                            "hm": 14,
                                             "children": []
                                         }, {
                                             "id": "E87",
                                             "path": "./img/E87.svg",
                                             "name": "King's Indian, Samisch, Orthodox",
-                                            "hm": 13,
                                             "children": [{
                                                 "id": "E88",
                                                 "path": "./img/E88.svg",
                                                 "name": "King's Indian, Samisch, Orthodox, 7.d5 c6",
-                                                "hm": 14,
                                                 "children": [{
                                                     "id": "E89",
                                                     "path": "./img/E89.svg",
                                                     "name": "King's Indian, Samisch, Orthodox Main line",
-                                                    "hm": 16,
                                                     "children": []
                                                 }]
                                             }]
@@ -1195,55 +995,45 @@
                                 "id": "E90",
                                 "path": "./img/E90.svg",
                                 "name": "King's Indian",
-                                "hm": 9,
                                 "children": [{
                                     "id": "E91",
                                     "path": "./img/E91.svg",
                                     "name": "King's Indian",
-                                    "hm": 11,
                                     "children": [{
                                         "id": "E92",
                                         "path": "./img/E92.svg",
                                         "name": "King's Indian",
-                                        "hm": 12,
                                         "children": [{
                                             "id": "E93",
                                             "path": "./img/E93.svg",
                                             "name": "King's Indian, Petrosian System",
-                                            "hm": 14,
                                             "children": []
                                         }, {
                                             "id": "E94",
                                             "path": "./img/E94.svg",
                                             "name": "King's Indian, Orthodox",
-                                            "hm": 13,
                                             "children": [{
                                                 "id": "E95",
                                                 "path": "./img/E95.svg",
                                                 "name": "King's Indian, Orthodox, 7...Nbd7, 8.Re1",
-                                                "hm": 15,
                                                 "children": [{
                                                     "id": "E96",
                                                     "path": "./img/E96.svg",
                                                     "name": "King's Indian, Orthodox, 7...Nbd7, Main line",
-                                                    "hm": 18,
                                                     "children": []
                                                 }]
                                             }, {
                                                 "id": "E97",
                                                 "path": "./img/E97.svg",
                                                 "name": "King's Indian",
-                                                "hm": 14,
                                                 "children": [{
                                                     "id": "E98",
                                                     "path": "./img/E98.svg",
                                                     "name": "King's Indian, Orthodox, Taimanov, 9.Ne1",
-                                                    "hm": 17,
                                                     "children": [{
                                                         "id": "E99",
                                                         "path": "./img/E99.svg",
                                                         "name": "King's Indian, Orthodox, Taimanov",
-                                                        "hm": 20,
                                                         "children": []
                                                     }]
                                                 }]
@@ -1260,113 +1050,93 @@
             "id": "A80",
             "path": "./img/A80.svg",
             "name": "Dutch",
-            "hm": 2,
             "children": [{
                 "id": "A81",
                 "path": "./img/A81.svg",
                 "name": "Dutch",
-                "hm": 3,
                 "children": []
             }, {
                 "id": "A82",
                 "path": "./img/A82.svg",
                 "name": "Dutch, Staunton Gambit",
-                "hm": 3,
                 "children": [{
                     "id": "A83",
                     "path": "./img/A83.svg",
                     "name": "Dutch, Staunton Gambit",
-                    "hm": 7,
                     "children": []
                 }]
             }, {
                 "id": "A84",
                 "path": "./img/A84.svg",
                 "name": "Dutch",
-                "hm": 3,
                 "children": [{
                     "id": "A85",
                     "path": "./img/A85.svg",
                     "name": "Dutch, with c4 & Nc3",
-                    "hm": 5,
                     "children": []
                 }, {
                     "id": "A86",
                     "path": "./img/A86.svg",
                     "name": "Dutch",
-                    "hm": 5,
                     "children": [{
                         "id": "A87",
                         "path": "./img/A87.svg",
                         "name": "Dutch, Leningrad, Main Variation",
-                        "hm": 9,
                         "children": [{
                             "id": "A88",
                             "path": "./img/A88.svg",
                             "name": "Dutch, Leningrad, Main Variation with c6",
-                            "hm": 14,
                             "children": []
                         }, {
                             "id": "A89",
                             "path": "./img/A89.svg",
                             "name": "Dutch, Leningrad, Main Variation with Nc6",
-                            "hm": 14,
                             "children": []
                         }]
                     }, {
                         "id": "A90",
                         "path": "./img/A90.svg",
                         "name": "Dutch",
-                        "hm": 7,
                         "children": [{
                             "id": "A91",
                             "path": "./img/A91.svg",
                             "name": "Dutch Defense",
-                            "hm": 8,
                             "children": [{
                                 "id": "A92",
                                 "path": "./img/A92.svg",
                                 "name": "Dutch",
-                                "hm": 10,
                                 "children": [{
                                     "id": "A93",
                                     "path": "./img/A93.svg",
                                     "name": "Dutch, Stonewall, Botvinnik Variation",
-                                    "hm": 13,
                                     "children": [{
                                         "id": "A94",
                                         "path": "./img/A94.svg",
                                         "name": "Dutch, Stonewall with Ba3",
-                                        "hm": 15,
                                         "children": []
                                     }]
                                 }, {
                                     "id": "A95",
                                     "path": "./img/A95.svg",
                                     "name": "Dutch, Stonewall",
-                                    "hm": 14,
                                     "children": []
                                 }, {
                                     "id": "A96",
                                     "path": "./img/A96.svg",
                                     "name": "Dutch, Classical Variation",
-                                    "hm": 12,
                                     "children": [{
                                         "id": "A97",
                                         "path": "./img/A97.svg",
                                         "name": "Dutch, Ilyin-Genevsky",
-                                        "hm": 14,
                                         "children": [{
                                             "id": "A98",
                                             "path": "./img/A98.svg",
                                             "name": "Dutch, Ilyin-Genevsky Variation with Qc2",
-                                            "hm": 15,
                                             "children": []
                                         }, {
                                             "id": "A99",
                                             "path": "./img/A99.svg",
                                             "name": "Dutch, Ilyin-Genevsky Variation with b3",
-                                            "hm": 15,
                                             "children": []
                                         }]
                                     }]
@@ -1380,34 +1150,28 @@
             "id": "D00",
             "path": "./img/D00.svg",
             "name": "Queen's Pawn Game",
-            "hm": 2,
             "children": [{
                 "id": "D01",
                 "path": "./img/D01.svg",
                 "name": "Richter-Veresov Attack",
-                "hm": 5,
                 "children": []
             }, {
                 "id": "D02",
                 "path": "./img/D02.svg",
                 "name": "Queen's Pawn Game",
-                "hm": 3,
                 "children": [{
                     "id": "D03",
                     "path": "./img/D03.svg",
                     "name": "Torre Attack (Tartakower Variation)",
-                    "hm": 5,
                     "children": []
                 }, {
                     "id": "D04",
                     "path": "./img/D04.svg",
                     "name": "Queen's Pawn Game",
-                    "hm": 5,
                     "children": [{
                         "id": "D05",
                         "path": "./img/D05.svg",
                         "name": "Queen's Pawn Game",
-                        "hm": 6,
                         "children": []
                     }]
                 }]
@@ -1415,78 +1179,64 @@
                 "id": "D06",
                 "path": "./img/D06.svg",
                 "name": "Queen's Gambit Declined",
-                "hm": 3,
                 "children": [{
                     "id": "D07",
                     "path": "./img/D07.svg",
                     "name": "Queen's Gambit Declined, Chigorin Defense",
-                    "hm": 4,
                     "children": []
                 }, {
                     "id": "D08",
                     "path": "./img/D08.svg",
                     "name": "Queen's Gambit Declined, Albin Counter Gambit",
-                    "hm": 4,
                     "children": [{
                         "id": "D09",
                         "path": "./img/D09.svg",
                         "name": "Queen's Gambit Declined, Albin Counter Gambit, 5.g3",
-                        "hm": 9,
                         "children": []
                     }]
                 }, {
                     "id": "D10",
                     "path": "./img/D10.svg",
                     "name": "Queen's Gambit Declined Slav",
-                    "hm": 4,
                     "children": [{
                         "id": "D11",
                         "path": "./img/D11.svg",
                         "name": "Queen's Gambit Declined Slav",
-                        "hm": 5,
                         "children": [{
                             "id": "D12",
                             "path": "./img/D12.svg",
                             "name": "Queen's Gambit Declined Slav",
-                            "hm": 8,
                             "children": []
                         }, {
                             "id": "D13",
                             "path": "./img/D13.svg",
                             "name": "Queen's Gambit Declined Slav, Exchange Variation",
-                            "hm": 8,
                             "children": [{
                                 "id": "D14",
                                 "path": "./img/D14.svg",
                                 "name": "Queen's Gambit Declined Slav, Exchange Variation",
-                                "hm": 12,
                                 "children": []
                             }]
                         }, {
                             "id": "D15",
                             "path": "./img/D15.svg",
                             "name": "Queen's Gambit Declined Slav",
-                            "hm": 7,
                             "children": [{
                                 "id": "D16",
                                 "path": "./img/D16.svg",
                                 "name": "Queen's Gambit Declined Slav",
-                                "hm": 9,
                                 "children": [{
                                     "id": "D17",
                                     "path": "./img/D17.svg",
                                     "name": "Queen's Gambit Declined Slav",
-                                    "hm": 10,
                                     "children": [{
                                         "id": "D18",
                                         "path": "./img/D18.svg",
                                         "name": "Queen's Gambit Declined Slav, Dutch",
-                                        "hm": 11,
                                         "children": [{
                                             "id": "D19",
                                             "path": "./img/D19.svg",
                                             "name": "Queen's Gambit Declined Slav, Dutch",
-                                            "hm": 17,
                                             "children": []
                                         }]
                                     }]
@@ -1498,54 +1248,44 @@
                     "id": "D20",
                     "path": "./img/D20.svg",
                     "name": "Queen's Gambit Accepted",
-                    "hm": 4,
                     "children": [{
                         "id": "D21",
                         "path": "./img/D21.svg",
                         "name": "Queen's Gambit Accepted",
-                        "hm": 5,
                         "children": [{
                             "id": "D22",
                             "path": "./img/D22.svg",
                             "name": "Queen's Gambit Accepted",
-                            "hm": 11,
                             "children": []
                         }, {
                             "id": "D23",
                             "path": "./img/D23.svg",
                             "name": "Queen's Gambit Accepted",
-                            "hm": 6,
                             "children": [{
                                 "id": "D24",
                                 "path": "./img/D24.svg",
                                 "name": "Queen's Gambit Accepted",
-                                "hm": 7,
                                 "children": []
                             }, {
                                 "id": "D25",
                                 "path": "./img/D25.svg",
                                 "name": "Queen's Gambit Accepted",
-                                "hm": 7,
                                 "children": [{
                                     "id": "D26",
                                     "path": "./img/D26.svg",
                                     "name": "Queen's Gambit Accepted",
-                                    "hm": 8,
                                     "children": [{
                                         "id": "D27",
                                         "path": "./img/D27.svg",
                                         "name": "Queen's Gambit Accepted, Classical",
-                                        "hm": 12,
                                         "children": [{
                                             "id": "D28",
                                             "path": "./img/D28.svg",
                                             "name": "Queen's Gambit Accepted, Classical",
-                                            "hm": 13,
                                             "children": [{
                                                 "id": "D29",
                                                 "path": "./img/D29.svg",
                                                 "name": "Queen's Gambit Accepted, Classical",
-                                                "hm": 16,
                                                 "children": []
                                             }]
                                         }]
@@ -1558,27 +1298,22 @@
                     "id": "D30",
                     "path": "./img/D30.svg",
                     "name": "Queen's Gambit Declined",
-                    "hm": 4,
                     "children": [{
                         "id": "D31",
                         "path": "./img/D31.svg",
                         "name": "Queen's Gambit Declined",
-                        "hm": 5,
                         "children": [{
                             "id": "D32",
                             "path": "./img/D32.svg",
                             "name": "Queen's Gambit Declined, Tarrasch",
-                            "hm": 6,
                             "children": [{
                                 "id": "D33",
                                 "path": "./img/D33.svg",
                                 "name": "Queen's Gambit Declined, Tarrasch",
-                                "hm": 11,
                                 "children": [{
                                     "id": "D34",
                                     "path": "./img/D34.svg",
                                     "name": "Queen's Gambit Declined, Tarrasch",
-                                    "hm": 14,
                                     "children": []
                                 }]
                             }]
@@ -1586,45 +1321,37 @@
                             "id": "D35",
                             "path": "./img/D35.svg",
                             "name": "Queen's Gambit Declined",
-                            "hm": 6,
                             "children": [{
                                 "id": "D36",
                                 "path": "./img/D36.svg",
                                 "name": "Queen's Gambit Declined, Exchange, Positional line, 6.Qc2",
-                                "hm": 11,
                                 "children": []
                             }, {
                                 "id": "D37",
                                 "path": "./img/D37.svg",
                                 "name": "Queen's Gambit Declined",
-                                "hm": 7,
                                 "children": [{
                                     "id": "D38",
                                     "path": "./img/D38.svg",
                                     "name": "Queen's Gambit Declined, Ragozin Variation",
-                                    "hm": 8,
                                     "children": [{
                                         "id": "D39",
                                         "path": "./img/D39.svg",
                                         "name": "Queen's Gambit Declined, Ragozin, Vienna Variation",
-                                        "hm": 10,
                                         "children": []
                                     }]
                                 }, {
                                     "id": "D40",
                                     "path": "./img/D40.svg",
                                     "name": "Queen's Gambit Declined, Semi-Tarrasch",
-                                    "hm": 8,
                                     "children": [{
                                         "id": "D41",
                                         "path": "./img/D41.svg",
                                         "name": "Queen's Gambit Declined, Semi-Tarrasch",
-                                        "hm": 9,
                                         "children": [{
                                             "id": "D42",
                                             "path": "./img/D42.svg",
                                             "name": "Queen's Gambit Declined, Semi-Tarrasch, 7.Bd3",
-                                            "hm": 13,
                                             "children": []
                                         }]
                                     }]
@@ -1632,38 +1359,31 @@
                                     "id": "D43",
                                     "path": "./img/D43.svg",
                                     "name": "Queen's Gambit Declined Semi-Slav",
-                                    "hm": 8,
                                     "children": [{
                                         "id": "D44",
                                         "path": "./img/D44.svg",
                                         "name": "Queen's Gambit Declined Semi-Slav",
-                                        "hm": 10,
                                         "children": []
                                     }, {
                                         "id": "D45",
                                         "path": "./img/D45.svg",
                                         "name": "Queen's Gambit Declined Semi-Slav",
-                                        "hm": 9,
                                         "children": [{
                                             "id": "D46",
                                             "path": "./img/D46.svg",
                                             "name": "Queen's Gambit Declined Semi-Slav",
-                                            "hm": 11,
                                             "children": [{
                                                 "id": "D47",
                                                 "path": "./img/D47.svg",
                                                 "name": "Queen's Gambit Declined Semi-Slav",
-                                                "hm": 13,
                                                 "children": [{
                                                     "id": "D48",
                                                     "path": "./img/D48.svg",
                                                     "name": "Queen's Gambit Declined Semi-Slav, Meran",
-                                                    "hm": 16,
                                                     "children": [{
                                                         "id": "D49",
                                                         "path": "./img/D49.svg",
                                                         "name": "Queen's Gambit Declined Semi-Slav, Meran",
-                                                        "hm": 22,
                                                         "children": []
                                                     }]
                                                 }]
@@ -1675,56 +1395,46 @@
                                 "id": "D50",
                                 "path": "./img/D50.svg",
                                 "name": "Queen's Gambit Declined",
-                                "hm": 7,
                                 "children": [{
                                     "id": "D51",
                                     "path": "./img/D51.svg",
                                     "name": "Queen's Gambit Declined",
-                                    "hm": 8,
                                     "children": [{
                                         "id": "D52",
                                         "path": "./img/D52.svg",
                                         "name": "Queen's Gambit Declined",
-                                        "hm": 11,
                                         "children": []
                                     }]
                                 }, {
                                     "id": "D53",
                                     "path": "./img/D53.svg",
                                     "name": "Queen's Gambit Declined",
-                                    "hm": 8,
                                     "children": [{
                                         "id": "D54",
                                         "path": "./img/D54.svg",
                                         "name": "Queen's Gambit Declined, Anti-Neo-Orthodox Variation",
-                                        "hm": 11,
                                         "children": []
                                     }, {
                                         "id": "D55",
                                         "path": "./img/D55.svg",
                                         "name": "Queen's Gambit Declined",
-                                        "hm": 11,
                                         "children": [{
                                             "id": "D56",
                                             "path": "./img/D56.svg",
                                             "name": "Queen's Gambit Declined",
-                                            "hm": 13,
                                             "children": [{
                                                 "id": "D57",
                                                 "path": "./img/D57.svg",
                                                 "name": "Queen's Gambit Declined, Lasker Defense",
-                                                "hm": 16,
                                                 "children": []
                                             }, {
                                                 "id": "D58",
                                                 "path": "./img/D58.svg",
                                                 "name": "Queen's Gambit Declined, Tartakower (Makagonov-Bondarevsky) System",
-                                                "hm": 14,
                                                 "children": [{
                                                     "id": "D59",
                                                     "path": "./img/D59.svg",
                                                     "name": "Queen's Gambit Declined, Tartakower",
-                                                    "hm": 16,
                                                     "children": []
                                                 }]
                                             }]
@@ -1732,58 +1442,48 @@
                                             "id": "D60",
                                             "path": "./img/D60.svg",
                                             "name": "Queen's Gambit Declined, Orthodox Defense",
-                                            "hm": 12,
                                             "children": [{
                                                 "id": "D61",
                                                 "path": "./img/D61.svg",
                                                 "name": "Queen's Gambit Declined, Orthodox, Rubinstein Attack",
-                                                "hm": 13,
                                                 "children": [{
                                                     "id": "D62",
                                                     "path": "./img/D62.svg",
                                                     "name": "Queen's Gambit Declined, Orthodox, Rubinstein Attack",
-                                                    "hm": 15,
                                                     "children": []
                                                 }]
                                             }, {
                                                 "id": "D63",
                                                 "path": "./img/D63.svg",
                                                 "name": "Queen's Gambit Declined, Orthodox Defense",
-                                                "hm": 13,
                                                 "children": [{
                                                     "id": "D64",
                                                     "path": "./img/D64.svg",
                                                     "name": "Queen's Gambit Declined, Orthodox, Rubinstein Attack",
-                                                    "hm": 15,
                                                     "children": [{
                                                         "id": "D65",
                                                         "path": "./img/D65.svg",
                                                         "name": "Queen's Gambit Declined, Orthodox, Rubinstein Attack, Main line",
-                                                        "hm": 17,
                                                         "children": []
                                                     }]
                                                 }, {
                                                     "id": "D66",
                                                     "path": "./img/D66.svg",
                                                     "name": "Queen's Gambit Declined, Orthodox Defense, Bd3 line",
-                                                    "hm": 15,
                                                     "children": [{
                                                         "id": "D68",
                                                         "path": "./img/D68.svg",
                                                         "name": "Queen's Gambit Declined, Orthodox Defense, Classical",
-                                                        "hm": 16,
                                                         "children": [{
                                                             "id": "D67",
                                                             "path": "./img/D67.svg",
                                                             "name": "Queen's Gambit Declined, Orthodox Defense, Bd3 line",
-                                                            "hm": 18,
                                                             "children": []
                                                         }]
                                                     }, {
                                                         "id": "D69",
                                                         "path": "./img/D69.svg",
                                                         "name": "Queen's Gambit Declined, Orthodox Defense, Classical, 13.de",
-                                                        "hm": 16,
                                                         "children": []
                                                     }]
                                                 }]
@@ -1801,33 +1501,27 @@
         "id": "B00",
         "path": "./img/B00.svg",
         "name": "Uncommon King's Pawn Opening",
-        "hm": 1,
         "children": [{
             "id": "B01",
             "path": "./img/B01.svg",
             "name": "Scandinavian",
-            "hm": 2,
             "children": []
         }, {
             "id": "B02",
             "path": "./img/B02.svg",
             "name": "Alekhine's Defense",
-            "hm": 2,
             "children": [{
                 "id": "B03",
                 "path": "./img/B03.svg",
                 "name": "Alekhine's Defense",
-                "hm": 5,
                 "children": [{
                     "id": "B04",
                     "path": "./img/B04.svg",
                     "name": "Alekhine's Defense, Modern",
-                    "hm": 7,
                     "children": [{
                         "id": "B05",
                         "path": "./img/B05.svg",
                         "name": "Alekhine's Defense, Modern",
-                        "hm": 8,
                         "children": []
                     }]
                 }]
@@ -1836,81 +1530,68 @@
             "id": "B06",
             "path": "./img/B06.svg",
             "name": "Robatsch",
-            "hm": 2,
             "children": []
         }, {
             "id": "B07",
             "path": "./img/B07.svg",
             "name": "Pirc",
-            "hm": 4,
             "children": [{
                 "id": "B08",
                 "path": "./img/B08.svg",
                 "name": "Pirc, Classical",
-                "hm": 7,
                 "children": []
             }, {
                 "id": "B09",
                 "path": "./img/B09.svg",
                 "name": "Pirc, Austrian Attack",
-                "hm": 7,
                 "children": []
             }]
         }, {
             "id": "B10",
             "path": "./img/B10.svg",
             "name": "Caro-Kann",
-            "hm": 2,
+            "color": "DeepSkyBlue",
             "children": [{
                 "id": "B11",
                 "path": "./img/B11.svg",
                 "name": "Caro-Kann, Two Knights, 3...Bg4",
-                "hm": 6,
                 "children": []
             }, {
                 "id": "B12",
                 "path": "./img/B12.svg",
                 "name": "Caro-Kann Defense",
-                "hm": 3,
                 "children": [{
                     "id": "B13",
                     "path": "./img/B13.svg",
                     "name": "Caro-Kann, Exchange",
-                    "hm": 6,
                     "children": [{
                         "id": "B14",
                         "path": "./img/B14.svg",
                         "name": "Caro-Kann, Panov-Botvinnik Attack",
-                        "hm": 10,
                         "children": []
                     }]
                 }, {
                     "id": "B15",
                     "path": "./img/B15.svg",
                     "name": "Caro-Kann",
-                    "hm": 5,
                     "children": [{
                         "id": "B16",
                         "path": "./img/B16.svg",
                         "name": "Caro-Kann, Bronstein-Larsen Variation",
-                        "hm": 10,
                         "children": []
                     }, {
                         "id": "B17",
                         "path": "./img/B17.svg",
                         "name": "Caro-Kann, Steinitz Variation",
-                        "hm": 8,
                         "children": []
                     }, {
                         "id": "B18",
                         "path": "./img/B18.svg",
                         "name": "Caro-Kann, Classical",
-                        "hm": 8,
                         "children": [{
                             "id": "B19",
                             "path": "./img/B19.svg",
                             "name": "Caro-Kann, Classical",
-                            "hm": 14,
                             "children": []
                         }]
                     }]
@@ -1920,39 +1601,33 @@
             "id": "B20",
             "path": "./img/B20.svg",
             "name": "Sicilian",
-            "hm": 2,
+            "color": "DarkViolet",
             "children": [{
                 "id": "B21",
                 "path": "./img/B21.svg",
                 "name": "Sicilian, 2.f4 and 2.d4",
-                "hm": 3,
                 "children": []
             }, {
                 "id": "B22",
                 "path": "./img/B22.svg",
                 "name": "Sicilian, Alapin",
-                "hm": 3,
                 "children": []
             }, {
                 "id": "B23",
                 "path": "./img/B23.svg",
                 "name": "Sicilian, Closed",
-                "hm": 3,
                 "children": [{
                     "id": "B24",
                     "path": "./img/B24.svg",
                     "name": "Sicilian, Closed",
-                    "hm": 5,
                     "children": [{
                         "id": "B25",
                         "path": "./img/B25.svg",
                         "name": "Sicilian, Closed",
-                        "hm": 10,
                         "children": [{
                             "id": "B26",
                             "path": "./img/B26.svg",
                             "name": "Sicilian, Closed, 6.Be3",
-                            "hm": 11,
                             "children": []
                         }]
                     }]
@@ -1961,73 +1636,60 @@
                 "id": "B27",
                 "path": "./img/B27.svg",
                 "name": "Sicilian",
-                "hm": 3,
                 "children": [{
                     "id": "B28",
                     "path": "./img/B28.svg",
                     "name": "Sicilian, O'Kelly Variation",
-                    "hm": 4,
                     "children": []
                 }, {
                     "id": "B29",
                     "path": "./img/B29.svg",
                     "name": "Sicilian, Nimzovich-Rubinstein",
-                    "hm": 4,
                     "children": []
                 }, {
                     "id": "B30",
                     "path": "./img/B30.svg",
                     "name": "Sicilian",
-                    "hm": 4,
                     "children": [{
                         "id": "B31",
                         "path": "./img/B31.svg",
                         "name": "Sicilian, Rossolimo Variation",
-                        "hm": 6,
                         "children": []
                     }, {
                         "id": "B33",
                         "path": "./img/B33.svg",
                         "name": "Sicilian",
-                        "hm": 7,
                         "children": [{
                             "id": "B32",
                             "path": "./img/B32.svg",
                             "name": "Sicilian",
-                            "hm": 8,
                             "children": []
                         }, {
                             "id": "B34",
                             "path": "./img/B34.svg",
                             "name": "Sicilian, Accelerated Fianchetto",
-                            "hm": 9,
                             "children": []
                         }, {
                             "id": "B35",
                             "path": "./img/B35.svg",
                             "name": "Sicilian, Accelerated Fianchetto, Modern Variation with Bc4",
-                            "hm": 13,
                             "children": []
                         }, {
                             "id": "B36",
                             "path": "./img/B36.svg",
                             "name": "Sicilian, Accelerated Fianchetto",
-                            "hm": 9,
                             "children": [{
                                 "id": "B37",
                                 "path": "./img/B37.svg",
                                 "name": "Sicilian, Accelerated Fianchetto",
-                                "hm": 10,
                                 "children": [{
                                     "id": "B38",
                                     "path": "./img/B38.svg",
                                     "name": "Sicilian, Accelerated Fianchetto, Maroczy Bind, 6.Be3",
-                                    "hm": 11,
                                     "children": [{
                                         "id": "B39",
                                         "path": "./img/B39.svg",
                                         "name": "Sicilian, Accelerated Fianchetto, Breyer Variation",
-                                        "hm": 14,
                                         "children": []
                                     }]
                                 }]
@@ -2036,12 +1698,10 @@
                             "id": "B58",
                             "path": "./img/B58.svg",
                             "name": "Sicilian",
-                            "hm": 11,
                             "children": [{
                                 "id": "B59",
                                 "path": "./img/B59.svg",
                                 "name": "Sicilian, Boleslavsky Variation, 7.Nb3",
-                                "hm": 13,
                                 "children": []
                             }]
                         }]
@@ -2050,56 +1710,46 @@
                     "id": "B40",
                     "path": "./img/B40.svg",
                     "name": "Sicilian",
-                    "hm": 4,
                     "children": [{
                         "id": "B41",
                         "path": "./img/B41.svg",
                         "name": "Sicilian, Kan",
-                        "hm": 8,
                         "children": [{
                             "id": "B42",
                             "path": "./img/B42.svg",
                             "name": "Sicilian, Kan",
-                            "hm": 9,
                             "children": []
                         }, {
                             "id": "B43",
                             "path": "./img/B43.svg",
                             "name": "Sicilian, Kan, 5.Nc3",
-                            "hm": 9,
                             "children": []
                         }]
                     }, {
                         "id": "B44",
                         "path": "./img/B44.svg",
                         "name": "Sicilian",
-                        "hm": 8,
                         "children": [{
                             "id": "B45",
                             "path": "./img/B45.svg",
                             "name": "Sicilian, Taimanov",
-                            "hm": 9,
                             "children": [{
                                 "id": "B46",
                                 "path": "./img/B46.svg",
                                 "name": "Sicilian, Taimanov Variation",
-                                "hm": 10,
                                 "children": []
                             }, {
                                 "id": "B47",
                                 "path": "./img/B47.svg",
                                 "name": "Sicilian, Taimanov (Bastrikov) Variation",
-                                "hm": 10,
                                 "children": [{
                                     "id": "B48",
                                     "path": "./img/B48.svg",
                                     "name": "Sicilian, Taimanov Variation",
-                                    "hm": 11,
                                     "children": [{
                                         "id": "B49",
                                         "path": "./img/B49.svg",
                                         "name": "Sicilian, Taimanov Variation",
-                                        "hm": 13,
                                         "children": []
                                     }]
                                 }]
@@ -2110,100 +1760,82 @@
                     "id": "B50",
                     "path": "./img/B50.svg",
                     "name": "Sicilian",
-                    "hm": 4,
                     "children": [{
                         "id": "B51",
                         "path": "./img/B51.svg",
                         "name": "Sicilian, Canal-Sokolsky (Rossolimo) Attack",
-                        "hm": 5,
                         "children": [{
                             "id": "B52",
                             "path": "./img/B52.svg",
                             "name": "Sicilian, Canal-Sokolsky (Rossolimo) Attack",
-                            "hm": 6,
                             "children": []
                         }]
                     }, {
                         "id": "B53",
                         "path": "./img/B53.svg",
                         "name": "Sicilian",
-                        "hm": 7,
                         "children": []
                     }, {
                         "id": "B54",
                         "path": "./img/B54.svg",
                         "name": "Sicilian",
-                        "hm": 7,
                         "children": [{
                             "id": "B55",
                             "path": "./img/B55.svg",
                             "name": "Sicilian, Prins Variation, Venice Attack",
-                            "hm": 11,
                             "children": []
                         }, {
                             "id": "B56",
                             "path": "./img/B56.svg",
                             "name": "Sicilian",
-                            "hm": 9,
                             "children": [{
                                 "id": "B57",
                                 "path": "./img/B57.svg",
                                 "name": "Sicilian",
-                                "hm": 11,
                                 "children": []
                             }, {
                                 "id": "B60",
                                 "path": "./img/B60.svg",
                                 "name": "Sicilian, Richter-Rauzer",
-                                "hm": 11,
                                 "children": [{
                                     "id": "B61",
                                     "path": "./img/B61.svg",
                                     "name": "Sicilian, Richter-Rauzer, Larsen Variation, 7.Qd2",
-                                    "hm": 13,
                                     "children": []
                                 }, {
                                     "id": "B62",
                                     "path": "./img/B62.svg",
                                     "name": "Sicilian, Richter-Rauzer",
-                                    "hm": 12,
                                     "children": [{
                                         "id": "B63",
                                         "path": "./img/B63.svg",
                                         "name": "Sicilian, Richter-Rauzer Attack",
-                                        "hm": 13,
                                         "children": [{
                                             "id": "B64",
                                             "path": "./img/B64.svg",
                                             "name": "Sicilian, Richter-Rauzer Attack",
-                                            "hm": 17,
                                             "children": [{
                                                 "id": "B65",
                                                 "path": "./img/B65.svg",
                                                 "name": "Sicilian, Richter-Rauzer Attack, 7...Be7 Defense, 9...Nxd4",
-                                                "hm": 19,
                                                 "children": []
                                             }]
                                         }, {
                                             "id": "B66",
                                             "path": "./img/B66.svg",
                                             "name": "Sicilian, Richter-Rauzer Attack, 7...a6",
-                                            "hm": 14,
                                             "children": [{
                                                 "id": "B67",
                                                 "path": "./img/B67.svg",
                                                 "name": "Sicilian, Richter-Rauzer Attack, 7...a6 Defense, 8...Bd7",
-                                                "hm": 16,
                                                 "children": [{
                                                     "id": "B68",
                                                     "path": "./img/B68.svg",
                                                     "name": "Sicilian, Richter-Rauzer Attack, 7...a6 Defense, 9...Be7",
-                                                    "hm": 18,
                                                     "children": [{
                                                         "id": "B69",
                                                         "path": "./img/B69.svg",
                                                         "name": "Sicilian, Richter-Rauzer Attack, 7...a6 Defense, 11.Bxf6",
-                                                        "hm": 21,
                                                         "children": []
                                                     }]
                                                 }]
@@ -2215,55 +1847,45 @@
                                 "id": "B70",
                                 "path": "./img/B70.svg",
                                 "name": "Sicilian, Dragon Variation",
-                                "hm": 10,
                                 "children": [{
                                     "id": "B71",
                                     "path": "./img/B71.svg",
                                     "name": "Sicilian, Dragon, Levenfish Variation",
-                                    "hm": 11,
                                     "children": []
                                 }, {
                                     "id": "B72",
                                     "path": "./img/B72.svg",
                                     "name": "Sicilian, Dragon",
-                                    "hm": 11,
                                     "children": [{
                                         "id": "B73",
                                         "path": "./img/B73.svg",
                                         "name": "Sicilian, Dragon, Classical",
-                                        "hm": 15,
                                         "children": [{
                                             "id": "B74",
                                             "path": "./img/B74.svg",
                                             "name": "Sicilian, Dragon, Classical",
-                                            "hm": 17,
                                             "children": []
                                         }]
                                     }, {
                                         "id": "B75",
                                         "path": "./img/B75.svg",
                                         "name": "Sicilian, Dragon, Yugoslav Attack",
-                                        "hm": 13,
                                         "children": [{
                                             "id": "B76",
                                             "path": "./img/B76.svg",
                                             "name": "Sicilian, Dragon, Yugoslav Attack",
-                                            "hm": 14,
                                             "children": [{
                                                 "id": "B77",
                                                 "path": "./img/B77.svg",
                                                 "name": "Sicilian, Dragon, Yugoslav Attack",
-                                                "hm": 17,
                                                 "children": [{
                                                     "id": "B78",
                                                     "path": "./img/B78.svg",
                                                     "name": "Sicilian, Dragon, Yugoslav Attack, 10.castle long",
-                                                    "hm": 19,
                                                     "children": [{
                                                         "id": "B79",
                                                         "path": "./img/B79.svg",
                                                         "name": "Sicilian, Dragon, Yugoslav Attack, 12.h4",
-                                                        "hm": 23,
                                                         "children": []
                                                     }]
                                                 }]
@@ -2275,34 +1897,28 @@
                                 "id": "B80",
                                 "path": "./img/B80.svg",
                                 "name": "Sicilian, Scheveningen",
-                                "hm": 10,
                                 "children": [{
                                     "id": "B81",
                                     "path": "./img/B81.svg",
                                     "name": "Sicilian, Scheveningen, Keres Attack",
-                                    "hm": 11,
                                     "children": []
                                 }, {
                                     "id": "B82",
                                     "path": "./img/B82.svg",
                                     "name": "Sicilian, Scheveningen",
-                                    "hm": 11,
                                     "children": []
                                 }, {
                                     "id": "B83",
                                     "path": "./img/B83.svg",
                                     "name": "Sicilian",
-                                    "hm": 11,
                                     "children": [{
                                         "id": "B84",
                                         "path": "./img/B84.svg",
                                         "name": "Sicilian, Scheveningen",
-                                        "hm": 12,
                                         "children": [{
                                             "id": "B85",
                                             "path": "./img/B85.svg",
                                             "name": "Sicilian, Scheveningen, Classical",
-                                            "hm": 16,
                                             "children": []
                                         }]
                                     }]
@@ -2310,23 +1926,19 @@
                                     "id": "B86",
                                     "path": "./img/B86.svg",
                                     "name": "Sicilian, Fischer-Sozin Attack",
-                                    "hm": 11,
                                     "children": [{
                                         "id": "B87",
                                         "path": "./img/B87.svg",
                                         "name": "Sicilian, Fischer-Sozin with ...a6 and ...b5",
-                                        "hm": 14,
                                         "children": []
                                     }, {
                                         "id": "B88",
                                         "path": "./img/B88.svg",
                                         "name": "Sicilian, Fischer-Sozin Attack",
-                                        "hm": 12,
                                         "children": [{
                                             "id": "B89",
                                             "path": "./img/B89.svg",
                                             "name": "Sicilian",
-                                            "hm": 13,
                                             "children": []
                                         }]
                                     }]
@@ -2335,56 +1947,46 @@
                                 "id": "B90",
                                 "path": "./img/B90.svg",
                                 "name": "Sicilian, Najdorf",
-                                "hm": 10,
                                 "children": [{
                                     "id": "B91",
                                     "path": "./img/B91.svg",
                                     "name": "Sicilian, Najdorf, Zagreb (Fianchetto) Variation",
-                                    "hm": 11,
                                     "children": []
                                 }, {
                                     "id": "B92",
                                     "path": "./img/B92.svg",
                                     "name": "Sicilian, Najdorf, Opocensky Variation",
-                                    "hm": 11,
                                     "children": []
                                 }, {
                                     "id": "B93",
                                     "path": "./img/B93.svg",
                                     "name": "Sicilian, Najdorf, 6.f4",
-                                    "hm": 11,
                                     "children": []
                                 }, {
                                     "id": "B94",
                                     "path": "./img/B94.svg",
                                     "name": "Sicilian, Najdorf",
-                                    "hm": 11,
                                     "children": [{
                                         "id": "B95",
                                         "path": "./img/B95.svg",
                                         "name": "Sicilian, Najdorf, 6...e6",
-                                        "hm": 12,
                                         "children": [{
                                             "id": "B96",
                                             "path": "./img/B96.svg",
                                             "name": "Sicilian, Najdorf",
-                                            "hm": 13,
                                             "children": [{
                                                 "id": "B97",
                                                 "path": "./img/B97.svg",
                                                 "name": "Sicilian, Najdorf",
-                                                "hm": 14,
                                                 "children": []
                                             }, {
                                                 "id": "B98",
                                                 "path": "./img/B98.svg",
                                                 "name": "Sicilian, Najdorf",
-                                                "hm": 14,
                                                 "children": [{
                                                     "id": "B99",
                                                     "path": "./img/B99.svg",
                                                     "name": "Sicilian, Najdorf, 7...Be7 Main line",
-                                                    "hm": 18,
                                                     "children": []
                                                 }]
                                             }]
@@ -2400,57 +2002,47 @@
             "id": "C00",
             "path": "./img/C00.svg",
             "name": "French Defense",
-            "hm": 2,
             "children": [{
                 "id": "C01",
                 "path": "./img/C01.svg",
                 "name": "French, Exchange",
-                "hm": 9,
                 "children": []
             }, {
                 "id": "C02",
                 "path": "./img/C02.svg",
                 "name": "French, Advance",
-                "hm": 5,
                 "children": []
             }, {
                 "id": "C03",
                 "path": "./img/C03.svg",
                 "name": "French, Tarrasch",
-                "hm": 5,
                 "children": [{
                     "id": "C04",
                     "path": "./img/C04.svg",
                     "name": "French, Tarrasch, Guimard Main line",
-                    "hm": 8,
                     "children": []
                 }, {
                     "id": "C05",
                     "path": "./img/C05.svg",
                     "name": "French, Tarrasch",
-                    "hm": 6,
                     "children": [{
                         "id": "C06",
                         "path": "./img/C06.svg",
                         "name": "French, Tarrasch",
-                        "hm": 15,
                         "children": []
                     }]
                 }, {
                     "id": "C07",
                     "path": "./img/C07.svg",
                     "name": "French, Tarrasch",
-                    "hm": 6,
                     "children": [{
                         "id": "C08",
                         "path": "./img/C08.svg",
                         "name": "French, Tarrasch, Open, 4.ed ed",
-                        "hm": 8,
                         "children": [{
                             "id": "C09",
                             "path": "./img/C09.svg",
                             "name": "French, Tarrasch, Open Variation, Main line",
-                            "hm": 10,
                             "children": []
                         }]
                     }]
@@ -2459,28 +2051,23 @@
                 "id": "C10",
                 "path": "./img/C10.svg",
                 "name": "French",
-                "hm": 5,
                 "children": [{
                     "id": "C11",
                     "path": "./img/C11.svg",
                     "name": "French",
-                    "hm": 6,
                     "children": [{
                         "id": "C12",
                         "path": "./img/C12.svg",
                         "name": "French, McCutcheon",
-                        "hm": 8,
                         "children": []
                     }, {
                         "id": "C13",
                         "path": "./img/C13.svg",
                         "name": "French",
-                        "hm": 8,
                         "children": [{
                             "id": "C14",
                             "path": "./img/C14.svg",
                             "name": "French, Classical",
-                            "hm": 12,
                             "children": []
                         }]
                     }]
@@ -2488,27 +2075,22 @@
                     "id": "C15",
                     "path": "./img/C15.svg",
                     "name": "French, Winawer",
-                    "hm": 6,
                     "children": [{
                         "id": "C16",
                         "path": "./img/C16.svg",
                         "name": "French, Winawer",
-                        "hm": 7,
                         "children": [{
                             "id": "C17",
                             "path": "./img/C17.svg",
                             "name": "French, Winawer, Advance",
-                            "hm": 8,
                             "children": [{
                                 "id": "C18",
                                 "path": "./img/C18.svg",
                                 "name": "French, Winawer",
-                                "hm": 11,
                                 "children": [{
                                     "id": "C19",
                                     "path": "./img/C19.svg",
                                     "name": "French, Winawer, Advance",
-                                    "hm": 12,
                                     "children": []
                                 }]
                             }]
@@ -2520,58 +2102,48 @@
             "id": "C20",
             "path": "./img/C20.svg",
             "name": "King's Pawn Game",
-            "hm": 2,
             "children": [{
                 "id": "C21",
                 "path": "./img/C21.svg",
                 "name": "Center Game",
-                "hm": 4,
                 "children": [{
                     "id": "C22",
                     "path": "./img/C22.svg",
                     "name": "Center Game",
-                    "hm": 6,
                     "children": []
                 }]
             }, {
                 "id": "C23",
                 "path": "./img/C23.svg",
                 "name": "Bishop's Opening",
-                "hm": 3,
                 "children": [{
                     "id": "C24",
                     "path": "./img/C24.svg",
                     "name": "Bishop's Opening",
-                    "hm": 4,
                     "children": []
                 }]
             }, {
                 "id": "C25",
                 "path": "./img/C25.svg",
                 "name": "Vienna",
-                "hm": 3,
                 "children": [{
                     "id": "C26",
                     "path": "./img/C26.svg",
                     "name": "Vienna",
-                    "hm": 4,
                     "children": [{
                         "id": "C27",
                         "path": "./img/C27.svg",
                         "name": "Vienna Game",
-                        "hm": 6,
                         "children": []
                     }, {
                         "id": "C28",
                         "path": "./img/C28.svg",
                         "name": "Vienna Game",
-                        "hm": 6,
                         "children": []
                     }, {
                         "id": "C29",
                         "path": "./img/C29.svg",
                         "name": "Vienna Gambit",
-                        "hm": 5,
                         "children": []
                     }]
                 }]
@@ -2579,58 +2151,48 @@
                 "id": "C30",
                 "path": "./img/C30.svg",
                 "name": "King's Gambit Declined",
-                "hm": 3,
                 "children": [{
                     "id": "C31",
                     "path": "./img/C31.svg",
                     "name": "King's Gambit Declined, Falkbeer Counter Gambit",
-                    "hm": 4,
                     "children": [{
                         "id": "C32",
                         "path": "./img/C32.svg",
                         "name": "King's Gambit Declined, Falkbeer Counter Gambit",
-                        "hm": 8,
                         "children": []
                     }]
                 }, {
                     "id": "C33",
                     "path": "./img/C33.svg",
                     "name": "King's Gambit Accepted",
-                    "hm": 4,
                     "children": [{
                         "id": "C34",
                         "path": "./img/C34.svg",
                         "name": "King's Gambit Accepted",
-                        "hm": 5,
                         "children": [{
                             "id": "C35",
                             "path": "./img/C35.svg",
                             "name": "King's Gambit Accepted, Cunningham",
-                            "hm": 6,
                             "children": []
                         }, {
                             "id": "C36",
                             "path": "./img/C36.svg",
                             "name": "King's Gambit Accepted, Abbazia Defense",
-                            "hm": 6,
                             "children": []
                         }, {
                             "id": "C37",
                             "path": "./img/C37.svg",
                             "name": "King's Gambit Accepted",
-                            "hm": 7,
                             "children": []
                         }, {
                             "id": "C38",
                             "path": "./img/C38.svg",
                             "name": "King's Gambit Accepted",
-                            "hm": 8,
                             "children": []
                         }, {
                             "id": "C39",
                             "path": "./img/C39.svg",
                             "name": "King's Gambit Accepted",
-                            "hm": 7,
                             "children": []
                         }]
                     }]
@@ -2639,56 +2201,46 @@
                 "id": "C40",
                 "path": "./img/C40.svg",
                 "name": "King's Knight Opening",
-                "hm": 3,
                 "children": [{
                     "id": "C41",
                     "path": "./img/C41.svg",
                     "name": "Philidor Defense",
-                    "hm": 4,
                     "children": []
                 }, {
                     "id": "C42",
                     "path": "./img/C42.svg",
                     "name": "Petrov Defense",
-                    "hm": 4,
                     "children": [{
                         "id": "C43",
                         "path": "./img/C43.svg",
                         "name": "Petrov, Modern Attack",
-                        "hm": 9,
                         "children": []
                     }]
                 }, {
                     "id": "C44",
                     "path": "./img/C44.svg",
                     "name": "King's Pawn Game",
-                    "hm": 4,
                     "children": [{
                         "id": "C45",
                         "path": "./img/C45.svg",
                         "name": "Scotch Game",
-                        "hm": 7,
                         "children": []
                     }, {
                         "id": "C46",
                         "path": "./img/C46.svg",
                         "name": "Three Knights",
-                        "hm": 5,
                         "children": [{
                             "id": "C47",
                             "path": "./img/C47.svg",
                             "name": "Four Knights",
-                            "hm": 6,
                             "children": [{
                                 "id": "C48",
                                 "path": "./img/C48.svg",
                                 "name": "Four Knights",
-                                "hm": 7,
                                 "children": [{
                                     "id": "C49",
                                     "path": "./img/C49.svg",
                                     "name": "Four Knights",
-                                    "hm": 8,
                                     "children": []
                                 }]
                             }]
@@ -2697,29 +2249,24 @@
                         "id": "C50",
                         "path": "./img/C50.svg",
                         "name": "Giuoco Piano",
-                        "hm": 6,
                         "children": [{
                             "id": "C51",
                             "path": "./img/C51.svg",
                             "name": "Evans Gambit",
-                            "hm": 8,
                             "children": []
                         }, {
                             "id": "C52",
                             "path": "./img/C52.svg",
                             "name": "Evans Gambit",
-                            "hm": 10,
                             "children": []
                         }, {
                             "id": "C53",
                             "path": "./img/C53.svg",
                             "name": "Giuoco Piano",
-                            "hm": 7,
                             "children": [{
                                 "id": "C54",
                                 "path": "./img/C54.svg",
                                 "name": "Giuoco Piano",
-                                "hm": 11,
                                 "children": []
                             }]
                         }]
@@ -2727,28 +2274,23 @@
                         "id": "C55",
                         "path": "./img/C55.svg",
                         "name": "Two Knights Defense",
-                        "hm": 6,
                         "children": [{
                             "id": "C56",
                             "path": "./img/C56.svg",
                             "name": "Two Knights",
-                            "hm": 10,
                             "children": []
                         }, {
                             "id": "C57",
                             "path": "./img/C57.svg",
                             "name": "Two Knights",
-                            "hm": 7,
                             "children": [{
                                 "id": "C58",
                                 "path": "./img/C58.svg",
                                 "name": "Two Knights",
-                                "hm": 10,
                                 "children": [{
                                     "id": "C59",
                                     "path": "./img/C59.svg",
                                     "name": "Two Knights",
-                                    "hm": 16,
                                     "children": []
                                 }]
                             }]
@@ -2757,98 +2299,81 @@
                         "id": "C60",
                         "path": "./img/C60.svg",
                         "name": "Ruy Lopez",
-                        "hm": 5,
                         "children": [{
                             "id": "C61",
                             "path": "./img/C61.svg",
                             "name": "Ruy Lopez, Bird's Defense",
-                            "hm": 6,
                             "children": []
                         }, {
                             "id": "C62",
                             "path": "./img/C62.svg",
                             "name": "Ruy Lopez, Old Steinitz Defense",
-                            "hm": 6,
                             "children": []
                         }, {
                             "id": "C63",
                             "path": "./img/C63.svg",
                             "name": "Ruy Lopez, Schliemann Defense",
-                            "hm": 6,
                             "children": []
                         }, {
                             "id": "C64",
                             "path": "./img/C64.svg",
                             "name": "Ruy Lopez, Classical",
-                            "hm": 6,
                             "children": []
                         }, {
                             "id": "C65",
                             "path": "./img/C65.svg",
                             "name": "Ruy Lopez, Berlin Defense",
-                            "hm": 6,
                             "children": [{
                                 "id": "C66",
                                 "path": "./img/C66.svg",
                                 "name": "Ruy Lopez",
-                                "hm": 8,
                                 "children": []
                             }, {
                                 "id": "C67",
                                 "path": "./img/C67.svg",
                                 "name": "Ruy Lopez",
-                                "hm": 8,
                                 "children": []
                             }]
                         }, {
                             "id": "C68",
                             "path": "./img/C68.svg",
                             "name": "Ruy Lopez, Exchange",
-                            "hm": 7,
                             "children": [{
                                 "id": "C69",
                                 "path": "./img/C69.svg",
                                 "name": "Ruy Lopez, Exchange, Gligoric Variation",
-                                "hm": 10,
                                 "children": []
                             }]
                         }, {
                             "id": "C70",
                             "path": "./img/C70.svg",
                             "name": "Ruy Lopez",
-                            "hm": 7,
                             "children": [{
                                 "id": "C71",
                                 "path": "./img/C71.svg",
                                 "name": "Ruy Lopez",
-                                "hm": 8,
                                 "children": [{
                                     "id": "C72",
                                     "path": "./img/C72.svg",
                                     "name": "Ruy Lopez, Modern Steinitz Defense, 5.O-O",
-                                    "hm": 9,
                                     "children": []
                                 }, {
                                     "id": "C73",
                                     "path": "./img/C73.svg",
                                     "name": "Ruy Lopez, Modern Steinitz Defense",
-                                    "hm": 11,
                                     "children": []
                                 }, {
                                     "id": "C74",
                                     "path": "./img/C74.svg",
                                     "name": "Ruy Lopez, Modern Steinitz Defense",
-                                    "hm": 9,
                                     "children": [{
                                         "id": "C75",
                                         "path": "./img/C75.svg",
                                         "name": "Ruy Lopez, Modern Steinitz Defense",
-                                        "hm": 10,
                                         "children": [{
                                             "id": "C76",
                                             "path": "./img/C76.svg",
                                             "name": "Ruy Lopez, Modern Steinitz Defense, Fianchetto Variation",
-                                            "hm": 12,
                                             "children": []
                                         }]
                                     }]
@@ -2857,39 +2382,32 @@
                                 "id": "C77",
                                 "path": "./img/C77.svg",
                                 "name": "Ruy Lopez",
-                                "hm": 8,
                                 "children": [{
                                     "id": "C78",
                                     "path": "./img/C78.svg",
                                     "name": "Ruy Lopez",
-                                    "hm": 9,
                                     "children": [{
                                         "id": "C79",
                                         "path": "./img/C79.svg",
                                         "name": "Ruy Lopez, Steinitz Defense Deferred",
-                                        "hm": 10,
                                         "children": []
                                     }, {
                                         "id": "C80",
                                         "path": "./img/C80.svg",
                                         "name": "Ruy Lopez, Open",
-                                        "hm": 10,
                                         "children": [{
                                             "id": "C83",
                                             "path": "./img/C83.svg",
                                             "name": "Ruy Lopez, Open",
-                                            "hm": 16,
                                             "children": [{
                                                 "id": "C81",
                                                 "path": "./img/C81.svg",
                                                 "name": "Ruy Lopez, Open, Howell Attack",
-                                                "hm": 17,
                                                 "children": []
                                             }, {
                                                 "id": "C82",
                                                 "path": "./img/C82.svg",
                                                 "name": "Ruy Lopez, Open",
-                                                "hm": 17,
                                                 "children": []
                                             }]
                                         }]
@@ -2897,91 +2415,75 @@
                                         "id": "C84",
                                         "path": "./img/C84.svg",
                                         "name": "Ruy Lopez, Closed",
-                                        "hm": 10,
                                         "children": [{
                                             "id": "C85",
                                             "path": "./img/C85.svg",
                                             "name": "Ruy Lopez, Exchange Variation Doubly Deferred (DERLD)",
-                                            "hm": 12,
                                             "children": []
                                         }, {
                                             "id": "C86",
                                             "path": "./img/C86.svg",
                                             "name": "Ruy Lopez, Worrall Attack",
-                                            "hm": 11,
                                             "children": []
                                         }, {
                                             "id": "C87",
                                             "path": "./img/C87.svg",
                                             "name": "Ruy Lopez",
-                                            "hm": 12,
                                             "children": []
                                         }, {
                                             "id": "C88",
                                             "path": "./img/C88.svg",
                                             "name": "Ruy Lopez",
-                                            "hm": 13,
                                             "children": [{
                                                 "id": "C89",
                                                 "path": "./img/C89.svg",
                                                 "name": "Ruy Lopez, Marshall",
-                                                "hm": 16,
                                                 "children": []
                                             }, {
                                                 "id": "C90",
                                                 "path": "./img/C90.svg",
                                                 "name": "Ruy Lopez, Closed",
-                                                "hm": 16,
                                                 "children": [{
                                                     "id": "C91",
                                                     "path": "./img/C91.svg",
                                                     "name": "Ruy Lopez, Closed",
-                                                    "hm": 17,
                                                     "children": []
                                                 }, {
                                                     "id": "C92",
                                                     "path": "./img/C92.svg",
                                                     "name": "Ruy Lopez, Closed",
-                                                    "hm": 17,
                                                     "children": [{
                                                         "id": "C93",
                                                         "path": "./img/C93.svg",
                                                         "name": "Ruy Lopez, Closed, Smyslov Defense",
-                                                        "hm": 18,
                                                         "children": []
                                                     }, {
                                                         "id": "C94",
                                                         "path": "./img/C94.svg",
                                                         "name": "Ruy Lopez, Closed, Breyer Defense",
-                                                        "hm": 18,
                                                         "children": [{
                                                             "id": "C95",
                                                             "path": "./img/C95.svg",
                                                             "name": "Ruy Lopez, Closed, Breyer",
-                                                            "hm": 19,
                                                             "children": []
                                                         }]
                                                     }, {
                                                         "id": "C96",
                                                         "path": "./img/C96.svg",
                                                         "name": "Ruy Lopez, Closed",
-                                                        "hm": 19,
                                                         "children": [{
                                                             "id": "C97",
                                                             "path": "./img/C97.svg",
                                                             "name": "Ruy Lopez, Closed, Chigorin",
-                                                            "hm": 22,
                                                             "children": [{
                                                                 "id": "C98",
                                                                 "path": "./img/C98.svg",
                                                                 "name": "Ruy Lopez, Closed, Chigorin",
-                                                                "hm": 24,
                                                                 "children": []
                                                             }, {
                                                                 "id": "C99",
                                                                 "path": "./img/C99.svg",
                                                                 "name": "Ruy Lopez, Closed, Chigorin, 12...cd",
-                                                                "hm": 25,
                                                                 "children": []
                                                             }]
                                                         }]
