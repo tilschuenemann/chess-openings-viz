@@ -1,6 +1,6 @@
 [{
     "id": "None",
-    "path": "None",
+    "path": "./img/root.svg",
     "name": "Root",
     "hm": 0,
     "children": [{
@@ -81,7 +81,7 @@
             "hm": 2,
             "children": [{
                 "id": "A14",
-                "path": "./img/A14.svg",
+                "path": "./img/A14.svg", 
                 "name": "English",
                 "hm": 9,
                 "children": []
