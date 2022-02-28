@@ -79,6 +79,7 @@ fetch("../treeData.json")
         .style("font-size", "0.2em")
         .attr("text-anchor", "middle")
         .attr("y","12")
+        .style("visibility", d => ( d.id=="P00" ? "hidden" : "visible"))
     
     g.append('rect')
         .attr("width", "22")
@@ -98,6 +99,7 @@ fetch("../treeData.json")
         })
         .attr('transform', d => `translate(-11,-1)`)
         .attr("rx", "1")
+        .style("visibility", d => ( d.id=="P00" ? "hidden" : "visible"))
         
 
     const board = g.append('image')
