@@ -4812,6 +4812,7 @@
             "path": "./img/B10.svg",
             "name": "Caro-Kann",
             "hm": 2,
+            "color": "DarkOrchid",
             "children": [
               {
                 "id": "P00",

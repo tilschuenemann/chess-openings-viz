@@ -5,7 +5,7 @@ import pandas as pd
 import io
 
 
-df = pd.read_csv("openings_hierarchy.csv",sep=";")
+df = pd.read_csv("backup_data/openings_hierarchy.csv",sep=";")
 
 for row in df.itertuples():
 
@@ -25,7 +25,7 @@ for row in df.itertuples():
 
 
 
-    board_svg = chess.svg.board(board, size = 400)
+    board_svg = chess.svg.board(board, size = 20)
 
     f = open("img/"+tmp_eco+".svg","w")
     f.write(board_svg)
