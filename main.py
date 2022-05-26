@@ -6,14 +6,18 @@ from treelib import Tree
 
 import io
 import os
+import re
 from cairosvg import svg2png
 
 
 def gen_hierarchy(openings: str, output_folder: str):
     df = pd.read_csv(openings, sep=";")
-
     pgnc = list(df["pgn"])
     eco_list = list(df["eco"])
+
+    # placeholders
+    # placeholders = {"pgn": "", "name": "root-pl", "eco": -1}
+    placeholders = pd.DataFrame()
 
     def pop_last_move(pgn: str):
         pgn = pgn.split()
@@ -25,19 +29,59 @@ def gen_hierarchy(openings: str, output_folder: str):
         prev_mov = " ".join(pgn)
         return prev_mov
 
+    # add placeholders for all entries
+    counter = 0
     for index, pgn in enumerate(pgnc):
         while len(pgn) > 0:
             pgn = pop_last_move(pgn)
 
             try:
                 pgn_index = pgnc.index(pgn)
-                df.at[index, "parent"] = eco_list[pgn_index]
+                # df.at[index, "parent"] = eco_list[pgn_index]
                 break
             except ValueError:
-                pgn_index = None
+                # add placeholder
+                # pl = {"pgn": pgn, "name": df["name"][index], "eco": -1}
+                # placeholders.update(pl)
+                if pgn == "":
+                    continue
+                tmp = pd.DataFrame(
+                    {"pgn": [pgn], "name": [f"placeholder-{counter}"], "eco": [counter]}
+                )
+                counter += 1
+                placeholders = pd.concat([placeholders, tmp], axis=0, ignore_index=True)
+                # pgn_index = None
+
+    # remove duplicate pgns from placeholders
+    placeholders.drop_duplicates(subset=["pgn"], keep="first", inplace=True)
+
+    df = pd.concat([df, placeholders], axis=0, ignore_index=True)
+    df.sort_values(by="pgn", key=lambda x: x.str.len(), inplace=True)
+
+    # add parent for all entries
+    pgnc = list(df["pgn"])
+    eco_list = list(df["eco"])
+
+    for index, pgn in enumerate(pgnc):
+        while len(pgn) > 0:
+            pgn = pop_last_move(pgn)
+            try:
+                pgn_index = pgnc.index(pgn)
+                df.at[index, "parent"] = eco_list[pgn_index]
+            except ValueError:
+                continue
+
+    df["parent"] = df["parent"].fillna("root")
 
     # sort df by pgn length to enable bottom up tree building
     df.sort_values(by="pgn", key=lambda x: x.str.len(), inplace=True)
+
+    # add half moves
+    def get_hm(pgn: str):
+        pgn = pgn.strip()
+        return pgn.count(" ") + 1 - int(re.findall(r"\b[0-9]+\b", pgn)[-1])
+
+    df["hm"] = df["pgn"].apply(lambda x: get_hm(x))
 
     df.to_csv(f"{output_folder}/1-openings_hierarchy.csv", sep=";", index=False)
 
