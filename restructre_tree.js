@@ -1,5 +1,8 @@
 const { readFile, writeFile } = require('fs/promises');
 
+// Converts JSON stucture to d3 readable json file
+// inserts placholder Templateboards where no consecutive halfemoves exists
+
 const placeholderTemplate = {
   id: 'P00',
   path: './img/placeholder.svg',
