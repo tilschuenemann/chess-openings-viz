@@ -15,25 +15,26 @@ def gen_hierarchy(openings: str, output_folder: str):
     pgnc = list(df["pgn"])
     eco_list = list(df["eco"])
 
-    for index, row in enumerate(pgnc):
-
-        # to evaluate parent the last move gets undone
-        # eventually the move indicator also has to be removed
-        pgn = row.split()
+    def pop_last_move(pgn: str):
+        pgn = pgn.split()
         pgn.pop()
 
         if pgn[-1].isnumeric():
             pgn.pop()
 
         prev_mov = " ".join(pgn)
+        return prev_mov
 
-        # lookup eco of parent by previous move
+    for index, pgn in enumerate(pgnc):
+        while len(pgn) > 0:
+            pgn = pop_last_move(pgn)
 
-        try:
-            pgn_index = pgnc.index(prev_mov)
-            df.at[index, "parent"] = eco_list[pgn_index]
-        except ValueError:
-            pgn_index = None
+            try:
+                pgn_index = pgnc.index(pgn)
+                df.at[index, "parent"] = eco_list[pgn_index]
+                break
+            except ValueError:
+                pgn_index = None
 
     # sort df by pgn length to enable bottom up tree building
     df.sort_values(by="pgn", key=lambda x: x.str.len(), inplace=True)
