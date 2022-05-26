@@ -7,7 +7,8 @@ tree = Tree()
 df=pd.read_csv("./openings_hierarchy _halfmoves.csv", sep=";")
 
 
-tree.create_node("Root", "root")
+tree.create_node("Root", "root",data={'id': "None" ,"name": "Root",
+    "hm": 0 , 'path': './img/root.svg'})
 for i in range(len(df)):
     if not pd.notna(df.iloc[i]['parent']):
         tree.create_node( df.iloc[i]['eco'], df.iloc[i]['eco'],parent= 'root',data={'id': df.iloc[i]['eco'], 'path': './img/'+df.iloc[i]['eco']+'.svg', 'name': df.iloc[i]['name'],'hm': int(df.iloc[i]['halfmove'])})

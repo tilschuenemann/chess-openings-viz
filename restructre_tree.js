@@ -6,9 +6,24 @@ const placeholderTemplate = {
   name: 'placeholder'
 }
 
-readFile("./treeData.json", "utf8")
+readFile("./tree_halfmoves.json", "utf8")
   .then(data => {
-    const tree = JSON.parse(data)
+    
+    
+    const data_json = JSON.parse(data)
+    const tree = data_json.map(function createDS_step_one(item){
+      return {
+          id: item[Object.keys(item)[0]].data.id,
+          path: item[Object.keys(item)[0]].data.path,
+          name: item[Object.keys(item)[0]].data.name,
+          hm: item[Object.keys(item)[0]].data.hm,
+          children:  ("children" in item[Object.keys(item)[0]] ? item[Object.keys(item)[0]].children.map(createDS_step_one) : [])
+      }
+    })
+
+
+    //console.log(tree)
+
 
     const createDS = (parentHM) => (item) => {
       let { children, ...data } = item;
@@ -28,13 +43,5 @@ readFile("./treeData.json", "utf8")
     const treeNew = tree.map(createDS(-1))
 
     return writeFile("./treeDataNew.json", JSON.stringify(treeNew, null, 2))
-    /*
-            function download(content, fileName, contentType) {
-            var a = document.createElement("a");
-            var file = new Blob([content], {type: contentType});
-            a.href = URL.createObjectURL(file);
-            a.download = fileName;
-            a.click();
-        }
-        download(JSON.stringify(data_new), 'json.json', 'text/plain');*/
+  
   });
