@@ -1,4 +1,4 @@
-from cairosvg import svg2png
+#from cairosvg import svg2png
 import chess.pgn
 import chess.svg
 import chess
@@ -42,7 +42,24 @@ def pop_last_move(pgn: str) -> str:
     prev_mov = " ".join(pgn)
     return prev_mov
 
-def gen_hierarchy(openings: str, output_folder: str):
+def get_moves(pgn: str) -> int:
+    """Calculates the amount of moves for a given string with PGN 
+    notation.
+
+    Paramters
+    -------
+    pgn: str
+        string with pgn notation
+
+    Returns
+    -------
+    int
+        amount of half-moves
+    """
+    pgn = pgn.strip()
+    return pgn.count(" ") + 1 - int(re.findall(r"\b\d+\b", pgn)[-1])
+
+def gen_hierarchy(df: pd.DataFrame) -> pd.DataFrame:
     """Reads openings file, adds parent reference by pgn, adds half moves and writes to disk.
     
     If there is no index for the parent move, a placeholders gets added.
@@ -52,13 +69,16 @@ def gen_hierarchy(openings: str, output_folder: str):
 
     Parameters
     -------
-
-
-
+    df: pd.DataFrame
+        df with columns eco, pgn, name
+    
+    Returns 
+    -------
+    pd.DataFrame
+        openings with move count, parent column and placeholders for
+        missing entries
     """
 
-
-    df = pd.read_csv(openings, sep=";")
     if set(['eco','pgn',"name"]).issubset(df.columns) is False:
         exit("malformed openings format: eco, pgn and name columns are needed")
 
@@ -67,6 +87,7 @@ def gen_hierarchy(openings: str, output_folder: str):
     placeholders = pd.DataFrame()
 
     # add placeholders for all entries
+    # TODO there is probably a better way to do this
     counter = 0
     for index, pgn in enumerate(pgnc):
         while len(pgn) > 0:
@@ -86,36 +107,15 @@ def gen_hierarchy(openings: str, output_folder: str):
 
     # remove duplicate pgns from placeholders
     placeholders.drop_duplicates(subset=["pgn"], keep="first", inplace=True)
-
     df = pd.concat([df, placeholders], axis=0, ignore_index=True)
-    df.sort_values(by="pgn", key=lambda x: x.str.len(), inplace=True)
 
-    # add parent for all entries
-    pgnc = list(df["pgn"])
-    eco_list = list(df["eco"])
-
-    for index, pgn in enumerate(pgnc):
-        while len(pgn) > 0:
-            pgn = pop_last_move(pgn)
-            try:
-                pgn_index = pgnc.index(pgn)
-                df.at[index, "parent"] = eco_list[pgn_index]
-            except ValueError:
-                continue
-
-    df["parent"] = df["parent"].fillna("root")
+    df["parent"] = df["pgn"].apply(lambda x : pop_last_move(x))
+    df["move_count"] = df["pgn"].apply(lambda x: get_moves(x))
 
     # sort df by pgn length to enable bottom up tree building
     df.sort_values(by="pgn", key=lambda x: x.str.len(), inplace=True)
 
-    # add half moves
-    def get_hm(pgn: str):
-        pgn = pgn.strip()
-        return pgn.count(" ") + 1 - int(re.findall(r"\b[0-9]+\b", pgn)[-1])
-
-    df["hm"] = df["pgn"].apply(lambda x: get_hm(x))
-
-    df.to_csv(f"{output_folder}/1-openings_hierarchy.csv", sep=";", index=False)
+    return df
 
 
 def gen_images(
@@ -181,13 +181,16 @@ def gen_treetxt(openings_hierarchy: str, output_folder: str):
 
 if __name__ == "__main__":
 
-    openings = "data/0-openings.csv"
-    output_folder = "output/"
-    size = 400
-    gen_svgs = True
-    gen_pngs = True
-    gen_hierarchy(openings, output_folder)
+    openings = pd.read_csv("data/0-openings.csv",sep=";")
+    new_openings = gen_hierarchy(openings)
+    new_openings.to_csv("output/3-openings.csv",sep=";",index=False)
 
-    openings_hierarchy = "output/1-openings_hierarchy.csv"
-    gen_images(openings_hierarchy, output_folder, size, gen_svgs, gen_pngs)
-    gen_treetxt(openings_hierarchy, output_folder)
+
+    #size = 400
+    #gen_svgs = True
+    #gen_pngs = True
+    
+
+    #openings_hierarchy = "output/1-openings_hierarchy.csv"
+    #gen_images(openings_hierarchy, output_folder, size, gen_svgs, gen_pngs)
+    #gen_treetxt(openings_hierarchy, output_folder)
