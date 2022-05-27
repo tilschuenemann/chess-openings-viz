@@ -1,3 +1,4 @@
+from cairosvg import svg2png
 import chess.pgn
 import chess.svg
 import chess
@@ -7,27 +8,63 @@ from treelib import Tree
 import io
 import os
 import re
-from cairosvg import svg2png
 
+def pop_last_move(pgn: str) -> str:
+    """Pops the last move from string with PGN notation. Works for move
+    notations:
+    1. d4
+    1 d4
 
-def gen_hierarchy(openings: str, output_folder: str):
-    df = pd.read_csv(openings, sep=";")
-    pgnc = list(df["pgn"])
-    eco_list = list(df["eco"])
+    Empty strings will be returned with "".
 
-    # placeholders
-    # placeholders = {"pgn": "", "name": "root-pl", "eco": -1}
-    placeholders = pd.DataFrame()
+    Paramters
+    -------
+    pgn: str
+        string with pgn notation
 
-    def pop_last_move(pgn: str):
-        pgn = pgn.split()
+    Returns
+    -------
+    str
+        string with pgn notation without the last move
+
+    """
+
+    if not (pgn and pgn.strip()):
+        return ""
+
+    pgn = pgn.split()
+
+    pgn.pop()
+
+    if pgn[-1].isnumeric() or pgn[-1].replace(".","").isnumeric():
         pgn.pop()
 
-        if pgn[-1].isnumeric():
-            pgn.pop()
+    prev_mov = " ".join(pgn)
+    return prev_mov
 
-        prev_mov = " ".join(pgn)
-        return prev_mov
+def gen_hierarchy(openings: str, output_folder: str):
+    """Reads openings file, adds parent reference by pgn, adds half moves and writes to disk.
+    
+    If there is no index for the parent move, a placeholders gets added.
+
+    After that, the lookup is performed again and the parent reference 
+    gets added in another column.
+
+    Parameters
+    -------
+
+
+
+    """
+
+
+    df = pd.read_csv(openings, sep=";")
+    if set(['eco','pgn',"name"]).issubset(df.columns) is False:
+        exit("malformed openings format: eco, pgn and name columns are needed")
+
+    pgnc = list(df["pgn"])
+
+    placeholders = pd.DataFrame()
 
     # add placeholders for all entries
     counter = 0
@@ -37,12 +74,8 @@ def gen_hierarchy(openings: str, output_folder: str):
 
             try:
                 pgn_index = pgnc.index(pgn)
-                # df.at[index, "parent"] = eco_list[pgn_index]
                 break
             except ValueError:
-                # add placeholder
-                # pl = {"pgn": pgn, "name": df["name"][index], "eco": -1}
-                # placeholders.update(pl)
                 if pgn == "":
                     continue
                 tmp = pd.DataFrame(
@@ -50,7 +83,6 @@ def gen_hierarchy(openings: str, output_folder: str):
                 )
                 counter += 1
                 placeholders = pd.concat([placeholders, tmp], axis=0, ignore_index=True)
-                # pgn_index = None
 
     # remove duplicate pgns from placeholders
     placeholders.drop_duplicates(subset=["pgn"], keep="first", inplace=True)
