@@ -2,11 +2,13 @@
 import chess.pgn
 import chess.svg
 import chess
+import networkx as nx
 import pandas as pd
 from treelib import Tree
 
+
 import io
-import os
+import json
 import re
 
 def pop_last_move(pgn: str) -> str:
@@ -111,6 +113,18 @@ def gen_hierarchy(df: pd.DataFrame) -> pd.DataFrame:
 
     df["parent"] = df["pgn"].apply(lambda x : pop_last_move(x))
     df["move_count"] = df["pgn"].apply(lambda x: get_moves(x))
+    df["path"] = df["eco"].apply(lambda x: "img/"+str(x)+".svg")
+
+    root_row = pd.DataFrame({"eco": ["nan"],
+                            "entry": ["nan"],
+                            "name": ["nan"],
+                            "pgn": ["root"],
+                            "parent": ["nan"],
+                            "move_count": ["nan"],
+                            "path": ["nan"]})
+
+    df = pd.concat([df,root_row],axis=0)
+    df["parent"] = df["parent"].replace("","root")
 
     # sort df by pgn length to enable bottom up tree building
     df.sort_values(by="pgn", key=lambda x: x.str.len(), inplace=True)
@@ -119,7 +133,7 @@ def gen_hierarchy(df: pd.DataFrame) -> pd.DataFrame:
 
 
 def gen_images(
-    openings_hierarchy: str,
+    df: pd.DataFrame,
     output_folder: str,
     size: int,
     gen_svgs: bool,
@@ -128,10 +142,6 @@ def gen_images(
 
     if gen_svgs is False and gen_pngs is False:
         exit("specify whether to generate svgs or pngs")
-    elif os.path.exists(openings_hierarchy) is False:
-        exit("openings hierarchy file doesnt exist")
-
-    df = pd.read_csv(openings_hierarchy, sep=";")
 
     for row in df.itertuples():
         tmp_pgn = io.StringIO(row.pgn)
@@ -178,19 +188,23 @@ def gen_treetxt(openings_hierarchy: str, output_folder: str):
 
     tree.save2file(f"{output_folder}/tree.txt")
 
+def gen_treejson(df: pd.DataFrame):
+    if set(['eco','pgn',"name","parent","path","move_count"]).issubset(df.columns) is False:
+        exit("malformed format")
+
+    g = nx.from_pandas_edgelist(df,  "parent", "pgn",create_using=nx.DiGraph())
+    d = {v: {'id': e, "path": p, 'name': n, "move_count":m} for v,e,n,p,m in zip(df.pgn, df.eco, df.name, df.path, df.move_count)}
+    nx.set_node_attributes(g, d) 
+    out = [nx.tree_data(g, "root",ident="id",children="children",)]
+
+    with open("tree.json", "w") as outfile:
+        json.dump(out, outfile)
 
 if __name__ == "__main__":
 
     openings = pd.read_csv("data/0-openings.csv",sep=";")
     new_openings = gen_hierarchy(openings)
-    new_openings.to_csv("output/3-openings.csv",sep=";",index=False)
-
-
-    #size = 400
-    #gen_svgs = True
-    #gen_pngs = True
-    
-
-    #openings_hierarchy = "output/1-openings_hierarchy.csv"
-    #gen_images(openings_hierarchy, output_folder, size, gen_svgs, gen_pngs)
+    new_openings.to_csv("output/4-openings.csv",sep=";",index=False)
+    gen_treejson(new_openings)
+    gen_images(new_openings, "output/img/", 30, True, False)
     #gen_treetxt(openings_hierarchy, output_folder)
