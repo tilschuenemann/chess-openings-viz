@@ -2101,49 +2101,49 @@
 655;C44;King's Pawn Game: Pachman Wing Gambit;1. e4 e5 2. Nf3 Nc6 3. b4
 656;C44;King's Pawn Game: Schulze-Müller Gambit;1. e4 e5 2. Nf3 Nc6 3. Nxe5 Nxe5 4. d4
 657;C44;King's Pawn Game: Tayler Opening;1. e4 e5 2. Nf3 Nc6 3. Be2
-658;C44;King's Pawn Game: Tayler Opening, Basman Gambit;1. e4 e5 2. Nf3 Nc6 3. Be2 Nf6 4. d4 exd4 5. e5
-659;C44;King's Pawn Game: Tayler Opening, Inverted Hanham;1. e4 e5 2. Nf3 Nc6 3. Be2 Nf6 4. d3 d5 5. Nbd2
-660;C44;Latvian Gambit: Clam Gambit;1. e4 e5 2. Nf3 Nc6 3. d3 f5 4. exf5
-661;C44;Ponziani Opening;1. e4 e5 2. Nf3 Nc6 3. c3
-662;C44;Ponziani Opening: Caro Gambit;1. e4 e5 2. Nf3 Nc6 3. c3 d5 4. Qa4 Bd7
-663;C44;Ponziani Opening: Jaenisch Counterattack;1. e4 e5 2. Nf3 Nc6 3. c3 Nf6
-664;C44;Ponziani Opening: Leonhardt Variation;1. e4 e5 2. Nf3 Nc6 3. c3 d5 4. Qa4 Nf6
-665;C44;Ponziani Opening: Neumann Gambit;1. e4 e5 2. Nf3 Nc6 3. c3 Nf6 4. Bc4
-666;C44;Ponziani Opening: Ponziani Countergambit;1. e4 e5 2. Nf3 Nc6 3. c3 f5
-667;C44;Ponziani Opening: Ponziani Countergambit, Cordel Variation;1. e4 e5 2. Nf3 Nc6 3. c3 f5 4. d4 d6 5. d5 fxe4 6. Ng5 Nb8 7. Nxe4 Nf6 8. Bd3 Be7
-668;C44;Ponziani Opening: Ponziani Countergambit, Schmidt Attack;1. e4 e5 2. Nf3 Nc6 3. c3 f5 4. d4 d6 5. d5
-669;C44;Ponziani Opening: Romanishin Variation;1. e4 e5 2. Nf3 Nc6 3. c3 Be7
-670;C44;Ponziani Opening: Réti Variation;1. e4 e5 2. Nf3 Nc6 3. c3 Nge7
-671;C44;Ponziani Opening: Spanish Variation;1. e4 e5 2. Nf3 Nc6 3. c3 d5 4. Bb5
-672;C44;Ponziani Opening: Spanish Variation, Harrwitz Attack, Nikitin Gambit;1. e4 e5 2. Nf3 Nc6 3. c3 d5 4. Bb5 dxe4 5. Nxe5 Qd5 6. Qa4
-673;C44;Ponziani Opening: Steinitz Variation;1. e4 e5 2. Nf3 Nc6 3. c3 d5 4. Qa4 f6
-674;C44;Ponziani Opening: Vukovic Gambit;1. e4 e5 2. Nf3 Nc6 3. c3 Nf6 4. d4 Nxe4 5. d5 Bc5
-675;C44;Scotch Game;1. e4 e5 2. Nf3 Nc6 3. d4
-676;C44;Scotch Game;1. e4 e5 2. Nf3 Nc6 3. d4 exd4
-677;C44;Scotch Game: Benima Defense;1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7 4. d4 exd4
-678;C44;Scotch Game: Cochrane Variation;1. e4 e5 2. Nf3 Nc6 3. d4 Nxd4 4. Nxe5 Ne6 5. Bc4 c6 6. O-O Nf6 7. Nxf7
-679;C44;Scotch Game: Cochrane Variation;1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bb4+ 5. c3 dxc3 6. bxc3 Ba5 7. e5
-680;C44;Scotch Game: Cochrane-Shumov Defense;1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. Ng5 Nh6 6. Nxf7 Nxf7 7. Bxf7+ Kxf7 8. Qh5+ g6 9. Qxc5 d5
-681;C44;Scotch Game: Göring Gambit;1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3
-682;C44;Scotch Game: Göring Gambit, Bardeleben Variation;1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Bc4 Nf6 6. Nxc3 Bb4
-683;C44;Scotch Game: Göring Gambit, Double Pawn Sacrifice;1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Bc4
-684;C44;Scotch Game: Göring Gambit, Main Line;1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Nxc3 Bb4
-685;C44;Scotch Game: Hanneken Variation;1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bb4+ 5. c3 dxc3 6. O-O cxb2 7. Bxb2 Nf6 8. Ng5 O-O 9. e5 Nxe5
-686;C44;Scotch Game: Haxo Gambit;1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5
-687;C44;Scotch Game: Lolli Variation;1. e4 e5 2. Nf3 Nc6 3. d4 Nxd4
-688;C44;Scotch Game: Napoleon Gambit;1. e4 e5 2. Nf3 Nc6 3. d4 Nxd4 4. Nxd4 exd4 5. Bc4
-689;C44;Scotch Game: Relfsson Gambit;1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bb5
-690;C44;Scotch Game: Scotch Gambit;1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4
-691;C44;Scotch Game: Scotch Gambit, Advance Variation;1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. e5
-692;C44;Scotch Game: Scotch Gambit, Cochrane-Anderssen Variation;1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. O-O d6 6. c3 Bg4
-693;C44;Scotch Game: Scotch Gambit, Dubois Réti Defense;1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4
-694;C44;Scotch Game: Scotch Gambit, Göring Gambit Declined;1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 d5
-695;C44;Scotch Game: Scotch Gambit, Kingside Variation;1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. e5 Ng4
-696;C44;Scotch Game: Scotch Gambit, London Defense;1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bb4+
-697;C44;Scotch Game: Scotch Gambit, Sarratt Variation;1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. Ng5
-698;C44;Scotch Game: Sea-cadet Mate;1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Nxc3 d6 6. Bc4 Bg4 7. O-O Ne5 8. Nxe5 Bxd1 9. Bxf7+ Ke7 10. Nd5#
-699;C44;Scotch Game: Vitzthum Attack;1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. Ng5 Nh6 6. Qh5
-700;C44;Tayler Opening;1. e4 e5 2. Nf3 Nc6 3. Be2 Nf6 4. d4
+658;C44;King's Pawn Game: Tayler Opening;1. e4 e5 2. Nf3 Nc6 3. Be2 Nf6 4. d4
+659;C44;King's Pawn Game: Tayler Opening, Basman Gambit;1. e4 e5 2. Nf3 Nc6 3. Be2 Nf6 4. d4 exd4 5. e5
+660;C44;King's Pawn Game: Tayler Opening, Inverted Hanham;1. e4 e5 2. Nf3 Nc6 3. Be2 Nf6 4. d3 d5 5. Nbd2
+661;C44;Latvian Gambit: Clam Gambit;1. e4 e5 2. Nf3 Nc6 3. d3 f5 4. exf5
+662;C44;Ponziani Opening;1. e4 e5 2. Nf3 Nc6 3. c3
+663;C44;Ponziani Opening: Caro Gambit;1. e4 e5 2. Nf3 Nc6 3. c3 d5 4. Qa4 Bd7
+664;C44;Ponziani Opening: Jaenisch Counterattack;1. e4 e5 2. Nf3 Nc6 3. c3 Nf6
+665;C44;Ponziani Opening: Leonhardt Variation;1. e4 e5 2. Nf3 Nc6 3. c3 d5 4. Qa4 Nf6
+666;C44;Ponziani Opening: Neumann Gambit;1. e4 e5 2. Nf3 Nc6 3. c3 Nf6 4. Bc4
+667;C44;Ponziani Opening: Ponziani Countergambit;1. e4 e5 2. Nf3 Nc6 3. c3 f5
+668;C44;Ponziani Opening: Ponziani Countergambit, Cordel Variation;1. e4 e5 2. Nf3 Nc6 3. c3 f5 4. d4 d6 5. d5 fxe4 6. Ng5 Nb8 7. Nxe4 Nf6 8. Bd3 Be7
+669;C44;Ponziani Opening: Ponziani Countergambit, Schmidt Attack;1. e4 e5 2. Nf3 Nc6 3. c3 f5 4. d4 d6 5. d5
+670;C44;Ponziani Opening: Romanishin Variation;1. e4 e5 2. Nf3 Nc6 3. c3 Be7
+671;C44;Ponziani Opening: Réti Variation;1. e4 e5 2. Nf3 Nc6 3. c3 Nge7
+672;C44;Ponziani Opening: Spanish Variation;1. e4 e5 2. Nf3 Nc6 3. c3 d5 4. Bb5
+673;C44;Ponziani Opening: Spanish Variation, Harrwitz Attack, Nikitin Gambit;1. e4 e5 2. Nf3 Nc6 3. c3 d5 4. Bb5 dxe4 5. Nxe5 Qd5 6. Qa4
+674;C44;Ponziani Opening: Steinitz Variation;1. e4 e5 2. Nf3 Nc6 3. c3 d5 4. Qa4 f6
+675;C44;Ponziani Opening: Vukovic Gambit;1. e4 e5 2. Nf3 Nc6 3. c3 Nf6 4. d4 Nxe4 5. d5 Bc5
+676;C44;Scotch Game;1. e4 e5 2. Nf3 Nc6 3. d4
+677;C44;Scotch Game;1. e4 e5 2. Nf3 Nc6 3. d4 exd4
+678;C44;Scotch Game: Benima Defense;1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7 4. d4 exd4
+679;C44;Scotch Game: Cochrane Variation;1. e4 e5 2. Nf3 Nc6 3. d4 Nxd4 4. Nxe5 Ne6 5. Bc4 c6 6. O-O Nf6 7. Nxf7
+680;C44;Scotch Game: Cochrane Variation;1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bb4+ 5. c3 dxc3 6. bxc3 Ba5 7. e5
+681;C44;Scotch Game: Cochrane-Shumov Defense;1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. Ng5 Nh6 6. Nxf7 Nxf7 7. Bxf7+ Kxf7 8. Qh5+ g6 9. Qxc5 d5
+682;C44;Scotch Game: Göring Gambit;1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3
+683;C44;Scotch Game: Göring Gambit, Bardeleben Variation;1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Bc4 Nf6 6. Nxc3 Bb4
+684;C44;Scotch Game: Göring Gambit, Double Pawn Sacrifice;1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Bc4
+685;C44;Scotch Game: Göring Gambit, Main Line;1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Nxc3 Bb4
+686;C44;Scotch Game: Hanneken Variation;1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bb4+ 5. c3 dxc3 6. O-O cxb2 7. Bxb2 Nf6 8. Ng5 O-O 9. e5 Nxe5
+687;C44;Scotch Game: Haxo Gambit;1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5
+688;C44;Scotch Game: Lolli Variation;1. e4 e5 2. Nf3 Nc6 3. d4 Nxd4
+689;C44;Scotch Game: Napoleon Gambit;1. e4 e5 2. Nf3 Nc6 3. d4 Nxd4 4. Nxd4 exd4 5. Bc4
+690;C44;Scotch Game: Relfsson Gambit;1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bb5
+691;C44;Scotch Game: Scotch Gambit;1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4
+692;C44;Scotch Game: Scotch Gambit, Advance Variation;1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. e5
+693;C44;Scotch Game: Scotch Gambit, Cochrane-Anderssen Variation;1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. O-O d6 6. c3 Bg4
+694;C44;Scotch Game: Scotch Gambit, Dubois Réti Defense;1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4
+695;C44;Scotch Game: Scotch Gambit, Göring Gambit Declined;1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 d5
+696;C44;Scotch Game: Scotch Gambit, Kingside Variation;1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. e5 Ng4
+697;C44;Scotch Game: Scotch Gambit, London Defense;1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bb4+
+698;C44;Scotch Game: Scotch Gambit, Sarratt Variation;1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. Ng5
+699;C44;Scotch Game: Sea-cadet Mate;1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Nxc3 d6 6. Bc4 Bg4 7. O-O Ne5 8. Nxe5 Bxd1 9. Bxf7+ Ke7 10. Nd5#
+700;C44;Scotch Game: Vitzthum Attack;1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. Ng5 Nh6 6. Qh5
 701;C45;Scotch Game;1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4
 702;C45;Scotch Game;1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Qh4 5. Nb5 Bb4+ 6. Bd2
 703;C45;Scotch Game: Alekhine Gambit;1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. e5
