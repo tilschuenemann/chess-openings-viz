@@ -131,7 +131,9 @@ def gen_hierarchy(df: pd.DataFrame) -> pd.DataFrame:
 
     df["parent"] = df["pgn"].apply(lambda x: pop_last_move(x))
     df["move_count"] = df["pgn"].apply(lambda x: get_moves(x))
-    df["path"] = df["pgn"].apply(lambda x: "img/" + str(x) + ".svg")
+
+    df["id"] = list(range(0, 7910))
+    df["path"] = df["id"].apply(lambda x: "img/" + str(x) + ".svg")
 
     root_row = pd.DataFrame(
         {
@@ -164,7 +166,7 @@ def gen_images(
     if gen_svgs is False and gen_pngs is False:
         exit("specify whether to generate svgs or pngs")
 
-    for row in df.itertuples():
+    for index, row in enumerate(df.itertuples()):
         tmp_pgn = io.StringIO(row.pgn)
 
         # there have been bad pgns throwing errors because of wrong syntax
@@ -184,12 +186,12 @@ def gen_images(
             board_svg = chess.svg.board(board, size=size, lastmove=last_move)
 
         if gen_svgs:
-            f = open(f"{output_folder}/{row.pgn}.svg", "w")
+            f = open(f"{output_folder}/{index}.svg", "w")
             f.write(board_svg)
             f.close()
 
         if gen_pngs:
-            svg2png(bytestring=board_svg, write_to=f"{output_folder}/{row.pgn}.png")
+            svg2png(bytestring=board_svg, write_to=f"{output_folder}/{index}.png")
 
 
 def gen_treetxt(df: pd.DataFrame, output_folder: str):
