@@ -2,7 +2,7 @@
 name = "chessviz"
 version = "0.1.0"
 description = ""
-authors = ["schuenemann, kiesgen]
+authors = ["schuenemann", "LeonKie"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
