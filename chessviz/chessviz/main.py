@@ -12,6 +12,25 @@ import json
 import re
 
 
+def get_lichess_openings():
+    lichess_openings = [
+        "https://raw.githubusercontent.com/lichess-org/chess-openings/master/a.tsv",
+        "https://raw.githubusercontent.com/lichess-org/chess-openings/master/b.tsv",
+        "https://raw.githubusercontent.com/lichess-org/chess-openings/master/c.tsv",
+        "https://raw.githubusercontent.com/lichess-org/chess-openings/master/d.tsv",
+        "https://raw.githubusercontent.com/lichess-org/chess-openings/master/e.tsv",
+    ]
+
+    df = pd.DataFrame()
+
+    for opening in lichess_openings:
+        tmp = pd.read_csv(opening, sep="\t")
+        df = pd.concat([df, tmp], axis=0)
+
+    df.to_csv("../data/00-lichess-openings.csv", sep=";")
+    return df
+
+
 def pop_last_move(pgn: str) -> str:
     """Pops the last move from string with PGN notation. Works for move
     notations:
@@ -120,13 +139,12 @@ def gen_hierarchy(df: pd.DataFrame) -> pd.DataFrame:
 
     root_row = pd.DataFrame(
         {
-            "eco": ["nan"],
-            "entry": ["nan"],
-            "name": ["nan"],
+            "eco": ["empty"],
+            "name": ["empty"],
             "pgn": ["root"],
-            "parent": ["nan"],
-            "move_count": ["nan"],
-            "path": ["nan"],
+            "parent": ["empty"],
+            "move_count": ["empty"],
+            "path": ["empty"],
         }
     )
 
@@ -174,24 +192,17 @@ def gen_images(
             svg2png(bytestring=board_svg, write_to=f"{output_folder}/{tmp_eco}.png")
 
 
-def gen_treetxt(openings_hierarchy: str, output_folder: str):
-    df = pd.read_csv(openings_hierarchy, sep=";")
-
-    df.sort_values(by="pgn", key=lambda x: x.str.len(), inplace=True)
+def gen_treetxt(df: pd.DataFrame, output_folder: str):
+    # df.sort_values(by="pgn", key=lambda x: x.str.len(), inplace=True)
 
     tree = Tree()
+    tree.create_node(tag="empty", identifier="empty")  # root node
 
-    eco_list = list(df["eco"])
+    pgn_list = list(df["pgn"])
     parent_list = list(df["parent"])
 
-    tree.create_node("i am root", "root")
-
-    for index, element in enumerate(eco_list):
-        if pd.isna(parent_list[index]):
-            tree.create_node(element, element, "root")
-            continue
-
-        tree.create_node(element, element, parent_list[index])
+    for index, element in enumerate(pgn_list):
+        tree.create_node(tag=element, identifier=element, parent=parent_list[index])
 
     tree.save2file(f"{output_folder}/tree.txt")
 
@@ -223,12 +234,11 @@ def gen_treejson(df: pd.DataFrame, output_folder: str):
 
 
 if __name__ == "__main__":
-    # run this in chessviz/main.py level
-    openings = pd.read_csv("../data/0-openings.csv", sep=";")
-    new_openings = gen_hierarchy(openings)
-    new_openings.to_csv("../output/4-openings.csv", sep=";", index=False)
+    lichess = get_lichess_openings()
+    lichess = gen_hierarchy(lichess)
+    lichess.to_csv("../output/04-lichess-openings.csv", sep=";", index=False)
 
-    gen_treejson(new_openings, "../output/")
+    gen_treejson(lichess, "../output/")
 
-    gen_images(new_openings, "../output/img/", 30, True, False)
-    # gen_treetxt(openings_hierarchy, output_folder)
+    gen_images(lichess, "../output/img/", 30, True, False)
+    gen_treetxt(lichess, "../output/")
