@@ -112,7 +112,6 @@ def gen_hierarchy(df: pd.DataFrame) -> pd.DataFrame:
 
     # add placeholders for all entries
     # TODO there is probably a better way to do this
-    counter = 0
     for index, pgn in enumerate(pgnc):
         while len(pgn) > 0:
             pgn = pop_last_move(pgn)
@@ -123,10 +122,7 @@ def gen_hierarchy(df: pd.DataFrame) -> pd.DataFrame:
             except ValueError:
                 if pgn == "":
                     continue
-                tmp = pd.DataFrame(
-                    {"pgn": [pgn], "name": [f"placeholder-{counter}"], "eco": [counter]}
-                )
-                counter += 1
+                tmp = pd.DataFrame({"pgn": [pgn], "name": ["P00"], "eco": ["P00"]})
                 placeholders = pd.concat([placeholders, tmp], axis=0, ignore_index=True)
 
     # remove duplicate pgns from placeholders
@@ -135,7 +131,7 @@ def gen_hierarchy(df: pd.DataFrame) -> pd.DataFrame:
 
     df["parent"] = df["pgn"].apply(lambda x: pop_last_move(x))
     df["move_count"] = df["pgn"].apply(lambda x: get_moves(x))
-    df["path"] = df["eco"].apply(lambda x: "img/" + str(x) + ".svg")
+    df["path"] = df["pgn"].apply(lambda x: "img/" + str(x) + ".svg")
 
     root_row = pd.DataFrame(
         {
@@ -170,7 +166,6 @@ def gen_images(
 
     for row in df.itertuples():
         tmp_pgn = io.StringIO(row.pgn)
-        tmp_eco = str(row.eco)
 
         # there have been bad pgns throwing errors because of wrong syntax
         try:
@@ -181,15 +176,20 @@ def gen_images(
         except Exception:
             print(f"failure for row: {row}")
 
-        board_svg = chess.svg.board(board, size=size)
+        if row.pgn == "root":
+            continue
+            # board_svg = chess.svg.board(board, size=size)
+        else:
+            last_move = board.peek()
+            board_svg = chess.svg.board(board, size=size, lastmove=last_move)
 
         if gen_svgs:
-            f = open(f"{output_folder}/{tmp_eco}.svg", "w")
+            f = open(f"{output_folder}/{row.pgn}.svg", "w")
             f.write(board_svg)
             f.close()
 
         if gen_pngs:
-            svg2png(bytestring=board_svg, write_to=f"{output_folder}/{tmp_eco}.png")
+            svg2png(bytestring=board_svg, write_to=f"{output_folder}/{row.pgn}.png")
 
 
 def gen_treetxt(df: pd.DataFrame, output_folder: str):
@@ -241,4 +241,4 @@ if __name__ == "__main__":
     gen_treejson(lichess, "../output/")
 
     gen_images(lichess, "../output/img/", 30, True, False)
-    gen_treetxt(lichess, "../output/")
+    # gen_treetxt(lichess, "../output/")
