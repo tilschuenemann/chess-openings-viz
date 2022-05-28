@@ -1,0 +1,905 @@
+eco;entry;name;pgn;parent;hm
+A01;Nimzovich-Larsen Attack 1 b3;Nimzovich-Larsen Attack;1 b3;root;1
+A02;Bird's Opening 1 f4;Bird's Opening;1 f4;root;1
+B00;Uncommon King's Pawn Opening 1 e4;Uncommon King's Pawn Opening;1 e4;root;1
+A40;Queen's Pawn Game 1 d4;Queen's Pawn Game;1 d4;root;1
+A10;English 1 c4;English;1 c4;root;1
+A04;Reti Opening 1 Nf3;Reti Opening;1 Nf3;root;1
+A13;English 1 c4 e6;English;1 c4 e6;A10;2
+A11;English, Caro-Kann Defensive System 1 c4 c6;English, Caro-Kann Defensive System;1 c4 c6;A10;2
+A03;Bird's Opening 1 f4 d5;Bird's Opening;1 f4 d5;A02;2
+A30;English, Symmetrical 1 c4 c5;English, Symmetrical;1 c4 c5;A10;2
+A20;English 1 c4 e5;English;1 c4 e5;A10;2
+B10;Caro-Kann 1 e4 c6;Caro-Kann;1 e4 c6;B00;2
+B20;Sicilian 1 e4 c5;Sicilian;1 e4 c5;B00;2
+C00;French Defense 1 e4 e6;French Defense;1 e4 e6;B00;2
+A43;Old Benoni 1 d4 c5;Old Benoni;1 d4 c5;A40;2
+A80;Dutch 1 d4 f5;Dutch;1 d4 f5;A40;2
+92;;placeholder-92;1 e4 d6;B00;2
+A41;Queen's Pawn Game (with ...d6) 1 d4 d6;Queen's Pawn Game (with ...d6);1 d4 d6;A40;2
+B01;Scandinavian 1 e4 d5;Scandinavian;1 e4 d5;B00;2
+C20;King's Pawn Game 1 e4 e5;King's Pawn Game;1 e4 e5;B00;2
+B06;Robatsch 1 e4 g6;Robatsch;1 e4 g6;B00;2
+D00;Queen's Pawn Game 1 d4 d5;Queen's Pawn Game;1 d4 d5;A40;2
+A45;Queen's Pawn Game 1 d4 Nf6;Queen's Pawn Game;1 d4 Nf6;A40;2
+A06;Reti Opening 1 Nf3 d5;Reti Opening;1 Nf3 d5;A04;2
+B02;Alekhine's Defense 1 e4 Nf6;Alekhine's Defense;1 e4 Nf6;B00;2
+A15;English 1 c4 Nf6;English;1 c4 Nf6;A10;2
+A05;Reti Opening 1 Nf3 Nf6;Reti Opening;1 Nf3 Nf6;A04;2
+B21;Sicilian, 2.f4 and 2.d4 1 e4 c5 2 f4;Sicilian, 2.f4 and 2.d4;1 e4 c5 2 f4;B00;3
+A81;Dutch 1 d4 f5 2 g3;Dutch;1 d4 f5 2 g3;A40;3
+216;;placeholder-216;1 e4 e5 2 d4;B00;3
+190;;placeholder-190;1 e4 e6 2 d4;B00;3
+B22;Sicilian, Alapin 1 e4 c5 2 c3;Sicilian, Alapin;1 e4 c5 2 c3;B00;3
+C30;King's Gambit Declined 1 e4 e5 2 f4;King's Gambit Declined;1 e4 e5 2 f4;B00;3
+A82;Dutch, Staunton Gambit 1 d4 f5 2 e4;Dutch, Staunton Gambit;1 d4 f5 2 e4;A40;3
+A84;Dutch 1 d4 f5 2 c4;Dutch;1 d4 f5 2 c4;A40;3
+30;;placeholder-30;1 d4 c5 2 d5;A40;3
+B12;Caro-Kann Defense 1 e4 c6 2 d4;Caro-Kann Defense;1 e4 c6 2 d4;B00;3
+91;;placeholder-91;1 e4 d6 2 d4;B00;3
+D06;Queen's Gambit Declined 1 d4 d5 2 c4;Queen's Gambit Declined;1 d4 d5 2 c4;A40;3
+29;;placeholder-29;1 d4 d6 2 c4;A40;3
+A34;English, Symmetrical 1 c4 c5 2 Nc3;English, Symmetrical;1 c4 c5 2 Nc3;A10;3
+A07;King's Indian Attack 1 Nf3 d5 2 g3;King's Indian Attack;1 Nf3 d5 2 g3;A04;3
+C40;King's Knight Opening 1 e4 e5 2 Nf3;King's Knight Opening;1 e4 e5 2 Nf3;B00;3
+B27;Sicilian 1 e4 c5 2 Nf3;Sicilian;1 e4 c5 2 Nf3;B00;3
+C25;Vienna 1 e4 e5 2 Nc3;Vienna;1 e4 e5 2 Nc3;B00;3
+C23;Bishop's Opening 1 e4 e5 2 Bc4;Bishop's Opening;1 e4 e5 2 Bc4;B00;3
+17;;placeholder-17;1 c4 c5 2 Nf3;A10;3
+280;;placeholder-280;1 d4 d5 2 Nc3;A40;3
+A21;English 1 c4 e5 2 Nc3;English;1 c4 e5 2 Nc3;A10;3
+A09;Reti Opening 1 Nf3 d5 2 c4;Reti Opening;1 Nf3 d5 2 c4;A04;3
+2;;placeholder-2;1 c4 c6 2 Nf3;A10;3
+B23;Sicilian, Closed 1 e4 c5 2 Nc3;Sicilian, Closed;1 e4 c5 2 Nc3;B00;3
+D02;Queen's Pawn Game 1 d4 d5 2 Nf3;Queen's Pawn Game;1 d4 d5 2 Nf3;A40;3
+A50;Queen's Pawn Game 1 d4 Nf6 2 c4;Queen's Pawn Game;1 d4 Nf6 2 c4;A40;3
+99;;placeholder-99;1 e4 c6 2 Nc3;B00;3
+8;;placeholder-8;1 c4 e6 2 Nf3;A10;3
+89;;placeholder-89;1 e4 Nf6 2 e5;B00;3
+A46;Queen's Pawn Game 1 d4 Nf6 2 Nf3;Queen's Pawn Game;1 d4 Nf6 2 Nf3;A40;3
+A16;English 1 c4 Nf6 2 Nc3;English;1 c4 Nf6 2 Nc3;A10;3
+C31;King's Gambit Declined, Falkbeer Counter Gambit 1 e4 e5 2 f4 d5;King's Gambit Declined, Falkbeer Counter Gambit;1 e4 e5 2 f4 d5;B00;4
+D10;Queen's Gambit Declined Slav 1 d4 d5 2 c4 c6;Queen's Gambit Declined Slav;1 d4 d5 2 c4 c6;A40;4
+189;;placeholder-189;1 e4 e6 2 d4 d5;B00;4
+A44;Old Benoni Defense 1 d4 c5 2 d5 e5;Old Benoni Defense;1 d4 c5 2 d5 e5;A40;4
+D30;Queen's Gambit Declined 1 d4 d5 2 c4 e6;Queen's Gambit Declined;1 d4 d5 2 c4 e6;A40;4
+28;;placeholder-28;1 d4 d6 2 c4 g6;A40;4
+D08;Queen's Gambit Declined, Albin Counter Gambit 1 d4 d5 2 c4 e5;Queen's Gambit Declined, Albin Counter Gambit;1 d4 d5 2 c4 e5;A40;4
+101;;placeholder-101;1 e4 c6 2 d4 d5;B00;4
+E00;Queen's Pawn Game 1 d4 Nf6 2 c4 e6;Queen's Pawn Game;1 d4 Nf6 2 c4 e6;A40;4
+C41;Philidor Defense 1 e4 e5 2 Nf3 d6;Philidor Defense;1 e4 e5 2 Nf3 d6;B00;4
+7;;placeholder-7;1 c4 e6 2 Nf3 d5;A10;4
+0;;placeholder-0;1 Nf3 d5 2 g3 c5;A04;4
+A51;Budapest Gambit 1 d4 Nf6 2 c4 e5;Budapest Gambit;1 d4 Nf6 2 c4 e5;A40;4
+D07;Queen's Gambit Declined, Chigorin Defense 1 d4 d5 2 c4 Nc6;Queen's Gambit Declined, Chigorin Defense;1 d4 d5 2 c4 Nc6;A40;4
+A56;Benoni Defense 1 d4 Nf6 2 c4 c5;Benoni Defense;1 d4 Nf6 2 c4 c5;A40;4
+1;;placeholder-1;1 c4 c6 2 Nf3 d5;A10;4
+E60;King's Indian Defense 1 d4 Nf6 2 c4 g6;King's Indian Defense;1 d4 Nf6 2 c4 g6;A40;4
+65;;placeholder-65;1 d4 f5 2 c4 Nf6;A40;4
+B50;Sicilian 1 e4 c5 2 Nf3 d6;Sicilian;1 e4 c5 2 Nf3 d6;B00;4
+B40;Sicilian 1 e4 c5 2 Nf3 e6;Sicilian;1 e4 c5 2 Nf3 e6;B00;4
+A53;Old Indian 1 d4 Nf6 2 c4 d6;Old Indian;1 d4 Nf6 2 c4 d6;A40;4
+B28;Sicilian, O'Kelly Variation 1 e4 c5 2 Nf3 a6;Sicilian, O'Kelly Variation;1 e4 c5 2 Nf3 a6;B00;4
+98;;placeholder-98;1 e4 c6 2 Nc3 d5;B00;4
+B07;Pirc 1 e4 d6 2 d4 Nf6;Pirc;1 e4 d6 2 d4 Nf6;B00;4
+D20;Queen's Gambit Accepted 1 d4 d5 2 c4 dxc4;Queen's Gambit Accepted;1 d4 d5 2 c4 dxc4;A40;4
+C26;Vienna 1 e4 e5 2 Nc3 Nf6;Vienna;1 e4 e5 2 Nc3 Nf6;B00;4
+119;;placeholder-119;1 e4 c5 2 Nc3 Nc6;B00;4
+C44;King's Pawn Game 1 e4 e5 2 Nf3 Nc6;King's Pawn Game;1 e4 e5 2 Nf3 Nc6;B00;4
+C21;Center Game 1 e4 e5 2 d4 exd4;Center Game;1 e4 e5 2 d4 exd4;B00;4
+C42;Petrov Defense 1 e4 e5 2 Nf3 Nf6;Petrov Defense;1 e4 e5 2 Nf3 Nf6;B00;4
+64;;placeholder-64;1 d4 f5 2 e4 fxe4;A40;4
+C24;Bishop's Opening 1 e4 e5 2 Bc4 Nf6;Bishop's Opening;1 e4 e5 2 Bc4 Nf6;B00;4
+88;;placeholder-88;1 e4 Nf6 2 e5 Nd5;B00;4
+C33;King's Gambit Accepted 1 e4 e5 2 f4 exf4;King's Gambit Accepted;1 e4 e5 2 f4 exf4;B00;4
+A47;Queen's Indian 1 d4 Nf6 2 Nf3 b6;Queen's Indian;1 d4 Nf6 2 Nf3 b6;A40;4
+279;;placeholder-279;1 d4 d5 2 Nc3 Nf6;A40;4
+281;;placeholder-281;1 d4 d5 2 Nf3 Nf6;A40;4
+A17;English 1 c4 Nf6 2 Nc3 e6;English;1 c4 Nf6 2 Nc3 e6;A10;4
+A25;English 1 c4 e5 2 Nc3 Nc6;English;1 c4 e5 2 Nc3 Nc6;A10;4
+16;;placeholder-16;1 c4 c5 2 Nf3 Nf6;A10;4
+A22;English 1 c4 e5 2 Nc3 Nf6;English;1 c4 e5 2 Nc3 Nf6;A10;4
+B29;Sicilian, Nimzovich-Rubinstein 1 e4 c5 2 Nf3 Nf6;Sicilian, Nimzovich-Rubinstein;1 e4 c5 2 Nf3 Nf6;B00;4
+B30;Sicilian 1 e4 c5 2 Nf3 Nc6;Sicilian;1 e4 c5 2 Nf3 Nc6;B00;4
+A35;English, Symmetrical 1 c4 c5 2 Nc3 Nc6;English, Symmetrical;1 c4 c5 2 Nc3 Nc6;A10;4
+A48;King's Indian 1 d4 Nf6 2 Nf3 g6;King's Indian;1 d4 Nf6 2 Nf3 g6;A40;4
+C02;French, Advance 1 e4 e6 2 d4 d5 3 e5;French, Advance;1 e4 e6 2 d4 d5 3 e5;B00;5
+388;;placeholder-388;1 d4 Nf6 2 c4 e6 3 g3;A40;5
+A12;English with b3 1 c4 c6 2 Nf3 d5 3 b3;English with b3;1 c4 c6 2 Nf3 d5 3 b3;A10;5
+A86;Dutch 1 d4 f5 2 c4 Nf6 3 g3;Dutch;1 d4 f5 2 c4 Nf6 3 g3;A40;5
+B15;Caro-Kann 1 e4 c6 2 d4 d5 3 Nc3;Caro-Kann;1 e4 c6 2 d4 d5 3 Nc3;B00;5
+6;;placeholder-6;1 c4 e6 2 Nf3 d5 3 g3;A10;5
+C10;French 1 e4 e6 2 d4 d5 3 Nc3;French;1 e4 e6 2 d4 d5 3 Nc3;B00;5
+350;;placeholder-350;1 d4 Nf6 2 c4 g6 3 g3;A40;5
+D11;Queen's Gambit Declined Slav 1 d4 d5 2 c4 c6 3 Nf3;Queen's Gambit Declined Slav;1 d4 d5 2 c4 c6 3 Nf3;A40;5
+27;;placeholder-27;1 d4 d6 2 c4 g6 3 Nc3;A40;5
+144;;placeholder-144;1 e4 c5 2 Nf3 d6 3 d4;B00;5
+D31;Queen's Gambit Declined 1 d4 d5 2 c4 e6 3 Nc3;Queen's Gambit Declined;1 d4 d5 2 c4 e6 3 Nc3;A40;5
+349;;placeholder-349;1 d4 Nf6 2 c4 g6 3 f3;A40;5
+C03;French, Tarrasch 1 e4 e6 2 d4 d5 3 Nd2;French, Tarrasch;1 e4 e6 2 d4 d5 3 Nd2;B00;5
+138;;placeholder-138;1 e4 c5 2 Nf3 e6 3 d4;B00;5
+35;;placeholder-35;1 d4 Nf6 2 c4 c5 3 d5;A40;5
+97;;placeholder-97;1 e4 c6 2 Nc3 d5 3 Nf3;B00;5
+D04;Queen's Pawn Game 1 d4 d5 2 Nf3 Nf6 3 e3;Queen's Pawn Game;1 d4 d5 2 Nf3 Nf6 3 e3;A40;5
+B24;Sicilian, Closed 1 e4 c5 2 Nc3 Nc6 3 g3;Sicilian, Closed;1 e4 c5 2 Nc3 Nc6 3 g3;B00;5
+A08;King's Indian Attack 1 Nf3 d5 2 g3 c5 3 Bg2;King's Indian Attack;1 Nf3 d5 2 g3 c5 3 Bg2;A04;5
+9;;placeholder-9;1 c4 e5 2 Nc3 Nf6 3 g3;A10;5
+A49;King's Indian, Fianchetto without c4 1 d4 Nf6 2 Nf3 g6 3 g3;King's Indian, Fianchetto without c4;1 d4 Nf6 2 Nf3 g6 3 g3;A40;5
+E61;King's Indian 1 d4 Nf6 2 c4 g6 3 Nc3;King's Indian;1 d4 Nf6 2 c4 g6 3 Nc3;A40;5
+94;;placeholder-94;1 e4 d6 2 d4 Nf6 3 Nc3;B00;5
+A18;English, Mikenas-Carls 1 c4 Nf6 2 Nc3 e6 3 e4;English, Mikenas-Carls;1 c4 Nf6 2 Nc3 e6 3 e4;A10;5
+286;;placeholder-286;1 d4 d5 2 c4 e5 3 dxe5;A40;5
+33;;placeholder-33;1 d4 Nf6 2 c4 d6 3 Nc3;A40;5
+188;;placeholder-188;1 e4 e6 2 d4 d5 3 exd5;B00;5
+C29;Vienna Gambit 1 e4 e5 2 Nc3 Nf6 3 f4;Vienna Gambit;1 e4 e5 2 Nc3 Nf6 3 f4;B00;5
+230;;placeholder-230;1 e4 e5 2 Nf3 Nf6 3 d4;B00;5
+B03;Alekhine's Defense 1 e4 Nf6 2 e5 Nd5 3 d4;Alekhine's Defense;1 e4 Nf6 2 e5 Nd5 3 d4;B00;5
+A31;English, Symmetrical, Benoni Formation 1 c4 c5 2 Nf3 Nf6 3 d4;English, Symmetrical, Benoni Formation;1 c4 c5 2 Nf3 Nf6 3 d4;A10;5
+232;;placeholder-232;1 e4 e5 2 Nf3 Nc6 3 d4;B00;5
+A85;Dutch, with c4 & Nc3 1 d4 f5 2 c4 Nf6 3 Nc3;Dutch, with c4 & Nc3;1 d4 f5 2 c4 Nf6 3 Nc3;A40;5
+15;;placeholder-15;1 c4 e5 2 Nc3 Nc6 3 g3;A10;5
+409;;placeholder-409;1 d4 Nf6 2 c4 e6 3 Nc3;A40;5
+E10;Queen's Pawn Game 1 d4 Nf6 2 c4 e6 3 Nf3;Queen's Pawn Game;1 d4 Nf6 2 c4 e6 3 Nf3;A40;5
+A36;English 1 c4 c5 2 Nc3 Nc6 3 g3;English;1 c4 c5 2 Nc3 Nc6 3 g3;A10;5
+222;;placeholder-222;1 e4 e5 2 f4 d5 3 exd5;B00;5
+100;;placeholder-100;1 e4 c6 2 d4 d5 3 exd5;B00;5
+126;;placeholder-126;1 e4 c5 2 Nf3 Nc6 3 d4;B00;5
+233;;placeholder-233;1 e4 e5 2 Nf3 Nc6 3 Bc4;B00;5
+C46;Three Knights 1 e4 e5 2 Nf3 Nc6 3 Nc3;Three Knights;1 e4 e5 2 Nf3 Nc6 3 Nc3;B00;5
+218;;placeholder-218;1 e4 e5 2 Nc3 Nf6 3 Bc4;B00;5
+B51;Sicilian, Canal-Sokolsky (Rossolimo) Attack 1 e4 c5 2 Nf3 d6 3 Bb5+;Sicilian, Canal-Sokolsky (Rossolimo) Attack;1 e4 c5 2 Nf3 d6 3 Bb5+;B00;5
+D01;Richter-Veresov Attack 1 d4 d5 2 Nc3 Nf6 3 Bg5;Richter-Veresov Attack;1 d4 d5 2 Nc3 Nf6 3 Bg5;A40;5
+D03;Torre Attack (Tartakower Variation) 1 d4 d5 2 Nf3 Nf6 3 Bg5;Torre Attack (Tartakower Variation);1 d4 d5 2 Nf3 Nf6 3 Bg5;A40;5
+C60;Ruy Lopez 1 e4 e5 2 Nf3 Nc6 3 Bb5;Ruy Lopez;1 e4 e5 2 Nf3 Nc6 3 Bb5;B00;5
+A27;English, Three Knights System 1 c4 e5 2 Nc3 Nc6 3 Nf3;English, Three Knights System;1 c4 e5 2 Nc3 Nc6 3 Nf3;A10;5
+63;;placeholder-63;1 d4 f5 2 e4 fxe4 3 Nc3;A40;5
+D21;Queen's Gambit Accepted 1 d4 d5 2 c4 dxc4 3 Nf3;Queen's Gambit Accepted;1 d4 d5 2 c4 dxc4 3 Nf3;A40;5
+C34;King's Gambit Accepted 1 e4 e5 2 f4 exf4 3 Nf3;King's Gambit Accepted;1 e4 e5 2 f4 exf4 3 Nf3;B00;5
+31;;placeholder-31;1 d4 Nf6 2 c4 e5 3 dxe5;A40;5
+124;;placeholder-124;1 e4 c5 2 Nf3 Nc6 3 Bb5;B00;5
+A57;Benko Gambit 1 d4 Nf6 2 c4 c5 3 d5 b5;Benko Gambit;1 d4 Nf6 2 c4 c5 3 d5 b5;A40;6
+D70;Neo-Grunfeld Defense 1 d4 Nf6 2 c4 g6 3 f3 d5;Neo-Grunfeld Defense;1 d4 Nf6 2 c4 g6 3 f3 d5;A40;6
+78;;placeholder-78;1 d4 f5 2 c4 Nf6 3 g3 e6;A40;6
+387;;placeholder-387;1 d4 Nf6 2 c4 e6 3 g3 d5;A40;6
+217;;placeholder-217;1 e4 e5 2 d4 exd4 3 Qxd4;B00;5
+A60;Benoni Defense 1 d4 Nf6 2 c4 c5 3 d5 e6;Benoni Defense;1 d4 Nf6 2 c4 c5 3 d5 e6;A40;6
+69;;placeholder-69;1 d4 f5 2 c4 Nf6 3 g3 g6;A40;6
+C07;French, Tarrasch 1 e4 e6 2 d4 d5 3 Nd2 c5;French, Tarrasch;1 e4 e6 2 d4 d5 3 Nd2 c5;B00;6
+D32;Queen's Gambit Declined, Tarrasch 1 d4 d5 2 c4 e6 3 Nc3 c5;Queen's Gambit Declined, Tarrasch;1 d4 d5 2 c4 e6 3 Nc3 c5;A40;6
+D71;Neo-Grunfeld 1 d4 Nf6 2 c4 g6 3 g3 d5;Neo-Grunfeld;1 d4 Nf6 2 c4 g6 3 g3 d5;A40;6
+26;;placeholder-26;1 d4 d6 2 c4 g6 3 Nc3 Bg7;A40;6
+D05;Queen's Pawn Game 1 d4 d5 2 Nf3 Nf6 3 e3 e6;Queen's Pawn Game;1 d4 d5 2 Nf3 Nf6 3 e3 e6;A40;6
+90;;placeholder-90;1 e4 Nf6 2 e5 Nd5 3 d4 d6;B00;6
+221;;placeholder-221;1 e4 e5 2 f4 d5 3 exd5 e4;B00;6
+123;;placeholder-123;1 e4 c5 2 Nc3 Nc6 3 g3 g6;B00;6
+14;;placeholder-14;1 c4 e5 2 Nc3 Nc6 3 g3 g6;A10;6
+C15;French, Winawer 1 e4 e6 2 d4 d5 3 Nc3 Bb4;French, Winawer;1 e4 e6 2 d4 d5 3 Nc3 Bb4;B00;6
+C11;French 1 e4 e6 2 d4 d5 3 Nc3 Nf6;French;1 e4 e6 2 d4 d5 3 Nc3 Nf6;B00;6
+285;;placeholder-285;1 d4 d5 2 c4 e5 3 dxe5 d4;A40;6
+5;;placeholder-5;1 c4 e6 2 Nf3 d5 3 g3 Nf6;A10;6
+93;;placeholder-93;1 e4 d6 2 d4 Nf6 3 Nc3 g6;B00;6
+196;;placeholder-196;1 e4 e6 2 d4 d5 3 Nd2 Nc6;B00;6
+23;;placeholder-23;1 c4 c5 2 Nc3 Nc6 3 g3 g6;A10;6
+D80;Grunfeld 1 d4 Nf6 2 c4 g6 3 Nc3 d5;Grunfeld;1 d4 Nf6 2 c4 g6 3 Nc3 d5;A40;6
+A24;English, Bremen System with ...g6 1 c4 e5 2 Nc3 Nf6 3 g3 g6;English, Bremen System with ...g6;1 c4 e5 2 Nc3 Nf6 3 g3 g6;A10;6
+A23;English, Bremen System, Keres Variation 1 c4 e5 2 Nc3 Nf6 3 g3 c6;English, Bremen System, Keres Variation;1 c4 e5 2 Nc3 Nf6 3 g3 c6;A10;6
+E12;Queen's Indian 1 d4 Nf6 2 c4 e6 3 Nf3 b6;Queen's Indian;1 d4 Nf6 2 c4 e6 3 Nf3 b6;A40;6
+C05;French, Tarrasch 1 e4 e6 2 d4 d5 3 Nd2 Nf6;French, Tarrasch;1 e4 e6 2 d4 d5 3 Nd2 Nf6;B00;6
+A19;English, Mikenas-Carls, Sicilian Variation 1 c4 Nf6 2 Nc3 e6 3 e4 c5;English, Mikenas-Carls, Sicilian Variation;1 c4 Nf6 2 Nc3 e6 3 e4 c5;A10;6
+288;;placeholder-288;1 d4 d5 2 c4 c6 3 Nf3 Nf6;A40;6
+D35;Queen's Gambit Declined 1 d4 d5 2 c4 e6 3 Nc3 Nf6;Queen's Gambit Declined;1 d4 d5 2 c4 e6 3 Nc3 Nf6;A40;6
+32;;placeholder-32;1 d4 Nf6 2 c4 d6 3 Nc3 e5;A40;6
+B31;Sicilian, Rossolimo Variation 1 e4 c5 2 Nf3 Nc6 3 Bb5 g6;Sicilian, Rossolimo Variation;1 e4 c5 2 Nf3 Nc6 3 Bb5 g6;B00;6
+253;;placeholder-253;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6;B00;6
+E20;Nimzo-Indian 1 d4 Nf6 2 c4 e6 3 Nc3 Bb4;Nimzo-Indian;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4;A40;6
+C63;Ruy Lopez, Schliemann Defense 1 e4 e5 2 Nf3 Nc6 3 Bb5 f5;Ruy Lopez, Schliemann Defense;1 e4 e5 2 Nf3 Nc6 3 Bb5 f5;B00;6
+C62;Ruy Lopez, Old Steinitz Defense 1 e4 e5 2 Nf3 Nc6 3 Bb5 d6;Ruy Lopez, Old Steinitz Defense;1 e4 e5 2 Nf3 Nc6 3 Bb5 d6;B00;6
+443;;placeholder-443;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7;A40;6
+B11;Caro-Kann, Two Knights, 3...Bg4 1 e4 c6 2 Nc3 d5 3 Nf3 Bg4;Caro-Kann, Two Knights, 3...Bg4;1 e4 c6 2 Nc3 d5 3 Nf3 Bg4;B00;6
+305;;placeholder-305;1 d4 d5 2 c4 dxc4 3 Nf3 a6;A40;6
+137;;placeholder-137;1 e4 c5 2 Nf3 e6 3 d4 cxd4;B00;6
+C36;King's Gambit Accepted, Abbazia Defense 1 e4 e5 2 f4 exf4 3 Nf3 d5;King's Gambit Accepted, Abbazia Defense;1 e4 e5 2 f4 exf4 3 Nf3 d5;B00;6
+143;;placeholder-143;1 e4 c5 2 Nf3 d6 3 d4 cxd4;B00;6
+109;;placeholder-109;1 e4 c6 2 d4 d5 3 Nc3 dxe4;B00;6
+223;;placeholder-223;1 e4 e5 2 f4 exf4 3 Nf3 g5;B00;6
+A52;Budapest Gambit 1 d4 Nf6 2 c4 e5 3 dxe5 Ng4;Budapest Gambit;1 d4 Nf6 2 c4 e5 3 dxe5 Ng4;A40;6
+E11;Bogo-Indian Defense 1 d4 Nf6 2 c4 e6 3 Nf3 Bb4+;Bogo-Indian Defense;1 d4 Nf6 2 c4 e6 3 Nf3 Bb4+;A40;6
+229;;placeholder-229;1 e4 e5 2 Nf3 Nf6 3 d4 exd4;B00;6
+62;;placeholder-62;1 d4 f5 2 e4 fxe4 3 Nc3 Nf6;A40;6
+D23;Queen's Gambit Accepted 1 d4 d5 2 c4 dxc4 3 Nf3 Nf6;Queen's Gambit Accepted;1 d4 d5 2 c4 dxc4 3 Nf3 Nf6;A40;6
+19;;placeholder-19;1 c4 c5 2 Nf3 Nf6 3 d4 cxd4;A10;6
+C65;Ruy Lopez, Berlin Defense 1 e4 e5 2 Nf3 Nc6 3 Bb5 Nf6;Ruy Lopez, Berlin Defense;1 e4 e5 2 Nf3 Nc6 3 Bb5 Nf6;B00;6
+231;;placeholder-231;1 e4 e5 2 Nf3 Nc6 3 d4 exd4;B00;6
+C47;Four Knights 1 e4 e5 2 Nf3 Nc6 3 Nc3 Nf6;Four Knights;1 e4 e5 2 Nf3 Nc6 3 Nc3 Nf6;B00;6
+B52;Sicilian, Canal-Sokolsky (Rossolimo) Attack 1 e4 c5 2 Nf3 d6 3 Bb5+ Bd7;Sicilian, Canal-Sokolsky (Rossolimo) Attack;1 e4 c5 2 Nf3 d6 3 Bb5+ Bd7;B00;6
+C55;Two Knights Defense 1 e4 e5 2 Nf3 Nc6 3 Bc4 Nf6;Two Knights Defense;1 e4 e5 2 Nf3 Nc6 3 Bc4 Nf6;B00;6
+C50;Giuoco Piano 1 e4 e5 2 Nf3 Nc6 3 Bc4 Bc5;Giuoco Piano;1 e4 e5 2 Nf3 Nc6 3 Bc4 Bc5;B00;6
+187;;placeholder-187;1 e4 e6 2 d4 d5 3 exd5 exd5;B00;6
+A28;English 1 c4 e5 2 Nc3 Nc6 3 Nf3 Nf6;English;1 c4 e5 2 Nc3 Nc6 3 Nf3 Nf6;A10;6
+C35;King's Gambit Accepted, Cunningham 1 e4 e5 2 f4 exf4 3 Nf3 Be7;King's Gambit Accepted, Cunningham;1 e4 e5 2 f4 exf4 3 Nf3 Be7;B00;6
+B13;Caro-Kann, Exchange 1 e4 c6 2 d4 d5 3 exd5 cxd5;Caro-Kann, Exchange;1 e4 c6 2 d4 d5 3 exd5 cxd5;B00;6
+125;;placeholder-125;1 e4 c5 2 Nf3 Nc6 3 d4 cxd4;B00;6
+C64;Ruy Lopez, Classical 1 e4 e5 2 Nf3 Nc6 3 Bb5 Bc5;Ruy Lopez, Classical;1 e4 e5 2 Nf3 Nc6 3 Bb5 Bc5;B00;6
+C61;Ruy Lopez, Bird's Defense 1 e4 e5 2 Nf3 Nc6 3 Bb5 Nd4;Ruy Lopez, Bird's Defense;1 e4 e5 2 Nf3 Nc6 3 Bb5 Nd4;B00;6
+C28;Vienna Game 1 e4 e5 2 Nc3 Nf6 3 Bc4 Nc6;Vienna Game;1 e4 e5 2 Nc3 Nf6 3 Bc4 Nc6;B00;6
+C27;Vienna Game 1 e4 e5 2 Nc3 Nf6 3 Bc4 Nxe4;Vienna Game;1 e4 e5 2 Nc3 Nf6 3 Bc4 Nxe4;B00;6
+C22;Center Game 1 e4 e5 2 d4 exd4 3 Qxd4 Nc6;Center Game;1 e4 e5 2 d4 exd4 3 Qxd4 Nc6;B00;6
+220;;placeholder-220;1 e4 e5 2 f4 d5 3 exd5 e4 4 d3;B00;7
+46;;placeholder-46;1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3;A40;7
+C16;French, Winawer 1 e4 e6 2 d4 d5 3 Nc3 Bb4 4 e5;French, Winawer;1 e4 e6 2 d4 d5 3 Nc3 Bb4 4 e5;B00;7
+E01;Catalan, Closed 1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2;Catalan, Closed;1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2;A40;7
+B09;Pirc, Austrian Attack 1 e4 d6 2 d4 Nf6 3 Nc3 g6 4 f4;Pirc, Austrian Attack;1 e4 d6 2 d4 Nf6 3 Nc3 g6 4 f4;B00;7
+A90;Dutch 1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2;Dutch;1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2;A40;7
+204;;placeholder-204;1 e4 e6 2 d4 d5 3 Nd2 Nf6 4 e5;B00;7
+A42;Modern Defense, Averbakh System 1 d4 d6 2 c4 g6 3 Nc3 Bg7 4 e4;Modern Defense, Averbakh System;1 d4 d6 2 c4 g6 3 Nc3 Bg7 4 e4;A40;7
+356;;placeholder-356;1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2;A40;7
+E14;Queen's Indian 1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 e3;Queen's Indian;1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 e3;A40;7
+68;;placeholder-68;1 d4 f5 2 c4 Nf6 3 g3 g6 4 Bg2;A40;7
+287;;placeholder-287;1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 e3;A40;7
+E15;Queen's Indian 1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 g3;Queen's Indian;1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 g3;A40;7
+22;;placeholder-22;1 c4 c5 2 Nc3 Nc6 3 g3 g6 4 Bg2;A10;7
+D90;Grunfeld 1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3;Grunfeld;1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3;A40;7
+D82;Grunfeld, 4.Bf4 1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Bf4;Grunfeld, 4.Bf4;1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Bf4;A40;7
+413;;placeholder-413;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 a3;A40;7
+C39;King's Gambit Accepted 1 e4 e5 2 f4 exf4 3 Nf3 g5 4 h4;King's Gambit Accepted;1 e4 e5 2 f4 exf4 3 Nf3 g5 4 h4;B00;7
+209;;placeholder-209;1 e4 e6 2 d4 d5 3 Nc3 Nf6 4 Bg5;B00;7
+400;;placeholder-400;1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 Nc3;A40;7
+E70;King's Indian 1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4;King's Indian;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4;A40;7
+304;;placeholder-304;1 d4 d5 2 c4 dxc4 3 Nf3 a6 4 e3;A40;7
+D81;Grunfeld, Russian Variation 1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Qb3;Grunfeld, Russian Variation;1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Qb3;A40;7
+13;;placeholder-13;1 c4 e5 2 Nc3 Nc6 3 g3 g6 4 Bg2;A10;7
+284;;placeholder-284;1 d4 d5 2 c4 e5 3 dxe5 d4 4 Nf3;A40;7
+E40;Nimzo-Indian, 4.e3 1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3;Nimzo-Indian, 4.e3;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3;A40;7
+122;;placeholder-122;1 e4 c5 2 Nc3 Nc6 3 g3 g6 4 Bg2;B00;7
+D37;Queen's Gambit Declined 1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3;Queen's Gambit Declined;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3;A40;7
+D50;Queen's Gambit Declined 1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5;Queen's Gambit Declined;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5;A40;7
+B08;Pirc, Classical 1 e4 d6 2 d4 Nf6 3 Nc3 g6 4 Nf3;Pirc, Classical;1 e4 d6 2 d4 Nf6 3 Nc3 g6 4 Nf3;B00;7
+D15;Queen's Gambit Declined Slav 1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 Nc3;Queen's Gambit Declined Slav;1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 Nc3;A40;7
+B04;Alekhine's Defense, Modern 1 e4 Nf6 2 e5 Nd5 3 d4 d6 4 Nf3;Alekhine's Defense, Modern;1 e4 Nf6 2 e5 Nd5 3 d4 d6 4 Nf3;B00;7
+314;;placeholder-314;1 d4 d5 2 c4 e6 3 Nc3 c5 4 cxd5;A40;7
+4;;placeholder-4;1 c4 e6 2 Nf3 d5 3 g3 Nf6 4 Bg2;A10;7
+A54;Old Indian, Ukrainian Variation, 4.Nf3 1 d4 Nf6 2 c4 d6 3 Nc3 e5 4 Nf3;Old Indian, Ukrainian Variation, 4.Nf3;1 d4 Nf6 2 c4 d6 3 Nc3 e5 4 Nf3;A40;7
+205;;placeholder-205;1 e4 e6 2 d4 d5 3 Nd2 c5 4 exd5;B00;7
+37;;placeholder-37;1 d4 Nf6 2 c4 c5 3 d5 b5 4 cxb5;A40;7
+D25;Queen's Gambit Accepted 1 d4 d5 2 c4 dxc4 3 Nf3 Nf6 4 e3;Queen's Gambit Accepted;1 d4 d5 2 c4 dxc4 3 Nf3 Nf6 4 e3;A40;7
+E30;Nimzo-Indian, Leningrad 1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Bg5;Nimzo-Indian, Leningrad;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Bg5;A40;7
+C70;Ruy Lopez 1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4;Ruy Lopez;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4;B00;7
+442;;placeholder-442;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3;A40;7
+C37;King's Gambit Accepted 1 e4 e5 2 f4 exf4 3 Nf3 g5 4 Nc3;King's Gambit Accepted;1 e4 e5 2 f4 exf4 3 Nf3 g5 4 Nc3;B00;7
+104;;placeholder-104;1 e4 c6 2 d4 d5 3 exd5 cxd5 4 c4;B00;7
+243;;placeholder-243;1 e4 e5 2 Nf3 Nc6 3 Bc4 Nf6 4 d4;B00;7
+236;;placeholder-236;1 e4 e5 2 Nf3 Nc6 3 Bc4 Bc5 4 b4;B00;7
+289;;placeholder-289;1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 cxd5;A40;7
+320;;placeholder-320;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 cxd5;A40;7
+C53;Giuoco Piano 1 e4 e5 2 Nf3 Nc6 3 Bc4 Bc5 4 c3;Giuoco Piano;1 e4 e5 2 Nf3 Nc6 3 Bc4 Bc5 4 c3;B00;7
+195;;placeholder-195;1 e4 e6 2 d4 d5 3 Nd2 Nc6 4 Ngf3;B00;7
+224;;placeholder-224;1 e4 e5 2 f4 exf4 3 Nf3 g5 4 Bc4;B00;7
+E22;Nimzo-Indian, Spielmann Variation 1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qb3;Nimzo-Indian, Spielmann Variation;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qb3;A40;7
+E21;Nimzo-Indian, Three Knights 1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Nf3;Nimzo-Indian, Three Knights;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Nf3;A40;7
+371;;placeholder-371;1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 cxd5;A40;7
+228;;placeholder-228;1 e4 e5 2 Nf3 Nf6 3 d4 exd4 4 e5;B00;7
+E32;Nimzo-Indian, Classical 1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qc2;Nimzo-Indian, Classical;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qc2;A40;7
+A29;English, Four Knights, Kingside Fianchetto 1 c4 e5 2 Nc3 Nc6 3 Nf3 Nf6 4 g3;English, Four Knights, Kingside Fianchetto;1 c4 e5 2 Nc3 Nc6 3 Nf3 Nf6 4 g3;A10;7
+C17;French, Winawer, Advance 1 e4 e6 2 d4 d5 3 Nc3 Bb4 4 e5 c5;French, Winawer, Advance;1 e4 e6 2 d4 d5 3 Nc3 Bb4 4 e5 c5;B00;8
+D24;Queen's Gambit Accepted 1 d4 d5 2 c4 dxc4 3 Nf3 Nf6 4 Nc3;Queen's Gambit Accepted;1 d4 d5 2 c4 dxc4 3 Nf3 Nf6 4 Nc3;A40;7
+C51;Evans Gambit 1 e4 e5 2 Nf3 Nc6 3 Bc4 Bc5 4 b4 ;Evans Gambit;1 e4 e5 2 Nf3 Nc6 3 Bc4 Bc5 4 b4 ;B00;7
+C57;Two Knights 1 e4 e5 2 Nf3 Nc6 3 Bc4 Nf6 4 Ng5;Two Knights;1 e4 e5 2 Nf3 Nc6 3 Bc4 Nf6 4 Ng5;B00;7
+251;;placeholder-251;1 e4 e5 2 Nf3 Nc6 3 Bb5 Nf6 4 O-O;B00;7
+A83;Dutch, Staunton Gambit 1 d4 f5 2 e4 fxe4 3 Nc3 Nf6 4 Bg5;Dutch, Staunton Gambit;1 d4 f5 2 e4 fxe4 3 Nc3 Nf6 4 Bg5;A40;7
+136;;placeholder-136;1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4;B00;7
+C68;Ruy Lopez, Exchange 1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Bxc6;Ruy Lopez, Exchange;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Bxc6;B00;7
+C48;Four Knights 1 e4 e5 2 Nf3 Nc6 3 Nc3 Nf6 4 Bb5;Four Knights;1 e4 e5 2 Nf3 Nc6 3 Nc3 Nf6 4 Bb5;B00;7
+186;;placeholder-186;1 e4 e6 2 d4 d5 3 exd5 exd5 4 Nc3;B00;7
+B54;Sicilian 1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4;Sicilian;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4;B00;7
+108;;placeholder-108;1 e4 c6 2 d4 d5 3 Nc3 dxe4 4 Nxe4;B00;7
+B53;Sicilian 1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Qxd4;Sicilian;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Qxd4;B00;7
+C45;Scotch Game 1 e4 e5 2 Nf3 Nc6 3 d4 exd4 4 Nxd4;Scotch Game;1 e4 e5 2 Nf3 Nc6 3 d4 exd4 4 Nxd4;B00;7
+402;;placeholder-402;1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 g3 Bb7;A40;8
+355;;placeholder-355;1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7;A40;8
+67;;placeholder-67;1 d4 f5 2 c4 Nf6 3 g3 g6 4 Bg2 Bg7;A40;8
+457;;placeholder-457;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6;A40;8
+B33;Sicilian 1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4;Sicilian;1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4;B00;7
+392;;placeholder-392;1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2 Be7;A40;8
+A91;Dutch Defense 1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7;Dutch Defense;1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7;A40;8
+D40;Queen's Gambit Declined, Semi-Tarrasch 1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c5;Queen's Gambit Declined, Semi-Tarrasch;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c5;A40;8
+E43;Nimzo-Indian, Fischer Variation 1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 b6;Nimzo-Indian, Fischer Variation;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 b6;A40;8
+E41;Nimzo-Indian 1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 c5;Nimzo-Indian;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 c5;A40;8
+D43;Queen's Gambit Declined Semi-Slav 1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c6;Queen's Gambit Declined Semi-Slav;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c6;A40;8
+18;;placeholder-18;1 c4 c5 2 Nf3 Nf6 3 d4 cxd4 4 Nxd4;A10;7
+36;;placeholder-36;1 d4 Nf6 2 c4 c5 3 d5 b5 4 cxb5 a6;A40;8
+D12;Queen's Gambit Declined Slav 1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 e3 Bf5;Queen's Gambit Declined Slav;1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 e3 Bf5;A40;8
+C71;Ruy Lopez 1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 d6;Ruy Lopez;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 d6;B00;8
+3;;placeholder-3;1 c4 e6 2 Nf3 d5 3 g3 Nf6 4 Bg2 Be7;A10;8
+B05;Alekhine's Defense, Modern 1 e4 Nf6 2 e5 Nd5 3 d4 d6 4 Nf3 Bg4;Alekhine's Defense, Modern;1 e4 Nf6 2 e5 Nd5 3 d4 d6 4 Nf3 Bg4;B00;8
+21;;placeholder-21;1 c4 c5 2 Nc3 Nc6 3 g3 g6 4 Bg2 Bg7;A10;8
+423;;placeholder-423;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Bg5 h6;A40;8
+E46;Nimzo-Indian 1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O;Nimzo-Indian;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O;A40;8
+366;;placeholder-366;1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Bf4 Bg7;A40;8
+303;;placeholder-303;1 d4 d5 2 c4 dxc4 3 Nf3 a6 4 e3 Bg4;A40;8
+378;;placeholder-378;1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7;A40;8
+12;;placeholder-12;1 c4 e5 2 Nc3 Nc6 3 g3 g6 4 Bg2 Bg7;A10;8
+45;;placeholder-45;1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5;A40;8
+C32;King's Gambit Declined, Falkbeer Counter Gambit 1 e4 e5 2 f4 d5 3 exd5 e4 4 d3 Nf6 ;King's Gambit Declined, Falkbeer Counter Gambit;1 e4 e5 2 f4 d5 3 exd5 e4 4 d3 Nf6 ;B00;8
+441;;placeholder-441;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6;A40;8
+E38;Nimzo-Indian, Classical, 4...c5 1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qc2 c5;Nimzo-Indian, Classical, 4...c5;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qc2 c5;A40;8
+C13;French 1 e4 e6 2 d4 d5 3 Nc3 Nf6 4 Bg5 Be7;French;1 e4 e6 2 d4 d5 3 Nc3 Nf6 4 Bg5 Be7;B00;8
+D53;Queen's Gambit Declined 1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7;Queen's Gambit Declined;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7;A40;8
+411;;placeholder-411;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qb3 c5;A40;8
+D38;Queen's Gambit Declined, Ragozin Variation 1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 Bb4;Queen's Gambit Declined, Ragozin Variation;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 Bb4;A40;8
+203;;placeholder-203;1 e4 e6 2 d4 d5 3 Nd2 Nf6 4 e5 Nfd7;B00;8
+D26;Queen's Gambit Accepted 1 d4 d5 2 c4 dxc4 3 Nf3 Nf6 4 e3 e6;Queen's Gambit Accepted;1 d4 d5 2 c4 dxc4 3 Nf3 Nf6 4 e3 e6;A40;8
+389;;placeholder-389;1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2 dxc4;A40;8
+283;;placeholder-283;1 d4 d5 2 c4 e5 3 dxe5 d4 4 Nf3 Nc6;A40;8
+121;;placeholder-121;1 e4 c5 2 Nc3 Nc6 3 g3 g6 4 Bg2 Bg7;B00;8
+E34;Nimzo-Indian, Classical, Noa Variation 1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qc2 d5;Nimzo-Indian, Classical, Noa Variation;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qc2 d5;A40;8
+C12;French, McCutcheon 1 e4 e6 2 d4 d5 3 Nc3 Nf6 4 Bg5 Bb4;French, McCutcheon;1 e4 e6 2 d4 d5 3 Nc3 Nf6 4 Bg5 Bb4;B00;8
+399;;placeholder-399;1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 Nc3 Bb7;A40;8
+34;;placeholder-34;1 d4 Nf6 2 c4 d6 3 Nc3 e5 4 Nf3 Nbd7;A40;8
+C77;Ruy Lopez 1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6;Ruy Lopez;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6;B00;8
+245;;placeholder-245;1 e4 e5 2 Nf3 Nc6 3 Bc4 Nf6 4 Ng5 d5;B00;8
+B41;Sicilian, Kan 1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 a6;Sicilian, Kan;1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 a6;B00;8
+313;;placeholder-313;1 d4 d5 2 c4 e6 3 Nc3 c5 4 cxd5 exd5;A40;8
+295;;placeholder-295;1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 Nc3 dxc4;A40;8
+C66;Ruy Lopez 1 e4 e5 2 Nf3 Nc6 3 Bb5 Nf6 4 O-O d6;Ruy Lopez;1 e4 e5 2 Nf3 Nc6 3 Bb5 Nf6 4 O-O d6;B00;8
+D51;Queen's Gambit Declined 1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Nbd7;Queen's Gambit Declined;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Nbd7;A40;8
+E33;Nimzo-Indian, Classical 1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qc2 Nc6;Nimzo-Indian, Classical;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qc2 Nc6;A40;8
+C08;French, Tarrasch, Open, 4.ed ed 1 e4 e6 2 d4 d5 3 Nd2 c5 4 exd5 exd5;French, Tarrasch, Open, 4.ed ed;1 e4 e6 2 d4 d5 3 Nd2 c5 4 exd5 exd5;B00;8
+C04;French, Tarrasch, Guimard Main line 1 e4 e6 2 d4 d5 3 Nd2 Nc6 4 Ngf3 Nf6;French, Tarrasch, Guimard Main line;1 e4 e6 2 d4 d5 3 Nd2 Nc6 4 Ngf3 Nf6;B00;8
+239;;placeholder-239;1 e4 e5 2 Nf3 Nc6 3 Bc4 Bc5 4 c3 Nf6;B00;8
+103;;placeholder-103;1 e4 c6 2 d4 d5 3 exd5 cxd5 4 c4 Nf6;B00;8
+227;;placeholder-227;1 e4 e5 2 Nf3 Nf6 3 d4 exd4 4 e5 Ne4;B00;8
+C38;King's Gambit Accepted 1 e4 e5 2 f4 exf4 3 Nf3 g5 4 Bc4 Bg7;King's Gambit Accepted;1 e4 e5 2 f4 exf4 3 Nf3 g5 4 Bc4 Bg7;B00;8
+412;;placeholder-412;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 a3 Bxc3+;A40;8
+C49;Four Knights 1 e4 e5 2 Nf3 Nc6 3 Nc3 Nf6 4 Bb5 Bb4;Four Knights;1 e4 e5 2 Nf3 Nc6 3 Nc3 Nf6 4 Bb5 Bb4;B00;8
+B18;Caro-Kann, Classical 1 e4 c6 2 d4 d5 3 Nc3 dxe4 4 Nxe4 Bf5;Caro-Kann, Classical;1 e4 c6 2 d4 d5 3 Nc3 dxe4 4 Nxe4 Bf5;B00;8
+242;;placeholder-242;1 e4 e5 2 Nf3 Nc6 3 Bc4 Nf6 4 d4 exd4;B00;8
+A32;English, Symmetrical Variation 1 c4 c5 2 Nf3 Nf6 3 d4 cxd4 4 Nxd4 e6;English, Symmetrical Variation;1 c4 c5 2 Nf3 Nf6 3 d4 cxd4 4 Nxd4 e6;A10;8
+235;;placeholder-235;1 e4 e5 2 Nf3 Nc6 3 Bc4 Bc5 4 b4 Bxb4;B00;8
+107;;placeholder-107;1 e4 c6 2 d4 d5 3 Nc3 dxe4 4 Nxe4 Nf6;B00;8
+127;;placeholder-127;1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 g6;B00;8
+149;;placeholder-149;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6;B00;8
+B32;Sicilian 1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 e5;Sicilian;1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 e5;B00;8
+319;;placeholder-319;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 cxd5 exd5;A40;8
+D85;Grunfeld 1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 cxd5 Nxd5;Grunfeld;1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 cxd5 Nxd5;A40;8
+B17;Caro-Kann, Steinitz Variation 1 e4 c6 2 d4 d5 3 Nc3 dxe4 4 Nxe4 Nd7;Caro-Kann, Steinitz Variation;1 e4 c6 2 d4 d5 3 Nc3 dxe4 4 Nxe4 Nd7;B00;8
+D13;Queen's Gambit Declined Slav, Exchange Variation 1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 cxd5 cxd5;Queen's Gambit Declined Slav, Exchange Variation;1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 cxd5 cxd5;A40;8
+185;;placeholder-185;1 e4 e6 2 d4 d5 3 exd5 exd5 4 Nc3 Nf6;B00;8
+B44;Sicilian 1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 Nc6;Sicilian;1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 Nc6;B00;8
+C67;Ruy Lopez 1 e4 e5 2 Nf3 Nc6 3 Bb5 Nf6 4 O-O Nxe4;Ruy Lopez;1 e4 e5 2 Nf3 Nc6 3 Bb5 Nf6 4 O-O Nxe4;B00;8
+154;;placeholder-154;1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 Nf6;B00;8
+255;;placeholder-255;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Bxc6 dxc6;B00;8
+215;;placeholder-215;1 e4 e6 2 d4 d5 3 Nc3 Bb4 4 e5 c5 5 a3;B00;9
+E76;King's Indian, Four Pawns Attack 1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f4;King's Indian, Four Pawns Attack;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f4;A40;9
+E71;King's Indian, Makagonov System (5.h3) 1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 h3;King's Indian, Makagonov System (5.h3);1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 h3;A40;9
+E72;King's Indian 1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 g3;King's Indian;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 g3;A40;9
+E80;King's Indian, Samisch Variation 1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3;King's Indian, Samisch Variation;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3;A40;9
+D45;Queen's Gambit Declined Semi-Slav 1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c6 5 e3;Queen's Gambit Declined Semi-Slav;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c6 5 e3;A40;9
+401;;placeholder-401;1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 g3 Bb7 5 Bg2;A40;9
+E44;Nimzo-Indian, Fischer Variation, 5.Ne2 1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 b6 5 Ne2;Nimzo-Indian, Fischer Variation, 5.Ne2;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 b6 5 Ne2;A40;9
+120;;placeholder-120;1 e4 c5 2 Nc3 Nc6 3 g3 g6 4 Bg2 Bg7 5 d3;B00;9
+D73;Neo-Grunfeld, 5.Nf3 1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 Nf3;Neo-Grunfeld, 5.Nf3;1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 Nf3;A40;9
+325;;placeholder-325;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c6 5 Bg5;A40;9
+11;;placeholder-11;1 c4 e5 2 Nc3 Nc6 3 g3 g6 4 Bg2 Bg7 5 d3;A10;9
+79;;placeholder-79;1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7 5 Nf3;A40;9
+E90;King's Indian 1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3;King's Indian;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3;A40;9
+365;;placeholder-365;1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Bf4 Bg7 5 e3;A40;9
+E42;Nimzo-Indian, 4.e3 c5, 5.Ne2 (Rubinstein) 1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 c5 5 Ne2;Nimzo-Indian, 4.e3 c5, 5.Ne2 (Rubinstein);1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 c5 5 Ne2;A40;9
+D09;Queen's Gambit Declined, Albin Counter Gambit, 5.g3 1 d4 d5 2 c4 e5 3 dxe5 d4 4 Nf3 Nc6 5 g3;Queen's Gambit Declined, Albin Counter Gambit, 5.g3;1 d4 d5 2 c4 e5 3 dxe5 d4 4 Nf3 Nc6 5 g3;A40;9
+A87;Dutch, Leningrad, Main Variation 1 d4 f5 2 c4 Nf6 3 g3 g6 4 Bg2 Bg7 5 Nf3;Dutch, Leningrad, Main Variation;1 d4 f5 2 c4 Nf6 3 g3 g6 4 Bg2 Bg7 5 Nf3;A40;9
+E62;King's Indian, Fianchetto 1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3;King's Indian, Fianchetto;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3;A40;9
+E73;King's Indian 1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Be2;King's Indian;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Be2;A40;9
+D94;Grunfeld 1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 e3;Grunfeld;1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 e3;A40;9
+E06;Catalan, Closed, 5.Nf3 1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2 Be7 5 Nf3;Catalan, Closed, 5.Nf3;1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2 Be7 5 Nf3;A40;9
+213;;placeholder-213;1 e4 e6 2 d4 d5 3 Nc3 Nf6 4 Bg5 Be7 5 e5;B00;9
+337;;placeholder-337;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3;A40;9
+E36;Nimzo-Indian, Classical 1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qc2 d5 5 a3;Nimzo-Indian, Classical;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qc2 d5 5 a3;A40;9
+C74;Ruy Lopez, Modern Steinitz Defense 1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 d6 5 c3;Ruy Lopez, Modern Steinitz Defense;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 d6 5 c3;B00;9
+A58;Benko Gambit 1 d4 Nf6 2 c4 c5 3 d5 b5 4 cxb5 a6 5 bxa6;Benko Gambit;1 d4 Nf6 2 c4 c5 3 d5 b5 4 cxb5 a6 5 bxa6;A40;9
+422;;placeholder-422;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Bg5 h6 5 Bh4;A40;9
+A37;English, Symmetrical 1 c4 c5 2 Nc3 Nc6 3 g3 g6 4 Bg2 Bg7 5 Nf3;English, Symmetrical;1 c4 c5 2 Nc3 Nc6 3 g3 g6 4 Bg2 Bg7 5 Nf3;A10;9
+A55;Old Indian, Main line 1 d4 Nf6 2 c4 d6 3 Nc3 e5 4 Nf3 Nbd7 5 e4;Old Indian, Main line;1 d4 Nf6 2 c4 d6 3 Nc3 e5 4 Nf3 Nbd7 5 e4;A40;9
+C72;Ruy Lopez, Modern Steinitz Defense, 5.O-O 1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 d6 5 O-O;Ruy Lopez, Modern Steinitz Defense, 5.O-O;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 d6 5 O-O;B00;9
+D92;Grunfeld, 5.Bf4 1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 Bf4;Grunfeld, 5.Bf4;1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 Bf4;A40;9
+D96;Grunfeld, Russian Variation 1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 Qb3;Grunfeld, Russian Variation;1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 Qb3;A40;9
+335;;placeholder-335;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Nbd7 5 e3;A40;9
+D91;Grunfeld, 5.Bg5 1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 Bg5;Grunfeld, 5.Bg5;1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 Bg5;A40;9
+238;;placeholder-238;1 e4 e5 2 Nf3 Nc6 3 Bc4 Bc5 4 c3 Nf6 5 d4;B00;9
+E04;Catalan, Open, 5.Nf3 1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2 dxc4 5 Nf3;Catalan, Open, 5.Nf3;1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2 dxc4 5 Nf3;A40;9
+321;;placeholder-321;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 Bb4 5 Bg5;A40;9
+E47;Nimzo-Indian, 4.e3 O-O 5.Bd3 1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Bd3;Nimzo-Indian, 4.e3 O-O 5.Bd3;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Bd3;A40;9
+202;;placeholder-202;1 e4 e6 2 d4 d5 3 Nd2 Nf6 4 e5 Nfd7 5 Bd3;B00;9
+354;;placeholder-354;1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 cxd5;A40;9
+D41;Queen's Gambit Declined, Semi-Tarrasch 1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c5 5 cxd5;Queen's Gambit Declined, Semi-Tarrasch;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c5 5 cxd5;A40;9
+A14;English 1 c4 e6 2 Nf3 d5 3 g3 Nf6 4 Bg2 Be7 5 O-O;English;1 c4 e6 2 Nf3 d5 3 g3 Nf6 4 Bg2 Be7 5 O-O;A10;9
+E50;Nimzo-Indian, 4.e3 O-O 5.Nf3, without ...d5 1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3;Nimzo-Indian, 4.e3 O-O 5.Nf3, without ...d5;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3;A40;9
+D16;Queen's Gambit Declined Slav 1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 Nc3 dxc4 5 a4;Queen's Gambit Declined Slav;1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 Nc3 dxc4 5 a4;A40;9
+398;;placeholder-398;1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 Nc3 Bb7 5 Bg5;A40;9
+148;;placeholder-148;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 f3;B00;9
+102;;placeholder-102;1 e4 c6 2 d4 d5 3 exd5 cxd5 4 c4 Nf6 5 Nc3;B00;9
+424;;placeholder-424;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qc2 d5 5 cxd5;A40;9
+44;;placeholder-44;1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5;A40;9
+375;;placeholder-375;1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 cxd5 Nxd5 5 e4;A40;9
+B43;Sicilian, Kan, 5.Nc3 1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 a6 5 Nc3;Sicilian, Kan, 5.Nc3;1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 a6 5 Nc3;B00;9
+308;;placeholder-308;1 d4 d5 2 c4 dxc4 3 Nf3 Nf6 4 e3 e6 5 Bxc4;A40;9
+312;;placeholder-312;1 d4 d5 2 c4 e6 3 Nc3 c5 4 cxd5 exd5 5 Nf3;A40;9
+B36;Sicilian, Accelerated Fianchetto 1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 g6 5 c4;Sicilian, Accelerated Fianchetto;1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 g6 5 c4;B00;9
+302;;placeholder-302;1 d4 d5 2 c4 dxc4 3 Nf3 a6 4 e3 Bg4 5 Bxc4;A40;9
+428;;placeholder-428;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qc2 c5 5 dxc5;A40;9
+B42;Sicilian, Kan 1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 a6 5 Bd3;Sicilian, Kan;1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 a6 5 Bd3;B00;9
+234;;placeholder-234;1 e4 e5 2 Nf3 Nc6 3 Bc4 Bc5 4 b4 Bxb4 5 c3;B00;9
+E02;Catalan, Open, 5.Qa4 1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2 dxc4 5 Qa4+;Catalan, Open, 5.Qa4;1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2 dxc4 5 Qa4+;A40;9
+C78;Ruy Lopez 1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O;Ruy Lopez;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O;B00;9
+410;;placeholder-410;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qb3 c5 5 dxc5;A40;9
+20;;placeholder-20;1 c4 c5 2 Nf3 Nf6 3 d4 cxd4 4 Nxd4 e6 5 Nc3;A10;9
+B45;Sicilian, Taimanov 1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 Nc6 5 Nc3;Sicilian, Taimanov;1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 Nc6 5 Nc3;B00;9
+B25;Sicilian, Closed 1 e4 c5 2 Nc3 Nc6 3 g3 g6 4 Bg2 Bg7 5 d3 d6;Sicilian, Closed;1 e4 c5 2 Nc3 Nc6 3 g3 g6 4 Bg2 Bg7 5 d3 d6;B00;10
+A26;English 1 c4 e5 2 Nc3 Nc6 3 g3 g6 4 Bg2 Bg7 5 d3 d6;English;1 c4 e5 2 Nc3 Nc6 3 g3 g6 4 Bg2 Bg7 5 d3 d6;A10;10
+464;;placeholder-464;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f4 O-O;A40;10
+258;;placeholder-258;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 d6 5 Bxc6+;B00;9
+C01;French, Exchange 1 e4 e6 2 d4 d5 3 exd5 exd5 4 Nc3 Nf6 5 Bg5;French, Exchange;1 e4 e6 2 d4 d5 3 exd5 exd5 4 Nc3 Nf6 5 Bg5;B00;9
+118;;placeholder-118;1 e4 c6 2 d4 d5 3 Nc3 dxe4 4 Nxe4 Bf5 5 Ng3;B00;9
+E81;King's Indian, Samisch 1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O;King's Indian, Samisch;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O;A40;10
+206;;placeholder-206;1 e4 e6 2 d4 d5 3 Nd2 c5 4 exd5 exd5 5 Ngf3;B00;9
+131;;placeholder-131;1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 g6 5 Nc3;B00;9
+244;;placeholder-244;1 e4 e5 2 Nf3 Nc6 3 Bc4 Nf6 4 Ng5 d5 5 exd5;B00;9
+241;;placeholder-241;1 e4 e5 2 Nf3 Nc6 3 Bc4 Nf6 4 d4 exd4 5 O-O;B00;9
+318;;placeholder-318;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 cxd5 exd5 5 Bg5;A40;9
+C43;Petrov, Modern Attack 1 e4 e5 2 Nf3 Nf6 3 d4 exd4 4 e5 Ne4 5 Qxd4;Petrov, Modern Attack;1 e4 e5 2 Nf3 Nf6 3 d4 exd4 4 e5 Ne4 5 Qxd4;B00;9
+293;;placeholder-293;1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 cxd5 cxd5 5 Nc3;A40;9
+B56;Sicilian 1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3;Sicilian;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3;B00;9
+E48;Nimzo-Indian, 4.e3 O-O 5.Bd3 d5 1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Bd3 d5;Nimzo-Indian, 4.e3 O-O 5.Bd3 d5;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Bd3 d5;A40;10
+382;;placeholder-382;1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 e3 O-O;A40;10
+447;;placeholder-447;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3 O-O;A40;10
+73;;placeholder-73;1 d4 f5 2 c4 Nf6 3 g3 g6 4 Bg2 Bg7 5 Nf3 O-O;A40;10
+E51;Nimzo-Indian, 4.e3 1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5;Nimzo-Indian, 4.e3;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5;A40;10
+214;;placeholder-214;1 e4 e6 2 d4 d5 3 Nc3 Bb4 4 e5 c5 5 a3 Bxc3+;B00;10
+E24;Nimzo-Indian, Samisch 1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 a3 Bxc3+ 5 bxc3;Nimzo-Indian, Samisch;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 a3 Bxc3+ 5 bxc3;A40;9
+394;;placeholder-394;1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2 Be7 5 Nf3 O-O;A40;10
+E45;Nimzo-Indian, 4.e3, Bronstein (Byrne) Variation 1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 b6 5 Ne2 Ba6;Nimzo-Indian, 4.e3, Bronstein (Byrne) Variation;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 b6 5 Ne2 Ba6;A40;10
+397;;placeholder-397;1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 Nc3 Bb7 5 Bg5 h6;A40;10
+254;;placeholder-254;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Bxc6 dxc6 5 O-O;B00;9
+479;;placeholder-479;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O;A40;10
+A92;Dutch 1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7 5 Nf3 O-O;Dutch;1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7 5 Nf3 O-O;A40;10
+326;;placeholder-326;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c6 5 e3 Nbd7;A40;10
+C75;Ruy Lopez, Modern Steinitz Defense 1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 d6 5 c3 Bd7;Ruy Lopez, Modern Steinitz Defense;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 d6 5 c3 Bd7;B00;10
+D83;Grunfeld, Grunfeld Gambit 1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Bf4 Bg7 5 e3 O-O;Grunfeld, Grunfeld Gambit;1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Bf4 Bg7 5 e3 O-O;A40;10
+361;;placeholder-361;1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 Nf3 O-O;A40;10
+E17;Queen's Indian 1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 g3 Bb7 5 Bg2 Be7;Queen's Indian;1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 g3 Bb7 5 Bg2 Be7;A40;10
+421;;placeholder-421;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Bg5 h6 5 Bh4 c5;A40;10
+334;;placeholder-334;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Nbd7 5 e3 c6;A40;10
+336;;placeholder-336;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O;A40;10
+153;;placeholder-153;1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3;B00;9
+461;;placeholder-461;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Be2 O-O;A40;10
+201;;placeholder-201;1 e4 e6 2 d4 d5 3 Nd2 Nf6 4 e5 Nfd7 5 Bd3 c5;B00;10
+B34;Sicilian, Accelerated Fianchetto 1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 g6 5 Nxc6;Sicilian, Accelerated Fianchetto;1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 g6 5 Nxc6;B00;9
+E05;Catalan, Open, Classical line 1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2 dxc4 5 Nf3 Be7;Catalan, Open, Classical line;1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2 dxc4 5 Nf3 Be7;A40;10
+C79;Ruy Lopez, Steinitz Defense Deferred 1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O d6;Ruy Lopez, Steinitz Defense Deferred;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O d6;B00;10
+D44;Queen's Gambit Declined Semi-Slav 1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c6 5 Bg5 dxc4;Queen's Gambit Declined Semi-Slav;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c6 5 Bg5 dxc4;A40;10
+E16;Queen's Indian 1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 g3 Bb7 5 Bg2 Bb4+;Queen's Indian;1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 g3 Bb7 5 Bg2 Bb4+;A40;10
+212;;placeholder-212;1 e4 e6 2 d4 d5 3 Nc3 Nf6 4 Bg5 Be7 5 e5 Nfd7;B00;10
+B14;Caro-Kann, Panov-Botvinnik Attack 1 e4 c6 2 d4 d5 3 exd5 cxd5 4 c4 Nf6 5 Nc3 e6;Caro-Kann, Panov-Botvinnik Attack;1 e4 c6 2 d4 d5 3 exd5 cxd5 4 c4 Nf6 5 Nc3 e6;B00;10
+301;;placeholder-301;1 d4 d5 2 c4 dxc4 3 Nf3 a6 4 e3 Bg4 5 Bxc4 e6;A40;10
+43;;placeholder-43;1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6;A40;10
+D17;Queen's Gambit Declined Slav 1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 Nc3 dxc4 5 a4 Bf5;Queen's Gambit Declined Slav;1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 Nc3 dxc4 5 a4 Bf5;A40;10
+307;;placeholder-307;1 d4 d5 2 c4 dxc4 3 Nf3 Nf6 4 e3 e6 5 Bxc4 c5;A40;10
+106;;placeholder-106;1 e4 c6 2 d4 d5 3 Nc3 dxe4 4 Nxe4 Nf6 5 Nxf6+;B00;9
+380;;placeholder-380;1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 Bf4 O-O;A40;10
+147;;placeholder-147;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 f3 e5;B00;10
+A38;English, Symmetrical 1 c4 c5 2 Nc3 Nc6 3 g3 g6 4 Bg2 Bg7 5 Nf3 Nf6;English, Symmetrical;1 c4 c5 2 Nc3 Nc6 3 g3 g6 4 Bg2 Bg7 5 Nf3 Nf6;A10;10
+427;;placeholder-427;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qc2 d5 5 a3 Bxc3+;A40;10
+386;;placeholder-386;1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 Qb3 dxc4;A40;10
+C52;Evans Gambit 1 e4 e5 2 Nf3 Nc6 3 Bc4 Bc5 4 b4 Bxb4 5 c3 Ba5;Evans Gambit;1 e4 e5 2 Nf3 Nc6 3 Bc4 Bc5 4 b4 Bxb4 5 c3 Ba5;B00;10
+C84;Ruy Lopez, Closed 1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7;Ruy Lopez, Closed;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7;B00;10
+B37;Sicilian, Accelerated Fianchetto 1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 g6 5 c4 Bg7;Sicilian, Accelerated Fianchetto;1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 g6 5 c4 Bg7;B00;10
+353;;placeholder-353;1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 cxd5 Nxd5;A40;10
+B46;Sicilian, Taimanov Variation 1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 Nc6 5 Nc3 a6;Sicilian, Taimanov Variation;1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 Nc6 5 Nc3 a6;B00;10
+B70;Sicilian, Dragon Variation 1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6;Sicilian, Dragon Variation;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6;B00;10
+317;;placeholder-317;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 cxd5 exd5 5 Bg5 c6;A40;10
+E39;Nimzo-Indian, Classical, Pirc Variation 1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qc2 c5 5 dxc5 O-O;Nimzo-Indian, Classical, Pirc Variation;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qc2 c5 5 dxc5 O-O;A40;10
+40;;placeholder-40;1 d4 Nf6 2 c4 c5 3 d5 b5 4 cxb5 a6 5 bxa6 Bxa6;A40;10
+B90;Sicilian, Najdorf 1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6;Sicilian, Najdorf;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6;B00;10
+D39;Queen's Gambit Declined, Ragozin, Vienna Variation 1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 Bb4 5 Bg5 dxc4;Queen's Gambit Declined, Ragozin, Vienna Variation;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 Bb4 5 Bg5 dxc4;A40;10
+311;;placeholder-311;1 d4 d5 2 c4 e6 3 Nc3 c5 4 cxd5 exd5 5 Nf3 Nc6;A40;10
+237;;placeholder-237;1 e4 e5 2 Nf3 Nc6 3 Bc4 Bc5 4 c3 Nf6 5 d4 exd4;B00;10
+B80;Sicilian, Scheveningen 1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6;Sicilian, Scheveningen;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6;B00;10
+E23;Nimzo-Indian, Spielmann 1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qb3 c5 5 dxc5 Nc6;Nimzo-Indian, Spielmann;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qb3 c5 5 dxc5 Nc6;A40;10
+324;;placeholder-324;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c5 5 cxd5 Nxd5;A40;10
+E35;Nimzo-Indian, Classical, Noa Variation, 5.cd ed 1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qc2 d5 5 cxd5 exd5;Nimzo-Indian, Classical, Noa Variation, 5.cd ed;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qc2 d5 5 cxd5 exd5;A40;10
+151;;placeholder-151;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6;B00;10
+A33;English, Symmetrical 1 c4 c5 2 Nf3 Nf6 3 d4 cxd4 4 Nxd4 e6 5 Nc3 Nc6;English, Symmetrical;1 c4 c5 2 Nf3 Nf6 3 d4 cxd4 4 Nxd4 e6 5 Nc3 Nc6;A10;10
+B47;Sicilian, Taimanov (Bastrikov) Variation 1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 Nc6 5 Nc3 Qc7;Sicilian, Taimanov (Bastrikov) Variation;1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 Nc6 5 Nc3 Qc7;B00;10
+374;;placeholder-374;1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 cxd5 Nxd5 5 e4 Nxc3;A40;10
+C58;Two Knights 1 e4 e5 2 Nf3 Nc6 3 Bc4 Nf6 4 Ng5 d5 5 exd5 Na5;Two Knights;1 e4 e5 2 Nf3 Nc6 3 Bc4 Nf6 4 Ng5 d5 5 exd5 Na5;B00;10
+C09;French, Tarrasch, Open Variation, Main line 1 e4 e6 2 d4 d5 3 Nd2 c5 4 exd5 exd5 5 Ngf3 Nc6;French, Tarrasch, Open Variation, Main line;1 e4 e6 2 d4 d5 3 Nd2 c5 4 exd5 exd5 5 Ngf3 Nc6;B00;10
+416;;placeholder-416;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 a3 Bxc3+ 5 bxc3 c5;A40;10
+390;;placeholder-390;1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2 dxc4 5 Qa4+ Nbd7;A40;10
+292;;placeholder-292;1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 cxd5 cxd5 5 Nc3 Nc6;A40;10
+152;;placeholder-152;1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 d6;B00;10
+117;;placeholder-117;1 e4 c6 2 d4 d5 3 Nc3 dxe4 4 Nxe4 Bf5 5 Ng3 Bg6;B00;10
+C80;Ruy Lopez, Open 1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Nxe4;Ruy Lopez, Open;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Nxe4;B00;10
+130;;placeholder-130;1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 g6 5 Nc3 Bg7;B00;10
+C56;Two Knights 1 e4 e5 2 Nf3 Nc6 3 Bc4 Nf6 4 d4 exd4 5 O-O Nxe4;Two Knights;1 e4 e5 2 Nf3 Nc6 3 Bc4 Nf6 4 d4 exd4 5 O-O Nxe4;B00;10
+E27;Nimzo-Indian, Samisch Variation 1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 a3 Bxc3+ 5 bxc3 O-O;Nimzo-Indian, Samisch Variation;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 a3 Bxc3+ 5 bxc3 O-O;A40;10
+C69;Ruy Lopez, Exchange, Gligoric Variation 1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Bxc6 dxc6 5 O-O f6 ;Ruy Lopez, Exchange, Gligoric Variation;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Bxc6 dxc6 5 O-O f6 ;B00;10
+257;;placeholder-257;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 d6 5 Bxc6+ bxc6;B00;10
+420;;placeholder-420;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Bg5 h6 5 Bh4 c5 6 d5;A40;11
+259;;placeholder-259;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 d6 5 c3 Bd7 6 d4;B00;11
+E77;King's Indian 1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f4 O-O 6 Be2;King's Indian;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f4 O-O 6 Be2;A40;11
+430;;placeholder-430;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Bd3 d5 6 a3;A40;11
+200;;placeholder-200;1 e4 e6 2 d4 d5 3 Nd2 Nf6 4 e5 Nfd7 5 Bd3 c5 6 c3;B00;11
+470;;placeholder-470;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O 6 Be3;A40;11
+B26;Sicilian, Closed, 6.Be3 1 e4 c5 2 Nc3 Nc6 3 g3 g6 4 Bg2 Bg7 5 d3 d6 6 Be3;Sicilian, Closed, 6.Be3;1 e4 c5 2 Nc3 Nc6 3 g3 g6 4 Bg2 Bg7 5 d3 d6 6 Be3;B00;11
+E91;King's Indian 1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2;King's Indian;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2;A40;11
+A65;Benoni, 6.e4 1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4;Benoni, 6.e4;1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4;A40;11
+446;;placeholder-446;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3 O-O 6 Bg2;A40;11
+431;;placeholder-431;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3;A40;11
+D46;Queen's Gambit Declined Semi-Slav 1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c6 5 e3 Nbd7 6 Bd3;Queen's Gambit Declined Semi-Slav;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c6 5 e3 Nbd7 6 Bd3;A40;11
+D93;Grunfeld, with Bf4 & e3 1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 Bf4 O-O 6 e3;Grunfeld, with Bf4 & e3;1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 Bf4 O-O 6 e3;A40;11
+D77;Neo-Grunfeld, 6.O-O 1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 Nf3 O-O 6 O-O;Neo-Grunfeld, 6.O-O;1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 Nf3 O-O 6 O-O;A40;11
+460;;placeholder-460;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Be2 O-O 6 Bg5;A40;11
+D55;Queen's Gambit Declined 1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3;Queen's Gambit Declined;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3;A40;11
+B16;Caro-Kann, Bronstein-Larsen Variation 1 e4 c6 2 d4 d5 3 Nc3 dxe4 4 Nxe4 Nf6 5 Nxf6+ gxf6;Caro-Kann, Bronstein-Larsen Variation;1 e4 c6 2 d4 d5 3 Nc3 dxe4 4 Nxe4 Nf6 5 Nxf6+ gxf6;B00;10
+D52;Queen's Gambit Declined 1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Nbd7 5 e3 c6 6 Nf3;Queen's Gambit Declined;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Nbd7 5 e3 c6 6 Nf3;A40;11
+D18;Queen's Gambit Declined Slav, Dutch 1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 Nc3 dxc4 5 a4 Bf5 6 e3;Queen's Gambit Declined Slav, Dutch;1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 Nc3 dxc4 5 a4 Bf5 6 e3;A40;11
+D22;Queen's Gambit Accepted 1 d4 d5 2 c4 dxc4 3 Nf3 a6 4 e3 Bg4 5 Bxc4 e6 6 d5;Queen's Gambit Accepted;1 d4 d5 2 c4 dxc4 3 Nf3 a6 4 e3 Bg4 5 Bxc4 e6 6 d5;A40;11
+393;;placeholder-393;1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2 Be7 5 Nf3 O-O 6 O-O;A40;11
+81;;placeholder-81;1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7 5 Nf3 O-O 6 O-O;A40;11
+72;;placeholder-72;1 d4 f5 2 c4 Nf6 3 g3 g6 4 Bg2 Bg7 5 Nf3 O-O 6 O-O;A40;11
+406;;placeholder-406;1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 g3 Bb7 5 Bg2 Be7 6 O-O;A40;11
+D95;Grunfeld 1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 e3 O-O 6 Qb3;Grunfeld;1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 e3 O-O 6 Qb3;A40;11
+396;;placeholder-396;1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 Nc3 Bb7 5 Bg5 h6 6 Bh4;A40;11
+D54;Queen's Gambit Declined, Anti-Neo-Orthodox Variation 1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Rc1;Queen's Gambit Declined, Anti-Neo-Orthodox Variation;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Rc1;A40;11
+B93;Sicilian, Najdorf, 6.f4 1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 f4;Sicilian, Najdorf, 6.f4;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 f4;B00;11
+352;;placeholder-352;1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 cxd5 Nxd5 6 e4;A40;11
+D33;Queen's Gambit Declined, Tarrasch 1 d4 d5 2 c4 e6 3 Nc3 c5 4 cxd5 exd5 5 Nf3 Nc6 6 g3;Queen's Gambit Declined, Tarrasch;1 d4 d5 2 c4 e6 3 Nc3 c5 4 cxd5 exd5 5 Nf3 Nc6 6 g3;A40;11
+C18;French, Winawer 1 e4 e6 2 d4 d5 3 Nc3 Bb4 4 e5 c5 5 a3 Bxc3+ 6 bxc3;French, Winawer;1 e4 e6 2 d4 d5 3 Nc3 Bb4 4 e5 c5 5 a3 Bxc3+ 6 bxc3;B00;11
+323;;placeholder-323;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c5 5 cxd5 Nxd5 6 e3;A40;11
+42;;placeholder-42;1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 Nf3;A40;11
+25;;placeholder-25;1 c4 c5 2 Nc3 Nc6 3 g3 g6 4 Bg2 Bg7 5 Nf3 Nf6 6 O-O;A10;11
+306;;placeholder-306;1 d4 d5 2 c4 dxc4 3 Nf3 Nf6 4 e3 e6 5 Bxc4 c5 6 O-O;A40;11
+B81;Sicilian, Scheveningen, Keres Attack 1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 g4;Sicilian, Scheveningen, Keres Attack;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 g4;B00;11
+B71;Sicilian, Dragon, Levenfish Variation 1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 f4;Sicilian, Dragon, Levenfish Variation;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 f4;B00;11
+370;;placeholder-370;1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Bf4 Bg7 5 e3 O-O 6 cxd5;A40;11
+360;;placeholder-360;1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 Nf3 O-O 6 cxd5;A40;11
+B82;Sicilian, Scheveningen 1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 f4;Sicilian, Scheveningen;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 f4;B00;11
+B91;Sicilian, Najdorf, Zagreb (Fianchetto) Variation 1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 g3;Sicilian, Najdorf, Zagreb (Fianchetto) Variation;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 g3;B00;11
+B86;Sicilian, Fischer-Sozin Attack 1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 Bc4;Sicilian, Fischer-Sozin Attack;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 Bc4;B00;11
+E31;Nimzo-Indian, Leningrad, Main line 1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Bg5 h6 5 Bh4 c5 6 d5 d6;Nimzo-Indian, Leningrad, Main line;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Bg5 h6 5 Bh4 c5 6 d5 d6;A40;12
+B55;Sicilian, Prins Variation, Venice Attack 1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 f3 e5 6 Bb5+;Sicilian, Prins Variation, Venice Attack;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 f3 e5 6 Bb5+;B00;11
+C76;Ruy Lopez, Modern Steinitz Defense, Fianchetto Variation 1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 d6 5 c3 Bd7 6 d4 g6;Ruy Lopez, Modern Steinitz Defense, Fianchetto Variation;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 d6 5 c3 Bd7 6 d4 g6;B00;12
+B83;Sicilian 1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 Be2;Sicilian;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 Be2;B00;11
+C86;Ruy Lopez, Worrall Attack 1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Qe2;Ruy Lopez, Worrall Attack;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Qe2;B00;11
+B72;Sicilian, Dragon 1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3;Sicilian, Dragon;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3;B00;11
+116;;placeholder-116;1 e4 c6 2 d4 d5 3 Nc3 dxe4 4 Nxe4 Bf5 5 Ng3 Bg6 6 h4;B00;11
+E85;King's Indian, Samisch, Orthodox Variation 1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O 6 Be3 e5;King's Indian, Samisch, Orthodox Variation;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O 6 Be3 e5;A40;12
+39;;placeholder-39;1 d4 Nf6 2 c4 c5 3 d5 b5 4 cxb5 a6 5 bxa6 Bxa6 6 Nc3;A40;11
+266;;placeholder-266;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1;B00;11
+B92;Sicilian, Najdorf, Opocensky Variation 1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 Be2;Sicilian, Najdorf, Opocensky Variation;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 Be2;B00;11
+E26;Nimzo-Indian, Samisch 1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 a3 Bxc3+ 5 bxc3 c5 6 e3;Nimzo-Indian, Samisch;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 a3 Bxc3+ 5 bxc3 c5 6 e3;A40;11
+B38;Sicilian, Accelerated Fianchetto, Maroczy Bind, 6.Be3 1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 g6 5 c4 Bg7 6 Be3;Sicilian, Accelerated Fianchetto, Maroczy Bind, 6.Be3;1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 g6 5 c4 Bg7 6 Be3;B00;11
+D36;Queen's Gambit Declined, Exchange, Positional line, 6.Qc2 1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 cxd5 exd5 5 Bg5 c6 6 Qc2;Queen's Gambit Declined, Exchange, Positional line, 6.Qc2;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 cxd5 exd5 5 Bg5 c6 6 Qc2;A40;11
+465;;placeholder-465;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f4 O-O 6 Be2 c5;A40;12
+E82;King's Indian, Samisch, double Fianchetto Variation 1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O 6 Be3 b6;King's Indian, Samisch, double Fianchetto Variation;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O 6 Be3 b6;A40;12
+415;;placeholder-415;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 a3 Bxc3+ 5 bxc3 c5 6 f3;A40;11
+264;;placeholder-264;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Nxe4 6 d4;B00;11
+211;;placeholder-211;1 e4 e6 2 d4 d5 3 Nc3 Nf6 4 Bg5 Be7 5 e5 Nfd7 6 Bxe7;B00;11
+B94;Sicilian, Najdorf 1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 Bg5;Sicilian, Najdorf;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 Bg5;B00;11
+B60;Sicilian, Richter-Rauzer 1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5;Sicilian, Richter-Rauzer;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5;B00;11
+E64;King's Indian, Fianchetto, Yugoslav System 1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3 O-O 6 Bg2 c5;King's Indian, Fianchetto, Yugoslav System;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3 O-O 6 Bg2 c5;A40;12
+C73;Ruy Lopez, Modern Steinitz Defense 1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 d6 5 Bxc6+ bxc6 6 d4;Ruy Lopez, Modern Steinitz Defense;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 d6 5 Bxc6+ bxc6 6 d4;B00;11
+54;;placeholder-54;1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6;A40;12
+E83;King's Indian, Samisch 1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O 6 Be3 Nc6;King's Indian, Samisch;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O 6 Be3 Nc6;A40;12
+71;;placeholder-71;1 d4 f5 2 c4 Nf6 3 g3 g6 4 Bg2 Bg7 5 Nf3 O-O 6 O-O d6;A40;12
+E92;King's Indian 1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5;King's Indian;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5;A40;12
+E28;Nimzo-Indian, Samisch Variation 1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 a3 Bxc3+ 5 bxc3 O-O 6 e3;Nimzo-Indian, Samisch Variation;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 a3 Bxc3+ 5 bxc3 O-O 6 e3;A40;11
+E53;Nimzo-Indian, 4.e3 1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3 c5;Nimzo-Indian, 4.e3;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3 c5;A40;12
+B58;Sicilian 1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 d6 6 Be2;Sicilian;1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 d6 6 Be2;B00;11
+80;;placeholder-80;1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7 5 Nf3 O-O 6 O-O d5;A40;12
+B57;Sicilian 1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bc4;Sicilian;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bc4;B00;11
+C54;Giuoco Piano 1 e4 e5 2 Nf3 Nc6 3 Bc4 Bc5 4 c3 Nf6 5 d4 exd4 6 cxd4;Giuoco Piano;1 e4 e5 2 Nf3 Nc6 3 Bc4 Bc5 4 c3 Nf6 5 d4 exd4 6 cxd4;B00;11
+E74;King's Indian, Averbakh, 6...c5 1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Be2 O-O 6 Bg5 c5;King's Indian, Averbakh, 6...c5;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Be2 O-O 6 Bg5 c5;A40;12
+B48;Sicilian, Taimanov Variation 1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 Nc6 5 Nc3 Qc7 6 Be3;Sicilian, Taimanov Variation;1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 Nc6 5 Nc3 Qc7 6 Be3;B00;11
+199;;placeholder-199;1 e4 e6 2 d4 d5 3 Nd2 Nf6 4 e5 Nfd7 5 Bd3 c5 6 c3 Nc6;B00;12
+291;;placeholder-291;1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 cxd5 cxd5 5 Nc3 Nc6 6 Bf4;A40;11
+265;;placeholder-265;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Bxc6;B00;11
+340;;placeholder-340;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 h6;A40;12
+385;;placeholder-385;1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 Qb3 dxc4 6 Qxc4;A40;11
+300;;placeholder-300;1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 Nc3 dxc4 5 a4 Bf5 6 e3 e6;A40;12
+129;;placeholder-129;1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 g6 5 Nc3 Bg7 6 Be3;B00;11
+E52;Nimzo-Indian, 4.e3, Main line with ...b6 1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3 b6;Nimzo-Indian, 4.e3, Main line with ...b6;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3 b6;A40;12
+D78;Neo-Grunfeld, 6.O-O c6 1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 Nf3 O-O 6 O-O c6;Neo-Grunfeld, 6.O-O c6;1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 Nf3 O-O 6 O-O c6;A40;12
+A96;Dutch, Classical Variation 1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7 5 Nf3 O-O 6 O-O d6;Dutch, Classical Variation;1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7 5 Nf3 O-O 6 O-O d6;A40;12
+426;;placeholder-426;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qc2 d5 5 a3 Bxc3+ 6 Qxc3;A40;11
+373;;placeholder-373;1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 cxd5 Nxd5 5 e4 Nxc3 6 bxc3;A40;11
+E13;Queen's Indian, 4.Nc3, Main line 1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 Nc3 Bb7 5 Bg5 h6 6 Bh4 Bb4;Queen's Indian, 4.Nc3, Main line;1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 Nc3 Bb7 5 Bg5 h6 6 Bh4 Bb4;A40;12
+A61;Benoni 1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 Nf3 g6;Benoni;1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 Nf3 g6;A40;12
+D27;Queen's Gambit Accepted, Classical 1 d4 d5 2 c4 dxc4 3 Nf3 Nf6 4 e3 e6 5 Bxc4 c5 6 O-O a6;Queen's Gambit Accepted, Classical;1 d4 d5 2 c4 dxc4 3 Nf3 Nf6 4 e3 e6 5 Bxc4 c5 6 O-O a6;A40;12
+405;;placeholder-405;1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 g3 Bb7 5 Bg2 Be7 6 O-O O-O;A40;12
+250;;placeholder-250;1 e4 e5 2 Nf3 Nc6 3 Bc4 Nf6 4 Ng5 d5 5 exd5 Na5 6 Bb5+;B00;11
+E03;Catalan, Open 1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2 dxc4 5 Qa4+ Nbd7 6 Qxc4;Catalan, Open;1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2 dxc4 5 Qa4+ Nbd7 6 Qxc4;A40;11
+445;;placeholder-445;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3 O-O 6 Bg2 Nc6;A40;12
+E67;King's Indian, Fianchetto 1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3 O-O 6 Bg2 Nbd7;King's Indian, Fianchetto;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3 O-O 6 Bg2 Nbd7;A40;12
+115;;placeholder-115;1 e4 c6 2 d4 d5 3 Nc3 dxe4 4 Nxe4 Bf5 5 Ng3 Bg6 6 h4 h6;B00;12
+267;;placeholder-267;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5;B00;12
+263;;placeholder-263;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Nxe4 6 d4 b5;B00;12
+38;;placeholder-38;1 d4 Nf6 2 c4 c5 3 d5 b5 4 cxb5 a6 5 bxa6 Bxa6 6 Nc3 d6;A40;12
+24;;placeholder-24;1 c4 c5 2 Nc3 Nc6 3 g3 g6 4 Bg2 Bg7 5 Nf3 Nf6 6 O-O O-O;A10;12
+316;;placeholder-316;1 d4 d5 2 c4 e6 3 Nc3 c5 4 cxd5 exd5 5 Nf3 Nc6 6 g3 Nf6;A40;12
+D60;Queen's Gambit Declined, Orthodox Defense 1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7;Queen's Gambit Declined, Orthodox Defense;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7;A40;12
+C87;Ruy Lopez 1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 d6;Ruy Lopez;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 d6;B00;12
+429;;placeholder-429;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Bd3 d5 6 a3 Bxc3+;A40;12
+E07;Catalan, Closed 1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2 Be7 5 Nf3 O-O 6 O-O Nbd7;Catalan, Closed;1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2 Be7 5 Nf3 O-O 6 O-O Nbd7;A40;12
+351;;placeholder-351;1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 cxd5 Nxd5 6 e4 Nb6;A40;12
+B84;Sicilian, Scheveningen 1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 Be2 a6;Sicilian, Scheveningen;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 Be2 a6;B00;12
+327;;placeholder-327;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c6 5 e3 Nbd7 6 Bd3 dxc4;A40;12
+414;;placeholder-414;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 a3 Bxc3+ 5 bxc3 c5 6 f3 d5;A40;12
+181;;placeholder-181;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 Bc4 a6;B00;12
+C19;French, Winawer, Advance 1 e4 e6 2 d4 d5 3 Nc3 Bb4 4 e5 c5 5 a3 Bxc3+ 6 bxc3 Ne7;French, Winawer, Advance;1 e4 e6 2 d4 d5 3 Nc3 Bb4 4 e5 c5 5 a3 Bxc3+ 6 bxc3 Ne7;B00;12
+B95;Sicilian, Najdorf, 6...e6 1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 Bg5 e6;Sicilian, Najdorf, 6...e6;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 Bg5 e6;B00;12
+322;;placeholder-322;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c5 5 cxd5 Nxd5 6 e3 Nc6;A40;12
+369;;placeholder-369;1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Bf4 Bg7 5 e3 O-O 6 cxd5 Nxd5;A40;12
+168;;placeholder-168;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3 Bg7;B00;12
+B62;Sicilian, Richter-Rauzer 1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6;Sicilian, Richter-Rauzer;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6;B00;12
+142;;placeholder-142;1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 Nc6 5 Nc3 Qc7 6 Be3 a6;B00;12
+359;;placeholder-359;1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 Nf3 O-O 6 cxd5 Nxd5;A40;12
+135;;placeholder-135;1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 g6 5 c4 Bg7 6 Be3 Nf6;B00;12
+155;;placeholder-155;1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 d6 6 Be2 e5;B00;12
+B88;Sicilian, Fischer-Sozin Attack 1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 Bc4 Nc6;Sicilian, Fischer-Sozin Attack;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 Bc4 Nc6;B00;12
+419;;placeholder-419;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 a3 Bxc3+ 5 bxc3 O-O 6 e3 c5;A40;12
+157;;placeholder-157;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 Bd7;B00;12
+425;;placeholder-425;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qc2 d5 5 a3 Bxc3+ 6 Qxc3 Ne4;A40;12
+128;;placeholder-128;1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 g6 5 Nc3 Bg7 6 Be3 Nf6;B00;12
+384;;placeholder-384;1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 Qb3 dxc4 6 Qxc4 O-O;A40;12
+D14;Queen's Gambit Declined Slav, Exchange Variation 1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 cxd5 cxd5 5 Nc3 Nc6 6 Bf4 Bf5;Queen's Gambit Declined Slav, Exchange Variation;1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 cxd5 cxd5 5 Nc3 Nc6 6 Bf4 Bf5;A40;12
+E87;King's Indian, Samisch, Orthodox 1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O 6 Be3 e5 7 d5;King's Indian, Samisch, Orthodox;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O 6 Be3 e5 7 d5;A40;13
+C14;French, Classical 1 e4 e6 2 d4 d5 3 Nc3 Nf6 4 Bg5 Be7 5 e5 Nfd7 6 Bxe7 Qxe7;French, Classical;1 e4 e6 2 d4 d5 3 Nc3 Nf6 4 Bg5 Be7 5 e5 Nfd7 6 Bxe7 Qxe7;B00;12
+249;;placeholder-249;1 e4 e5 2 Nf3 Nc6 3 Bc4 Nf6 4 Ng5 d5 5 exd5 Na5 6 Bb5+ c6;B00;12
+480;;placeholder-480;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5 7 d5;A40;13
+A66;Benoni 1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 f4;Benoni;1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 f4;A40;13
+C85;Ruy Lopez, Exchange Variation Doubly Deferred (DERLD) 1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Bxc6 dxc6;Ruy Lopez, Exchange Variation Doubly Deferred (DERLD);1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Bxc6 dxc6;B00;12
+E78;King's Indian, Four Pawns Attack, with Be2 and Nf3 1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f4 O-O 6 Be2 c5 7 Nf3;King's Indian, Four Pawns Attack, with Be2 and Nf3;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f4 O-O 6 Be2 c5 7 Nf3;A40;13
+462;;placeholder-462;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Be2 O-O 6 Bg5 c5 7 d5;A40;13
+A93;Dutch, Stonewall, Botvinnik Variation 1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7 5 Nf3 O-O 6 O-O d5 7 b3;Dutch, Stonewall, Botvinnik Variation;1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7 5 Nf3 O-O 6 O-O d5 7 b3;A40;13
+372;;placeholder-372;1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 cxd5 Nxd5 5 e4 Nxc3 6 bxc3 Bg7;A40;12
+E65;King's Indian, Fianchetto, Yugoslav, 7.O-O 1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3 O-O 6 Bg2 c5 7 O-O;King's Indian, Fianchetto, Yugoslav, 7.O-O;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3 O-O 6 Bg2 c5 7 O-O;A40;13
+A70;Benoni, Classical with 7.Nf3 1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3;Benoni, Classical with 7.Nf3;1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3;A40;13
+434;;placeholder-434;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3 c5 7 O-O;A40;13
+D56;Queen's Gambit Declined 1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 h6 7 Bh4;Queen's Gambit Declined;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 h6 7 Bh4;A40;13
+49;;placeholder-49;1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 Nf3 g6 7 g3;A40;13
+87;;placeholder-87;1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7 5 Nf3 O-O 6 O-O d6 7 Nc3;A40;13
+476;;placeholder-476;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O 6 Be3 e5 7 Nge2;A40;13
+70;;placeholder-70;1 d4 f5 2 c4 Nf6 3 g3 g6 4 Bg2 Bg7 5 Nf3 O-O 6 O-O d6 7 Nc3;A40;13
+83;;placeholder-83;1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7 5 Nf3 O-O 6 O-O d5 7 Nc3;A40;13
+E94;King's Indian, Orthodox 1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5 7 O-O;King's Indian, Orthodox;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5 7 O-O;A40;13
+198;;placeholder-198;1 e4 e6 2 d4 d5 3 Nd2 Nf6 4 e5 Nfd7 5 Bd3 c5 6 c3 Nc6 7 Ne2;B00;13
+299;;placeholder-299;1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 Nc3 dxc4 5 a4 Bf5 6 e3 e6 7 Bxc4;A40;13
+474;;placeholder-474;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O 6 Be3 Nc6 7 Nge2;A40;13
+D28;Queen's Gambit Accepted, Classical 1 d4 d5 2 c4 dxc4 3 Nf3 Nf6 4 e3 e6 5 Bxc4 c5 6 O-O a6 7 Qe2;Queen's Gambit Accepted, Classical;1 d4 d5 2 c4 dxc4 3 Nf3 Nf6 4 e3 e6 5 Bxc4 c5 6 O-O a6 7 Qe2;A40;13
+A59;Benko Gambit 1 d4 Nf6 2 c4 c5 3 d5 b5 4 cxb5 a6 5 bxa6 Bxa6 6 Nc3 d6 7 e4;Benko Gambit;1 d4 Nf6 2 c4 c5 3 d5 b5 4 cxb5 a6 5 bxa6 Bxa6 6 Nc3 d6 7 e4;A40;13
+364;;placeholder-364;1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 Nf3 O-O 6 O-O c6 7 cxd5;A40;13
+A39;English, Symmetrical, Main line with d4 1 c4 c5 2 Nc3 Nc6 3 g3 g6 4 Bg2 Bg7 5 Nf3 Nf6 6 O-O O-O 7 d4;English, Symmetrical, Main line with d4;1 c4 c5 2 Nc3 Nc6 3 g3 g6 4 Bg2 Bg7 5 Nf3 Nf6 6 O-O O-O 7 d4;A10;13
+E18;Queen's Indian, Old Main line, 7.Nc3 1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 g3 Bb7 5 Bg2 Be7 6 O-O O-O 7 Nc3;Queen's Indian, Old Main line, 7.Nc3;1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 g3 Bb7 5 Bg2 Be7 6 O-O O-O 7 Nc3;A40;13
+444;;placeholder-444;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3 O-O 6 Bg2 Nc6 7 O-O;A40;13
+B96;Sicilian, Najdorf 1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 Bg5 e6 7 f4;Sicilian, Najdorf;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 Bg5 e6 7 f4;B00;13
+E88;King's Indian, Samisch, Orthodox, 7.d5 c6 1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O 6 Be3 e5 7 d5 c6;King's Indian, Samisch, Orthodox, 7.d5 c6;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O 6 Be3 e5 7 d5 c6;A40;14
+82;;placeholder-82;1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7 5 Nf3 O-O 6 O-O d5 7 b3 c6;A40;14
+180;;placeholder-180;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 Bc4 a6 7 Bb3;B00;13
+E08;Catalan, Closed 1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2 Be7 5 Nf3 O-O 6 O-O Nbd7 7 Qc2;Catalan, Closed;1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2 Be7 5 Nf3 O-O 6 O-O Nbd7 7 Qc2;A40;13
+E75;King's Indian, Averbakh, Main line 1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Be2 O-O 6 Bg5 c5 7 d5 e6;King's Indian, Averbakh, Main line;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Be2 O-O 6 Bg5 c5 7 d5 e6;A40;14
+179;;placeholder-179;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 Be2 a6 7 O-O;B00;13
+114;;placeholder-114;1 e4 c6 2 d4 d5 3 Nc3 dxe4 4 Nxe4 Bf5 5 Ng3 Bg6 6 h4 h6 7 Nf3;B00;13
+C88;Ruy Lopez 1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3;Ruy Lopez;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3;B00;13
+B75;Sicilian, Dragon, Yugoslav Attack 1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3 Bg7 7 f3;Sicilian, Dragon, Yugoslav Attack;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3 Bg7 7 f3;B00;13
+D42;Queen's Gambit Declined, Semi-Tarrasch, 7.Bd3 1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c5 5 cxd5 Nxd5 6 e3 Nc6 7 Bd3;Queen's Gambit Declined, Semi-Tarrasch, 7.Bd3;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c5 5 cxd5 Nxd5 6 e3 Nc6 7 Bd3;A40;13
+262;;placeholder-262;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Nxe4 6 d4 b5 7 Bb3;B00;13
+454;;placeholder-454;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3 O-O 6 Bg2 Nbd7 7 O-O;A40;13
+315;;placeholder-315;1 d4 d5 2 c4 e6 3 Nc3 c5 4 cxd5 exd5 5 Nf3 Nc6 6 g3 Nf6 7 Bg2;A40;13
+D63;Queen's Gambit Declined, Orthodox Defense 1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Rc1;Queen's Gambit Declined, Orthodox Defense;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Rc1;A40;13
+D61;Queen's Gambit Declined, Orthodox, Rubinstein Attack 1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Qc2;Queen's Gambit Declined, Orthodox, Rubinstein Attack;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Qc2;A40;13
+D72;Neo-Grunfeld, 5.cd, Main line 1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 cxd5 Nxd5 6 e4 Nb6 7 Ne2;Neo-Grunfeld, 5.cd, Main line;1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 cxd5 Nxd5 6 e4 Nb6 7 Ne2;A40;13
+E86;King's Indian, Samisch, Orthodox, 7.Nge2 c6 1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O 6 Be3 e5 7 Nge2 c6;King's Indian, Samisch, Orthodox, 7.Nge2 c6;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O 6 Be3 e5 7 Nge2 c6;A40;14
+B49;Sicilian, Taimanov Variation 1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 Nc6 5 Nc3 Qc7 6 Be3 a6 7 Be2;Sicilian, Taimanov Variation;1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 Nc6 5 Nc3 Qc7 6 Be3 a6 7 Be2;B00;13
+55;;placeholder-55;1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 f4 Bg7;A40;14
+D97;Grunfeld, Russian 1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 Qb3 dxc4 6 Qxc4 O-O 7 e4;Grunfeld, Russian;1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 Qb3 dxc4 6 Qxc4 O-O 7 e4;A40;13
+B89;Sicilian 1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 Bc4 Nc6 7 Be3;Sicilian;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 Bc4 Nc6 7 Be3;B00;13
+167;;placeholder-167;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3 Bg7 7 Be2;B00;13
+D58;Queen's Gambit Declined, Tartakower (Makagonov-Bondarevsky) System 1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 h6 7 Bh4 b6;Queen's Gambit Declined, Tartakower (Makagonov-Bondarevsky) System;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 h6 7 Bh4 b6;A40;14
+D74;Neo-Grunfeld, 6.cd Nxd5, 7.O-O 1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 Nf3 O-O 6 cxd5 Nxd5 7 O-O;Neo-Grunfeld, 6.cd Nxd5, 7.O-O;1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 Nf3 O-O 6 cxd5 Nxd5 7 O-O;A40;13
+A88;Dutch, Leningrad, Main Variation with c6 1 d4 f5 2 c4 Nf6 3 g3 g6 4 Bg2 Bg7 5 Nf3 O-O 6 O-O d6 7 Nc3 c6;Dutch, Leningrad, Main Variation with c6;1 d4 f5 2 c4 Nf6 3 g3 g6 4 Bg2 Bg7 5 Nf3 O-O 6 O-O d6 7 Nc3 c6;A40;14
+134;;placeholder-134;1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 g6 5 c4 Bg7 6 Be3 Nf6 7 Nc3;B00;13
+A95;Dutch, Stonewall 1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7 5 Nf3 O-O 6 O-O d5 7 Nc3 c6;Dutch, Stonewall;1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7 5 Nf3 O-O 6 O-O d5 7 Nc3 c6;A40;14
+418;;placeholder-418;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 a3 Bxc3+ 5 bxc3 O-O 6 e3 c5 7 Bd3;A40;13
+B59;Sicilian, Boleslavsky Variation, 7.Nb3 1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 d6 6 Be2 e5 7 Nb3;Sicilian, Boleslavsky Variation, 7.Nb3;1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 d6 6 Be2 e5 7 Nb3;B00;13
+B63;Sicilian, Richter-Rauzer Attack 1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6 7 Qd2;Sicilian, Richter-Rauzer Attack;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6 7 Qd2;B00;13
+E25;Nimzo-Indian, Samisch 1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 a3 Bxc3+ 5 bxc3 c5 6 f3 d5 7 cxd5;Nimzo-Indian, Samisch;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 a3 Bxc3+ 5 bxc3 c5 6 f3 d5 7 cxd5;A40;13
+E49;Nimzo-Indian, 4.e3, Botvinnik System 1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Bd3 d5 6 a3 Bxc3+ 7 bxc3;Nimzo-Indian, 4.e3, Botvinnik System;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Bd3 d5 6 a3 Bxc3+ 7 bxc3;A40;13
+D47;Queen's Gambit Declined Semi-Slav 1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c6 5 e3 Nbd7 6 Bd3 dxc4 7 Bxc4;Queen's Gambit Declined Semi-Slav;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c6 5 e3 Nbd7 6 Bd3 dxc4 7 Bxc4;A40;13
+B35;Sicilian, Accelerated Fianchetto, Modern Variation with Bc4 1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 g6 5 Nc3 Bg7 6 Be3 Nf6 7 Bc4;Sicilian, Accelerated Fianchetto, Modern Variation with Bc4;1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 g6 5 Nc3 Bg7 6 Be3 Nf6 7 Bc4;B00;13
+473;;placeholder-473;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O 6 Be3 Nc6 7 Nge2 a6;A40;14
+468;;placeholder-468;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f4 O-O 6 Be2 c5 7 Nf3 cxd4;A40;14
+59;;placeholder-59;1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7;A40;14
+310;;placeholder-310;1 d4 d5 2 c4 dxc4 3 Nf3 Nf6 4 e3 e6 5 Bxc4 c5 6 O-O a6 7 Qe2 b5;A40;14
+A89;Dutch, Leningrad, Main Variation with Nc6 1 d4 f5 2 c4 Nf6 3 g3 g6 4 Bg2 Bg7 5 Nf3 O-O 6 O-O d6 7 Nc3 Nc6;Dutch, Leningrad, Main Variation with Nc6;1 d4 f5 2 c4 Nf6 3 g3 g6 4 Bg2 Bg7 5 Nf3 O-O 6 O-O d6 7 Nc3 Nc6;A40;14
+E97;King's Indian 1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5 7 O-O Nc6;King's Indian;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5 7 O-O Nc6;A40;14
+B61;Sicilian, Richter-Rauzer, Larsen Variation, 7.Qd2 1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 Bd7 7 Qd2;Sicilian, Richter-Rauzer, Larsen Variation, 7.Qd2;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 Bd7 7 Qd2;B00;13
+E37;Nimzo-Indian, Classical 1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qc2 d5 5 a3 Bxc3+ 6 Qxc3 Ne4 7 Qc2;Nimzo-Indian, Classical;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qc2 d5 5 a3 Bxc3+ 6 Qxc3 Ne4 7 Qc2;A40;13
+A97;Dutch, Ilyin-Genevsky 1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7 5 Nf3 O-O 6 O-O d6 7 Nc3 Qe8;Dutch, Ilyin-Genevsky;1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7 5 Nf3 O-O 6 O-O d6 7 Nc3 Qe8;A40;14
+E63;King's Indian, Fianchetto, Panno Variation 1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3 O-O 6 Bg2 Nc6 7 O-O a6;King's Indian, Fianchetto, Panno Variation;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3 O-O 6 Bg2 Nc6 7 O-O a6;A40;14
+E93;King's Indian, Petrosian System 1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5 7 d5 Nbd7;King's Indian, Petrosian System;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5 7 d5 Nbd7;A40;14
+368;;placeholder-368;1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Bf4 Bg7 5 e3 O-O 6 cxd5 Nxd5 7 Nxd5;A40;13
+450;;placeholder-450;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3 O-O 6 Bg2 c5 7 O-O Nc6;A40;14
+E56;Nimzo-Indian, 4.e3, Main line with 7...Nc6 1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3 c5 7 O-O Nc6;Nimzo-Indian, 4.e3, Main line with 7...Nc6;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3 c5 7 O-O Nc6;A40;14
+48;;placeholder-48;1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 Nf3 g6 7 g3 Bg7;A40;14
+342;;placeholder-342;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 h6 7 Bh4 Ne4;A40;14
+D86;Grunfeld, Exchange 1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 cxd5 Nxd5 5 e4 Nxc3 6 bxc3 Bg7 7 Bc4;Grunfeld, Exchange;1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 cxd5 Nxd5 5 e4 Nxc3 6 bxc3 Bg7 7 Bc4;A40;13
+B98;Sicilian, Najdorf 1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 Bg5 e6 7 f4 Be7;Sicilian, Najdorf;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 Bg5 e6 7 f4 Be7;B00;14
+345;;placeholder-345;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Rc1 c6;A40;14
+344;;placeholder-344;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Qc2 c5;A40;14
+B97;Sicilian, Najdorf 1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 Bg5 e6 7 f4 Qb6;Sicilian, Najdorf;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 Bg5 e6 7 f4 Qb6;B00;14
+248;;placeholder-248;1 e4 e5 2 Nf3 Nc6 3 Bc4 Nf6 4 Ng5 d5 5 exd5 Na5 6 Bb5+ c6 7 dxc6;B00;13
+433;;placeholder-433;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3 c5 7 O-O dxc4;A40;14
+298;;placeholder-298;1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 Nc3 dxc4 5 a4 Bf5 6 e3 e6 7 Bxc4 Bb4;A40;14
+B87;Sicilian, Fischer-Sozin with ...a6 and ...b5 1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 Bc4 a6 7 Bb3 b5;Sicilian, Fischer-Sozin with ...a6 and ...b5;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 Bc4 a6 7 Bb3 b5;B00;14
+481;;placeholder-481;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5 7 O-O Nbd7;A40;14
+197;;placeholder-197;1 e4 e6 2 d4 d5 3 Nd2 Nf6 4 e5 Nfd7 5 Bd3 c5 6 c3 Nc6 7 Ne2 cxd4;B00;14
+261;;placeholder-261;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Nxe4 6 d4 b5 7 Bb3 d5;B00;14
+395;;placeholder-395;1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2 Be7 5 Nf3 O-O 6 O-O Nbd7 7 Qc2 c6;A40;14
+408;;placeholder-408;1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 g3 Bb7 5 Bg2 Be7 6 O-O O-O 7 Nc3 Ne4;A40;14
+453;;placeholder-453;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3 O-O 6 Bg2 Nbd7 7 O-O e5;A40;14
+270;;placeholder-270;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O;B00;14
+D79;Neo-Grunfeld, 6.O-O, Main line 1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 Nf3 O-O 6 O-O c6 7 cxd5 cxd5;Neo-Grunfeld, 6.O-O, Main line;1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 Nf3 O-O 6 O-O c6 7 cxd5 cxd5;A40;14
+B76;Sicilian, Dragon, Yugoslav Attack 1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3 Bg7 7 f3 O-O;Sicilian, Dragon, Yugoslav Attack;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3 Bg7 7 f3 O-O;B00;14
+B66;Sicilian, Richter-Rauzer Attack, 7...a6 1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6 7 Qd2 a6;Sicilian, Richter-Rauzer Attack, 7...a6;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6 7 Qd2 a6;B00;14
+D34;Queen's Gambit Declined, Tarrasch 1 d4 d5 2 c4 e6 3 Nc3 c5 4 cxd5 exd5 5 Nf3 Nc6 6 g3 Nf6 7 Bg2 Be7;Queen's Gambit Declined, Tarrasch;1 d4 d5 2 c4 e6 3 Nc3 c5 4 cxd5 exd5 5 Nf3 Nc6 6 g3 Nf6 7 Bg2 Be7;A40;14
+B19;Caro-Kann, Classical 1 e4 c6 2 d4 d5 3 Nc3 dxe4 4 Nxe4 Bf5 5 Ng3 Bg6 6 h4 h6 7 Nf3 Nd7;Caro-Kann, Classical;1 e4 c6 2 d4 d5 3 Nc3 dxe4 4 Nxe4 Bf5 5 Ng3 Bg6 6 h4 h6 7 Nf3 Nd7;B00;14
+329;;placeholder-329;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c6 5 e3 Nbd7 6 Bd3 dxc4 7 Bxc4 b5;A40;14
+362;;placeholder-362;1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 Nf3 O-O 6 cxd5 Nxd5 7 O-O c5;A40;14
+178;;placeholder-178;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 Be2 a6 7 O-O Qc7;B00;14
+160;;placeholder-160;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6 7 Qd2 Be7;B00;14
+D76;Neo-Grunfeld, 6.cd Nxd5, 7.O-O Nb6 1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 Nf3 O-O 6 cxd5 Nxd5 7 O-O Nb6;Neo-Grunfeld, 6.cd Nxd5, 7.O-O Nb6;1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 Nf3 O-O 6 cxd5 Nxd5 7 O-O Nb6;A40;14
+D98;Grunfeld, Russian 1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 Qb3 dxc4 6 Qxc4 O-O 7 e4 Bg4;Grunfeld, Russian;1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 Qb3 dxc4 6 Qxc4 O-O 7 e4 Bg4;A40;14
+B39;Sicilian, Accelerated Fianchetto, Breyer Variation 1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 g6 5 c4 Bg7 6 Be3 Nf6 7 Nc3 Ng4;Sicilian, Accelerated Fianchetto, Breyer Variation;1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 g6 5 c4 Bg7 6 Be3 Nf6 7 Nc3 Ng4;B00;14
+166;;placeholder-166;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3 Bg7 7 Be2 Nc6;B00;14
+E29;Nimzo-Indian, Samisch 1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 a3 Bxc3+ 5 bxc3 O-O 6 e3 c5 7 Bd3 Nc6;Nimzo-Indian, Samisch;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 a3 Bxc3+ 5 bxc3 O-O 6 e3 c5 7 Bd3 Nc6;A40;14
+A94;Dutch, Stonewall with Ba3 1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7 5 Nf3 O-O 6 O-O d5 7 b3 c6 8 Ba3;Dutch, Stonewall with Ba3;1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7 5 Nf3 O-O 6 O-O d5 7 b3 c6 8 Ba3;A40;15
+477;;placeholder-477;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O 6 Be3 e5 7 d5 c6 8 Nge2;A40;15
+A99;Dutch, Ilyin-Genevsky Variation with b3 1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7 5 Nf3 O-O 6 O-O d6 7 Nc3 Qe8 8 b3;Dutch, Ilyin-Genevsky Variation with b3;1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7 5 Nf3 O-O 6 O-O d6 7 Nc3 Qe8 8 b3;A40;15
+E66;King's Indian, Fianchetto, Yugoslav Panno 1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3 O-O 6 Bg2 c5 7 O-O Nc6 8 d5;King's Indian, Fianchetto, Yugoslav Panno;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3 O-O 6 Bg2 c5 7 O-O Nc6 8 d5;A40;15
+56;;placeholder-56;1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 f4 Bg7 8 Nf3;A40;15
+367;;placeholder-367;1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Bf4 Bg7 5 e3 O-O 6 cxd5 Nxd5 7 Nxd5 Qxd5;A40;14
+376;;placeholder-376;1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 cxd5 Nxd5 5 e4 Nxc3 6 bxc3 Bg7 7 Bc4 O-O;A40;14
+485;;placeholder-485;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5 7 O-O Nc6 8 d5;A40;15
+437;;placeholder-437;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3 c5 7 O-O Nc6 8 a3;A40;15
+60;;placeholder-60;1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7 8 Be2;A40;15
+E68;King's Indian, Fianchetto, Classical Variation, 8.e4 1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3 O-O 6 Bg2 Nbd7 7 O-O e5 8 e4;King's Indian, Fianchetto, Classical Variation, 8.e4;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3 O-O 6 Bg2 Nbd7 7 O-O e5 8 e4;A40;15
+A71;Benoni, Classical, 8.Bg5 1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7 8 Bg5;Benoni, Classical, 8.Bg5;1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7 8 Bg5;A40;15
+A98;Dutch, Ilyin-Genevsky Variation with Qc2 1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7 5 Nf3 O-O 6 O-O d6 7 Nc3 Qe8 8 Qc2;Dutch, Ilyin-Genevsky Variation with Qc2;1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7 5 Nf3 O-O 6 O-O d6 7 Nc3 Qe8 8 Qc2;A40;15
+247;;placeholder-247;1 e4 e5 2 Nf3 Nc6 3 Bc4 Nf6 4 Ng5 d5 5 exd5 Na5 6 Bb5+ c6 7 dxc6 bxc6;B00;14
+A67;Benoni, Taimanov Variation 1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 f4 Bg7 8 Bb5+;Benoni, Taimanov Variation;1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 f4 Bg7 8 Bb5+;A40;15
+309;;placeholder-309;1 d4 d5 2 c4 dxc4 3 Nf3 Nf6 4 e3 e6 5 Bxc4 c5 6 O-O a6 7 Qe2 b5 8 Bb3;A40;15
+343;;placeholder-343;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 h6 7 Bh4 b6 8 cxd5;A40;15
+472;;placeholder-472;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O 6 Be3 Nc6 7 Nge2 a6 8 Qd2;A40;15
+47;;placeholder-47;1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 Nf3 g6 7 g3 Bg7 8 Bg2;A40;15
+297;;placeholder-297;1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 Nc3 dxc4 5 a4 Bf5 6 e3 e6 7 Bxc4 Bb4 8 O-O;A40;15
+467;;placeholder-467;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f4 O-O 6 Be2 c5 7 Nf3 cxd4 8 Nxd4;A40;15
+269;;placeholder-269;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3;B00;15
+177;;placeholder-177;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 Be2 a6 7 O-O Qc7 8 f4;B00;15
+D64;Queen's Gambit Declined, Orthodox, Rubinstein Attack 1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Rc1 c6 8 Qc2;Queen's Gambit Declined, Orthodox, Rubinstein Attack;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Rc1 c6 8 Qc2;A40;15
+407;;placeholder-407;1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 g3 Bb7 5 Bg2 Be7 6 O-O O-O 7 Nc3 Ne4 8 Qc2;A40;15
+184;;placeholder-184;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 Bg5 e6 7 f4 Be7 8 Qf3;B00;15
+E95;King's Indian, Orthodox, 7...Nbd7, 8.Re1 1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5 7 O-O Nbd7 8 Re1;King's Indian, Orthodox, 7...Nbd7, 8.Re1;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5 7 O-O Nbd7 8 Re1;A40;15
+D66;Queen's Gambit Declined, Orthodox Defense, Bd3 line 1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Rc1 c6 8 Bd3;Queen's Gambit Declined, Orthodox Defense, Bd3 line;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Rc1 c6 8 Bd3;A40;15
+341;;placeholder-341;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 h6 7 Bh4 Ne4 8 Bxe7;A40;15
+E09;Catalan, Closed 1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2 Be7 5 Nf3 O-O 6 O-O Nbd7 7 Qc2 c6 8 Nbd2;Catalan, Closed;1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2 Be7 5 Nf3 O-O 6 O-O Nbd7 7 Qc2 c6 8 Nbd2;A40;15
+260;;placeholder-260;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Nxe4 6 d4 b5 7 Bb3 d5 8 dxe5;B00;15
+E54;Nimzo-Indian, 4.e3, Gligoric System 1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3 c5 7 O-O dxc4 8 Bxc4;Nimzo-Indian, 4.e3, Gligoric System;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3 c5 7 O-O dxc4 8 Bxc4;A40;15
+328;;placeholder-328;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c6 5 e3 Nbd7 6 Bd3 dxc4 7 Bxc4 b5 8 Bd3;A40;15
+D62;Queen's Gambit Declined, Orthodox, Rubinstein Attack 1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Qc2 c5 8 cxd5;Queen's Gambit Declined, Orthodox, Rubinstein Attack;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Qc2 c5 8 cxd5;A40;15
+172;;placeholder-172;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3 Bg7 7 f3 O-O 8 Qd2;B00;15
+C06;French, Tarrasch 1 e4 e6 2 d4 d5 3 Nd2 Nf6 4 e5 Nfd7 5 Bd3 c5 6 c3 Nc6 7 Ne2 cxd4 8 cxd4;French, Tarrasch;1 e4 e6 2 d4 d5 3 Nd2 Nf6 4 e5 Nfd7 5 Bd3 c5 6 c3 Nc6 7 Ne2 cxd4 8 cxd4;B00;15
+B73;Sicilian, Dragon, Classical 1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3 Bg7 7 Be2 Nc6 8 O-O;Sicilian, Dragon, Classical;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3 Bg7 7 Be2 Nc6 8 O-O;B00;15
+E89;King's Indian, Samisch, Orthodox Main line 1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O 6 Be3 e5 7 d5 c6 8 Nge2 cxd5;King's Indian, Samisch, Orthodox Main line;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O 6 Be3 e5 7 d5 c6 8 Nge2 cxd5;A40;16
+D75;Neo-Grunfeld, 6.cd Nxd5, 7.O-O c5, 8.dxc5 1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 Nf3 O-O 6 cxd5 Nxd5 7 O-O c5 8 dxc5;Neo-Grunfeld, 6.cd Nxd5, 7.O-O c5, 8.dxc5;1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 Nf3 O-O 6 cxd5 Nxd5 7 O-O c5 8 dxc5;A40;15
+455;;placeholder-455;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3 O-O 6 Bg2 Nbd7 7 O-O e5 8 e4 c6;A40;16
+484;;placeholder-484;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5 7 O-O Nc6 8 d5 Ne7;A40;16
+A68;Benoni, Four Pawns Attack 1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 f4 Bg7 8 Nf3 O-O;Benoni, Four Pawns Attack;1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 f4 Bg7 8 Nf3 O-O;A40;16
+D99;Grunfeld Defense, Smyslov 1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 Qb3 dxc4 6 Qxc4 O-O 7 e4 Bg4 8 Be3;Grunfeld Defense, Smyslov;1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 Qb3 dxc4 6 Qxc4 O-O 7 e4 Bg4 8 Be3;A40;15
+A72;Benoni, Classical without 9.O-O 1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7 8 Be2 O-O;Benoni, Classical without 9.O-O;1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7 8 Be2 O-O;A40;16
+438;;placeholder-438;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3 c5 7 O-O Nc6 8 a3 Bxc3;A40;16
+C89;Ruy Lopez, Marshall 1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d5;Ruy Lopez, Marshall;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d5;B00;16
+C90;Ruy Lopez, Closed 1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6;Ruy Lopez, Closed;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6;B00;16
+346;;placeholder-346;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Rc1 c6 8 Qc2 a6;A40;16
+E84;King's Indian, Samisch, Panno Main line 1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O 6 Be3 Nc6 7 Nge2 a6 8 Qd2 Rb8;King's Indian, Samisch, Panno Main line;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O 6 Be3 Nc6 7 Nge2 a6 8 Qd2 Rb8;A40;16
+162;;placeholder-162;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6 7 Qd2 a6 8 O-O-O;B00;15
+483;;placeholder-483;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5 7 O-O Nbd7 8 Re1 c6;A40;16
+D29;Queen's Gambit Accepted, Classical 1 d4 d5 2 c4 dxc4 3 Nf3 Nf6 4 e3 e6 5 Bxc4 c5 6 O-O a6 7 Qe2 b5 8 Bb3 Bb7;Queen's Gambit Accepted, Classical;1 d4 d5 2 c4 dxc4 3 Nf3 Nf6 4 e3 e6 5 Bxc4 c5 6 O-O a6 7 Qe2 b5 8 Bb3 Bb7;A40;16
+436;;placeholder-436;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3 c5 7 O-O Nc6 8 a3 dxc4;A40;16
+A62;Benoni, Fianchetto Variation 1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 Nf3 g6 7 g3 Bg7 8 Bg2 O-O;Benoni, Fianchetto Variation;1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 Nf3 g6 7 g3 Bg7 8 Bg2 O-O;A40;16
+D59;Queen's Gambit Declined, Tartakower 1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 h6 7 Bh4 b6 8 cxd5 Nxd5;Queen's Gambit Declined, Tartakower;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 h6 7 Bh4 b6 8 cxd5 Nxd5;A40;16
+B85;Sicilian, Scheveningen, Classical 1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 Be2 a6 7 O-O Qc7 8 f4 Nc6;Sicilian, Scheveningen, Classical;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 Be2 a6 7 O-O Qc7 8 f4 Nc6;B00;16
+183;;placeholder-183;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 Bg5 e6 7 f4 Be7 8 Qf3 Qc7;B00;16
+D48;Queen's Gambit Declined Semi-Slav, Meran 1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c6 5 e3 Nbd7 6 Bd3 dxc4 7 Bxc4 b5 8 Bd3 a6;Queen's Gambit Declined Semi-Slav, Meran;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c6 5 e3 Nbd7 6 Bd3 dxc4 7 Bxc4 b5 8 Bd3 a6;A40;16
+296;;placeholder-296;1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 Nc3 dxc4 5 a4 Bf5 6 e3 e6 7 Bxc4 Bb4 8 O-O O-O;A40;16
+D89;Grunfeld 1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 cxd5 Nxd5 5 e4 Nxc3 6 bxc3 Bg7 7 Bc4 O-O 8 Ne2;Grunfeld;1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 cxd5 Nxd5 5 e4 Nxc3 6 bxc3 Bg7 7 Bc4 O-O 8 Ne2;A40;15
+A69;Benoni, Four Pawns Attack, Main line 1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 f4 Bg7 8 Nf3 O-O 9;Benoni, Four Pawns Attack, Main line;1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 f4 Bg7 8 Nf3 O-O 9;A40;16
+466;;placeholder-466;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f4 O-O 6 Be2 c5 7 Nf3 cxd4 8 Nxd4 Nc6;A40;16
+159;;placeholder-159;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6 7 Qd2 Be7 8 O-O-O;B00;15
+D88;Grunfeld, Spassky Variation, Main line, 10...cd, 11.cd 1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 cxd5 Nxd5 5 e4 Nxc3 6 bxc3 Bg7 7 Bc4 O-O 8 Ne2;Grunfeld, Spassky Variation, Main line, 10...cd, 11.cd;1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 cxd5 Nxd5 5 e4 Nxc3 6 bxc3 Bg7 7 Bc4 O-O 8 Ne2;A40;15
+E19;Queen's Indian, Old Main line, 9.Qxc3 1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 g3 Bb7 5 Bg2 Be7 6 O-O O-O 7 Nc3 Ne4 8 Qc2 Nxc3;Queen's Indian, Old Main line, 9.Qxc3;1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 g3 Bb7 5 Bg2 Be7 6 O-O O-O 7 Nc3 Ne4 8 Qc2 Nxc3;A40;16
+D84;Grunfeld, Grunfeld Gambit Accepted 1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Bf4 Bg7 5 e3 O-O 6 cxd5 Nxd5 7 Nxd5 Qxd5 8 Bxc7;Grunfeld, Grunfeld Gambit Accepted;1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Bf4 Bg7 5 e3 O-O 6 cxd5 Nxd5 7 Nxd5 Qxd5 8 Bxc7;A40;15
+246;;placeholder-246;1 e4 e5 2 Nf3 Nc6 3 Bc4 Nf6 4 Ng5 d5 5 exd5 Na5 6 Bb5+ c6 7 dxc6 bxc6 8 Be2;B00;15
+D69;Queen's Gambit Declined, Orthodox Defense, Classical, 13.de 1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Rc1 c6 8 Bd3 dxc4;Queen's Gambit Declined, Orthodox Defense, Classical, 13.de;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Rc1 c6 8 Bd3 dxc4;A40;16
+171;;placeholder-171;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3 Bg7 7 f3 O-O 8 Qd2 Nc6;B00;16
+D68;Queen's Gambit Declined, Orthodox Defense, Classical 1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Rc1 c6 8 Bd3 dxc4;Queen's Gambit Declined, Orthodox Defense, Classical;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Rc1 c6 8 Bd3 dxc4;A40;16
+D57;Queen's Gambit Declined, Lasker Defense 1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 h6 7 Bh4 Ne4 8 Bxe7 Qxe7;Queen's Gambit Declined, Lasker Defense;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 h6 7 Bh4 Ne4 8 Bxe7 Qxe7;A40;16
+A73;Benoni, Classical, 9.O-O 1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7 8 Be2 O-O 9;Benoni, Classical, 9.O-O;1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7 8 Be2 O-O 9;A40;16
+A64;Benoni, Fianchetto, 11...Re8 1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 Nf3 g6 7 g3 Bg7 8 Bg2 O-O 9;Benoni, Fianchetto, 11...Re8;1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 Nf3 g6 7 g3 Bg7 8 Bg2 O-O 9;A40;16
+A75;Benoni, Classical with ...a6 and 10...Bg4 1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7 8 Be2 O-O 9;Benoni, Classical with ...a6 and 10...Bg4;1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7 8 Be2 O-O 9;A40;16
+A76;Benoni, Classical, 9...Re8 1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7 8 Be2 O-O 9;Benoni, Classical, 9...Re8;1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7 8 Be2 O-O 9;A40;16
+A77;Benoni, Classical, 9...Re8, 10.Nd2 1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7 8 Be2 O-O 9;Benoni, Classical, 9...Re8, 10.Nd2;1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7 8 Be2 O-O 9;A40;16
+A78;Benoni, Classical with ...Re8 and ...Na6 1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7 8 Be2 O-O 9;Benoni, Classical with ...Re8 and ...Na6;1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7 8 Be2 O-O 9;A40;16
+A79;Benoni, Classical, 11.f3 1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7 8 Be2 O-O 9;Benoni, Classical, 11.f3;1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7 8 Be2 O-O 9;A40;16
+A74;Benoni, Classical, 9...a6, 10.a4 1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7 8 Be2 O-O 9;Benoni, Classical, 9...a6, 10.a4;1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7 8 Be2 O-O 9;A40;16
+A63;Benoni, Fianchetto, 9...Nbd7 1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 Nf3 g6 7 g3 Bg7 8 Bg2 O-O 9;Benoni, Fianchetto, 9...Nbd7;1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 Nf3 g6 7 g3 Bg7 8 Bg2 O-O 9;A40;16
+C83;Ruy Lopez, Open 1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Nxe4 6 d4 b5 7 Bb3 d5 8 dxe5 Be6;Ruy Lopez, Open;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Nxe4 6 d4 b5 7 Bb3 d5 8 dxe5 Be6;B00;16
+169;;placeholder-169;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3 Bg7 7 Be2 Nc6 8 O-O O-O;B00;16
+E55;Nimzo-Indian, 4.e3, Gligoric System, Bronstein Variation 1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3 c5 7 O-O dxc4 8 Bxc4 Nbd7;Nimzo-Indian, 4.e3, Gligoric System, Bronstein Variation;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3 c5 7 O-O dxc4 8 Bxc4 Nbd7;A40;16
+E69;King's Indian, Fianchetto, Classical Main line 1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3 O-O 6 Bg2 Nbd7 7 O-O e5 8 e4 c6 9 h3;King's Indian, Fianchetto, Classical Main line;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3 O-O 6 Bg2 Nbd7 7 O-O e5 8 e4 c6 9 h3;A40;17
+D87;Grunfeld, Exchange 1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 cxd5 Nxd5 5 e4 Nxc3 6 bxc3 Bg7 7 Bc4 O-O 8 Ne2 c5;Grunfeld, Exchange;1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 cxd5 Nxd5 5 e4 Nxc3 6 bxc3 Bg7 7 Bc4 O-O 8 Ne2 c5;A40;16
+B67;Sicilian, Richter-Rauzer Attack, 7...a6 Defense, 8...Bd7 1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6 7 Qd2 a6 8 O-O-O Bd7;Sicilian, Richter-Rauzer Attack, 7...a6 Defense, 8...Bd7;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6 7 Qd2 a6 8 O-O-O Bd7;B00;16
+C91;Ruy Lopez, Closed 1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 d4;Ruy Lopez, Closed;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 d4;B00;17
+C92;Ruy Lopez, Closed 1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 h3;Ruy Lopez, Closed;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 h3;B00;17
+158;;placeholder-158;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6 7 Qd2 Be7 8 O-O-O O-O;B00;16
+C59;Two Knights 1 e4 e5 2 Nf3 Nc6 3 Bc4 Nf6 4 Ng5 d5 5 exd5 Na5 6 Bb5+ c6 7 dxc6 bxc6 8 Be2 h6;Two Knights;1 e4 e5 2 Nf3 Nc6 3 Bc4 Nf6 4 Ng5 d5 5 exd5 Na5 6 Bb5+ c6 7 dxc6 bxc6 8 Be2 h6;B00;16
+E98;King's Indian, Orthodox, Taimanov, 9.Ne1 1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5 7 O-O Nc6 8 d5 Ne7 9 Ne1;King's Indian, Orthodox, Taimanov, 9.Ne1;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5 7 O-O Nc6 8 d5 Ne7 9 Ne1;A40;17
+333;;placeholder-333;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c6 5 e3 Nbd7 6 Bd3 dxc4 7 Bxc4 b5 8 Bd3 a6 9 e4;A40;17
+482;;placeholder-482;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5 7 O-O Nbd7 8 Re1 c6 9 Bf1;A40;17
+C82;Ruy Lopez, Open 1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Nxe4 6 d4 b5 7 Bb3 d5 8 dxe5 Be6 9 c3;Ruy Lopez, Open;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Nxe4 6 d4 b5 7 Bb3 d5 8 dxe5 Be6 9 c3;B00;17
+D65;Queen's Gambit Declined, Orthodox, Rubinstein Attack, Main line 1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Rc1 c6 8 Qc2 a6 9 cxd5;Queen's Gambit Declined, Orthodox, Rubinstein Attack, Main line;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Rc1 c6 8 Qc2 a6 9 cxd5;A40;17
+E57;Nimzo-Indian, 4.e3, Main line with 8...dc and 9...cd 1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3 c5 7 O-O Nc6 8 a3 dxc4 9 Bxc4;Nimzo-Indian, 4.e3, Main line with 8...dc and 9...cd;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3 c5 7 O-O Nc6 8 a3 dxc4 9 Bxc4;A40;17
+D19;Queen's Gambit Declined Slav, Dutch 1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 Nc3 dxc4 5 a4 Bf5 6 e3 e6 7 Bxc4 Bb4 8 O-O O-O 9 Qe2;Queen's Gambit Declined Slav, Dutch;1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 Nc3 dxc4 5 a4 Bf5 6 e3 e6 7 Bxc4 Bb4 8 O-O O-O 9 Qe2;A40;17
+E79;King's Indian, Four Pawns Attack, Main line 1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f4 O-O 6 Be2 c5 7 Nf3 cxd4 8 Nxd4 Nc6 9 Be3;King's Indian, Four Pawns Attack, Main line;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f4 O-O 6 Be2 c5 7 Nf3 cxd4 8 Nxd4 Nc6 9 Be3;A40;17
+E58;Nimzo-Indian, 4.e3, Main line with 8...Bxc3 1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3 c5 7 O-O Nc6 8 a3 Bxc3 9 bxc3;Nimzo-Indian, 4.e3, Main line with 8...Bxc3;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3 c5 7 O-O Nc6 8 a3 Bxc3 9 bxc3;A40;17
+C81;Ruy Lopez, Open, Howell Attack 1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Nxe4 6 d4 b5 7 Bb3 d5 8 dxe5 Be6 9 Qe2;Ruy Lopez, Open, Howell Attack;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Nxe4 6 d4 b5 7 Bb3 d5 8 dxe5 Be6 9 Qe2;B00;17
+B77;Sicilian, Dragon, Yugoslav Attack 1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3 Bg7 7 f3 O-O 8 Qd2 Nc6 9 Bc4;Sicilian, Dragon, Yugoslav Attack;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3 Bg7 7 f3 O-O 8 Qd2 Nc6 9 Bc4;B00;17
+C93;Ruy Lopez, Closed, Smyslov Defense 1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 h3 h6;Ruy Lopez, Closed, Smyslov Defense;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 h3 h6;B00;18
+332;;placeholder-332;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c6 5 e3 Nbd7 6 Bd3 dxc4 7 Bxc4 b5 8 Bd3 a6 9 e4 c5;A40;18
+273;;placeholder-273;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 h3 Na5;B00;18
+E96;King's Indian, Orthodox, 7...Nbd7, Main line 1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5 7 O-O Nbd7 8 Re1 c6 9 Bf1 a5;King's Indian, Orthodox, 7...Nbd7, Main line;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5 7 O-O Nbd7 8 Re1 c6 9 Bf1 a5;A40;18
+487;;placeholder-487;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5 7 O-O Nc6 8 d5 Ne7 9 Ne1 Nd7;A40;18
+B74;Sicilian, Dragon, Classical 1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3 Bg7 7 Be2 Nc6 8 O-O O-O 9 Nb3;Sicilian, Dragon, Classical;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3 Bg7 7 Be2 Nc6 8 O-O O-O 9 Nb3;B00;17
+182;;placeholder-182;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 Bg5 e6 7 f4 Be7 8 Qf3 Qc7 9 O-O-O;B00;17
+348;;placeholder-348;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Rc1 c6 8 Bd3 dxc4 9 Bxc4;A40;17
+C94;Ruy Lopez, Closed, Breyer Defense 1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 h3 Nb8;Ruy Lopez, Closed, Breyer Defense;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 h3 Nb8;B00;18
+163;;placeholder-163;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6 7 Qd2 a6 8 O-O-O Bd7 9 f4;B00;17
+B64;Sicilian, Richter-Rauzer Attack 1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6 7 Qd2 Be7 8 O-O-O O-O 9 f4;Sicilian, Richter-Rauzer Attack;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6 7 Qd2 Be7 8 O-O-O O-O 9 f4;B00;17
+440;;placeholder-440;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3 c5 7 O-O Nc6 8 a3 Bxc3 9 bxc3 dxc4;A40;18
+173;;placeholder-173;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3 Bg7 7 f3 O-O 8 Qd2 Nc6 9 Bc4 Bd7;B00;18
+B68;Sicilian, Richter-Rauzer Attack, 7...a6 Defense, 9...Be7 1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6 7 Qd2 a6 8 O-O-O Bd7 9 f4 Be7;Sicilian, Richter-Rauzer Attack, 7...a6 Defense, 9...Be7;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6 7 Qd2 a6 8 O-O-O Bd7 9 f4 Be7;B00;18
+D67;Queen's Gambit Declined, Orthodox Defense, Bd3 line 1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Rc1 c6 8 Bd3 dxc4 9 Bxc4 Nd5;Queen's Gambit Declined, Orthodox Defense, Bd3 line;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Rc1 c6 8 Bd3 dxc4 9 Bxc4 Nd5;A40;18
+B99;Sicilian, Najdorf, 7...Be7 Main line 1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 Bg5 e6 7 f4 Be7 8 Qf3 Qc7 9 O-O-O Nbd7;Sicilian, Najdorf, 7...Be7 Main line;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 Bg5 e6 7 f4 Be7 8 Qf3 Qc7 9 O-O-O Nbd7;B00;18
+486;;placeholder-486;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5 7 O-O Nc6 8 d5 Ne7 9 Ne1 Nd7 10 f3;A40;19
+C95;Ruy Lopez, Closed, Breyer 1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 h3 Nb8 10 d4;Ruy Lopez, Closed, Breyer;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 h3 Nb8 10 d4;B00;19
+331;;placeholder-331;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c6 5 e3 Nbd7 6 Bd3 dxc4 7 Bxc4 b5 8 Bd3 a6 9 e4 c5 10 e5;A40;19
+161;;placeholder-161;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6 7 Qd2 Be7 8 O-O-O O-O 9 f4 Nxd4;B00;18
+C96;Ruy Lopez, Closed 1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 h3 Na5 10 Bc2;Ruy Lopez, Closed;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 h3 Na5 10 Bc2;B00;19
+E99;King's Indian, Orthodox, Taimanov 1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5 7 O-O Nc6 8 d5 Ne7 9 Ne1 Nd7 10 f3 f5;King's Indian, Orthodox, Taimanov;1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5 7 O-O Nc6 8 d5 Ne7 9 Ne1 Nd7 10 f3 f5;A40;20
+275;;placeholder-275;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 h3 Na5 10 Bc2 c5;B00;20
+165;;placeholder-165;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6 7 Qd2 a6 8 O-O-O Bd7 9 f4 Be7 10 Nf3;B00;19
+E59;Nimzo-Indian, 4.e3, Main line 1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3 c5 7 O-O Nc6 8 a3 Bxc3 9 bxc3 dxc4 10 Bxc4;Nimzo-Indian, 4.e3, Main line;1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3 c5 7 O-O Nc6 8 a3 Bxc3 9 bxc3 dxc4 10 Bxc4;A40;19
+330;;placeholder-330;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c6 5 e3 Nbd7 6 Bd3 dxc4 7 Bxc4 b5 8 Bd3 a6 9 e4 c5 10 e5 cxd4;A40;20
+B78;Sicilian, Dragon, Yugoslav Attack, 10.castle long 1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3 Bg7 7 f3 O-O 8 Qd2 Nc6 9 Bc4 Bd7 10 O-O-O;Sicilian, Dragon, Yugoslav Attack, 10.castle long;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3 Bg7 7 f3 O-O 8 Qd2 Nc6 9 Bc4 Bd7 10 O-O-O;B00;19
+B65;Sicilian, Richter-Rauzer Attack, 7...Be7 Defense, 9...Nxd4 1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6 7 Qd2 Be7 8 O-O-O O-O 9 f4 Nxd4 10 Qxd4;Sicilian, Richter-Rauzer Attack, 7...Be7 Defense, 9...Nxd4;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6 7 Qd2 Be7 8 O-O-O O-O 9 f4 Nxd4 10 Qxd4;B00;19
+164;;placeholder-164;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6 7 Qd2 a6 8 O-O-O Bd7 9 f4 Be7 10 Nf3 b5;B00;20
+274;;placeholder-274;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 h3 Na5 10 Bc2 c5 11 d4;B00;21
+176;;placeholder-176;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3 Bg7 7 f3 O-O 8 Qd2 Nc6 9 Bc4 Bd7 10 O-O-O Qa5;B00;20
+D49;Queen's Gambit Declined Semi-Slav, Meran 1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c6 5 e3 Nbd7 6 Bd3 dxc4 7 Bxc4 b5 8 Bd3 a6 9 e4 c5 10 e5 cxd4 11 Nxb5 ;Queen's Gambit Declined Semi-Slav, Meran;1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c6 5 e3 Nbd7 6 Bd3 dxc4 7 Bxc4 b5 8 Bd3 a6 9 e4 c5 10 e5 cxd4 11 Nxb5 ;A40;21
+C97;Ruy Lopez, Closed, Chigorin 1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 h3 Na5 10 Bc2 c5 11 d4 Qc7;Ruy Lopez, Closed, Chigorin;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 h3 Na5 10 Bc2 c5 11 d4 Qc7;B00;22
+B69;Sicilian, Richter-Rauzer Attack, 7...a6 Defense, 11.Bxf6 1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6 7 Qd2 a6 8 O-O-O Bd7 9 f4 Be7 10 Nf3 b5 11 Bxf6;Sicilian, Richter-Rauzer Attack, 7...a6 Defense, 11.Bxf6;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6 7 Qd2 a6 8 O-O-O Bd7 9 f4 Be7 10 Nf3 b5 11 Bxf6;B00;21
+175;;placeholder-175;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3 Bg7 7 f3 O-O 8 Qd2 Nc6 9 Bc4 Bd7 10 O-O-O Qa5 11 Bb3;B00;21
+276;;placeholder-276;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 h3 Na5 10 Bc2 c5 11 d4 Qc7 12 Nbd2;B00;23
+174;;placeholder-174;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3 Bg7 7 f3 O-O 8 Qd2 Nc6 9 Bc4 Bd7 10 O-O-O Qa5 11 Bb3 Rfc8;B00;22
+C98;Ruy Lopez, Closed, Chigorin 1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 h3 Na5 10 Bc2 c5 11 d4 Qc7 12 Nbd2 Nc6;Ruy Lopez, Closed, Chigorin;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 h3 Na5 10 Bc2 c5 11 d4 Qc7 12 Nbd2 Nc6;B00;24
+277;;placeholder-277;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 h3 Na5 10 Bc2 c5 11 d4 Qc7 12 Nbd2 cxd4;B00;24
+B79;Sicilian, Dragon, Yugoslav Attack, 12.h4 1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3 Bg7 7 f3 O-O 8 Qd2 Nc6 9 Bc4 Bd7 10 O-O-O Qa5 11 Bb3 Rfc8 12 h4;Sicilian, Dragon, Yugoslav Attack, 12.h4;1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3 Bg7 7 f3 O-O 8 Qd2 Nc6 9 Bc4 Bd7 10 O-O-O Qa5 11 Bb3 Rfc8 12 h4;B00;23
+C99;Ruy Lopez, Closed, Chigorin, 12...cd 1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 h3 Na5 10 Bc2 c5 11 d4 Qc7 12 Nbd2 cxd4 13 cxd4;Ruy Lopez, Closed, Chigorin, 12...cd;1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 h3 Na5 10 Bc2 c5 11 d4 Qc7 12 Nbd2 cxd4 13 cxd4;B00;25
