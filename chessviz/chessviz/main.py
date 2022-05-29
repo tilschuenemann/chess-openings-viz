@@ -12,7 +12,10 @@ import json
 import re
 
 
-def get_lichess_openings():
+def get_lichess_openings() -> pd.DataFrame:
+    """Downloads and merges public lichess opening datasets and writes them to
+    disk.
+    """
     lichess_openings = [
         "https://raw.githubusercontent.com/lichess-org/chess-openings/master/a.tsv",
         "https://raw.githubusercontent.com/lichess-org/chess-openings/master/b.tsv",
@@ -132,7 +135,7 @@ def gen_hierarchy(df: pd.DataFrame) -> pd.DataFrame:
     df["parent"] = df["pgn"].apply(lambda x: pop_last_move(x))
     df["move_count"] = df["pgn"].apply(lambda x: get_moves(x))
 
-    df["id"] = list(range(0, 7910))
+    df["id"] = range(0, df["pgn"].size)
     df["path"] = df["id"].apply(lambda x: "img/" + str(x) + ".svg")
 
     root_row = pd.DataFrame(
@@ -186,12 +189,12 @@ def gen_images(
             board_svg = chess.svg.board(board, size=size, lastmove=last_move)
 
         if gen_svgs:
-            f = open(f"{output_folder}/{index}.svg", "w")
+            f = open(f"{output_folder}/{row.id:.0f}.svg", "w")
             f.write(board_svg)
             f.close()
 
         if gen_pngs:
-            svg2png(bytestring=board_svg, write_to=f"{output_folder}/{index}.png")
+            svg2png(bytestring=board_svg, write_to=f"{output_folder}/{row.id:.0f}.png")
 
 
 def gen_treetxt(df: pd.DataFrame, output_folder: str):
@@ -242,5 +245,5 @@ if __name__ == "__main__":
 
     gen_treejson(lichess, "../output/")
 
-    gen_images(lichess, "../output/img/", 30, True, False)
+    gen_images(lichess, "../output/img/", 20, True, False)
     # gen_treetxt(lichess, "../output/")
