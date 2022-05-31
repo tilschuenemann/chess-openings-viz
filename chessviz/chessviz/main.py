@@ -9,6 +9,7 @@ from treelib import Tree
 
 import io
 import json
+import random
 import re
 
 
@@ -155,6 +156,14 @@ def gen_hierarchy(df: pd.DataFrame) -> pd.DataFrame:
     # sort df by pgn length to enable bottom up tree building
     df.sort_values(by="pgn", key=lambda x: x.str.len(), inplace=True)
 
+    def gen_random_color():
+        random.seed("d4")
+        return "#%06x" % random.randint(0, 0xFFFFFF)
+
+    eco_df = df.drop_duplicates(subset="eco", keep="first")
+    eco_df["color"] = [gen_random_color() for i in range(len(eco_df.index))]
+    df = df.merge(eco_df[["eco", "color"]], how="left")
+
     return df
 
 
@@ -165,6 +174,23 @@ def gen_images(
     gen_svgs: bool,
     gen_pngs: bool,
 ):
+    """
+    Generates SVG / PNG files for all PGNs found in the df and saves them to
+    output_folder.
+
+    Parameters
+    -------
+    df: pd.DataFrame
+        input df with pgn column
+    output_folder: str
+        folder where images are saved to
+    size: int
+        final file dimensions in pixels
+    gen_svgs: bool
+        should SVG files be generated from the df?
+    gen_pngs: bool
+        should PNG files be generated from the df?
+    """
 
     if gen_svgs is False and gen_pngs is False:
         exit("specify whether to generate svgs or pngs")
@@ -186,7 +212,12 @@ def gen_images(
             # board_svg = chess.svg.board(board, size=size)
         else:
             last_move = board.peek()
-            board_svg = chess.svg.board(board, size=size, lastmove=last_move)
+            color = row.color
+            highlight = {"square light lastmove": color, "square dark lastmove": color}
+
+            board_svg = chess.svg.board(
+                board, size=size, lastmove=last_move, colors=highlight
+            )
 
         if gen_svgs:
             f = open(f"{output_folder}/{row.id:.0f}.svg", "w")
@@ -221,8 +252,10 @@ def gen_treejson(df: pd.DataFrame, output_folder: str):
 
     g = nx.from_pandas_edgelist(df, "parent", "pgn", create_using=nx.DiGraph())
     d = {
-        v: {"id": e, "path": p, "name": n, "move_count": m}
-        for v, e, n, p, m in zip(df.pgn, df.eco, df.name, df.path, df.move_count)
+        v: {"id": e, "path": p, "name": n, "move_count": m, "index": i, "color": c}
+        for v, e, n, p, m, i, c in zip(
+            df.pgn, df.eco, df.name, df.path, df.move_count, df.id, df.color
+        )
     }
     nx.set_node_attributes(g, d)
     out = [
