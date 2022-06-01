@@ -3,9 +3,10 @@ import chess.pgn
 import chess.svg
 import chess
 import networkx as nx
+import numpy as np
 import pandas as pd
 from treelib import Tree
-
+from PIL import Image
 
 import io
 import json
@@ -126,7 +127,7 @@ def gen_hierarchy(df: pd.DataFrame) -> pd.DataFrame:
             except ValueError:
                 if pgn == "":
                     continue
-                tmp = pd.DataFrame({"pgn": [pgn], "name": ["P00"], "eco": ["P00"]})
+                tmp = pd.DataFrame({"pgn": [pgn], "name": ["P00"], "eco": [None]})
                 placeholders = pd.concat([placeholders, tmp], axis=0, ignore_index=True)
 
     # remove duplicate pgns from placeholders
@@ -137,8 +138,9 @@ def gen_hierarchy(df: pd.DataFrame) -> pd.DataFrame:
     df["move_count"] = df["pgn"].apply(lambda x: get_moves(x))
 
     df["id"] = range(0, df["pgn"].size)
-    df["path"] = df["id"].apply(lambda x: "img/" + str(x) + ".svg")
+    df["path"] = df["id"].apply(lambda x: "img/" + str(x) + ".webp")
 
+    # add root
     root_row = pd.DataFrame(
         {
             "eco": ["empty"],
@@ -147,22 +149,29 @@ def gen_hierarchy(df: pd.DataFrame) -> pd.DataFrame:
             "parent": ["empty"],
             "move_count": ["empty"],
             "path": ["empty"],
+            "id": [-1],
         }
     )
 
     df = pd.concat([df, root_row], axis=0)
     df["parent"] = df["parent"].replace("", "root")
 
-    # sort df by pgn length to enable bottom up tree building
-    df.sort_values(by="pgn", key=lambda x: x.str.len(), inplace=True)
+    df.sort_values(by="pgn", inplace=True)
 
+    # add random color by eco
     def gen_random_color():
-        random.seed("d4")
+        # random.seed("d4")
         return "#%06x" % random.randint(0, 0xFFFFFF)
 
     eco_df = df.drop_duplicates(subset="eco", keep="first")
     eco_df["color"] = [gen_random_color() for i in range(len(eco_df.index))]
+    eco_df.loc[eco_df["name"] == "P00", "color"] = None
+
     df = df.merge(eco_df[["eco", "color"]], how="left")
+    df = df.fillna(method="ffill", axis=0)
+
+    # sort df by pgn length to enable bottom up tree building
+    df.sort_values(by="pgn", key=lambda x: x.str.len(), inplace=True)
 
     return df
 
@@ -225,7 +234,11 @@ def gen_images(
             f.close()
 
         if gen_pngs:
-            svg2png(bytestring=board_svg, write_to=f"{output_folder}/{row.id:.0f}.png")
+            fname = f"{output_folder}/{row.id:.0f}"
+            svg2png(bytestring=board_svg, write_to=fname + ".png")
+
+            # img = Image.open(fname + ".png")
+            # img.save(fname + ".webp", format="webp")
 
 
 def gen_treetxt(df: pd.DataFrame, output_folder: str):
@@ -278,5 +291,5 @@ if __name__ == "__main__":
 
     gen_treejson(lichess, "../output/")
 
-    gen_images(lichess, "../output/img/", 20, True, False)
+    gen_images(lichess, "../output/img", 100, False, True)
     # gen_treetxt(lichess, "../output/")

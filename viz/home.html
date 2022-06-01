@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="../modules/svg-inject.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/d3-path@3"></script>
+    <script src="https://cdn.jsdelivr.net/npm/d3-shape@3"></script>
+    <script type="module" src="./visTree.js"></script>
+    <title>Chess Tree</title>
+</head>
+
+<body>
+    <h2> Chess Tree</h2>
+    <div id="root"></div>
+
+    <a id="downloadLink" onclick="setDownloader('downloadLink', 'svg')" href="" download="diagram.svg">Download ↓</a>
+    <script type="text/javascript" defer>
+        //setDownloader('downloadLink', "svg")
+
+
+        function setDownloader(linkId, svgId) {
+            //get svg element.
+            console.log(svgId)
+            var svg = document.getElementById(svgId);
+            console.log(svg)
+
+            //get svg source.
+            var serializer = new XMLSerializer();
+            var source = serializer.serializeToString(svg);
+
+            //add name spaces.
+            if (!source.match(/^<svg[^>]+xmlns="http\:\/\/www\.w3\.org\/2000\/svg"/)) {
+                source = source.replace(/^<svg/, '<svg xmlns="http://www.w3.org/2000/svg"');
+            }
+            if (!source.match(/^<svg[^>]+"http\:\/\/www\.w3\.org\/1999\/xlink"/)) {
+                source = source.replace(/^<svg/, '<svg xmlns:xlink="http://www.w3.org/1999/xlink"');
+            }
+
+            //add xml declaration
+            source = '<?xml version="1.0" standalone="no"?>\r\n' + source;
+
+            //convert svg source to URI data scheme.
+            var url = "data:image/svg+xml;charset=utf-8," + encodeURIComponent(source);
+
+            //set url value to a element's href attribute.
+            document.getElementById(linkId).href = url;
+        }
+    </script>
+</body>
+
+</html>
