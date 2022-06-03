@@ -16,7 +16,7 @@ fetch("../tree.json")
     })
     .then(data => {
 
-        const root = data[0].children[7];
+        const root = data[0]//.children[7];
         root.x0 = 0;
         root.y0 = 0;//width / 2;
 
