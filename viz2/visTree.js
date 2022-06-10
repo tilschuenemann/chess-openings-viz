@@ -10,7 +10,7 @@ const imageDims = nodeWidth - highlightSize
 const margin = { top: 20, right: 120, bottom: 20, left: 120 }
 
 
-function search (tree, value, key = 'id', reverse = false) {
+function search(tree, value, key = 'id', reverse = false) {
     const stack = [ tree[0] ]
     while (stack.length) {
       const node = stack[reverse ? 'pop' : 'shift']()
@@ -44,7 +44,6 @@ fetch("../shared/tree.json")
         const start = search(data, "1. b4","id");
         
         const test = prune(start,4)
-        console.log(test)
 
         const root = start
         

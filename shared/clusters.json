@@ -1,0 +1,782 @@
+[
+  {
+    "complex":"Sicilian Defense",
+    "size":362,
+    "pgn":"1. e4 c5"
+  },
+  {
+    "complex":"Ruy Lopez",
+    "size":228,
+    "pgn":"1. e4 e5 2. Nf3 Nc6 3. Bb5"
+  },
+  {
+    "complex":"French Defense",
+    "size":167,
+    "pgn":"1. e4 e6"
+  },
+  {
+    "complex":"Queen's Gambit Declined",
+    "size":162,
+    "pgn":"1. d4 d5 2. c4 e6"
+  },
+  {
+    "complex":"Italian Game",
+    "size":156,
+    "pgn":"1. e4 e5 2. Nf3 Nc6 3. Bc4"
+  },
+  {
+    "complex":"King's Gambit Accepted",
+    "size":136,
+    "pgn":"1. e4 e5 2. f4 exf4"
+  },
+  {
+    "complex":"English Opening",
+    "size":132,
+    "pgn":"1. c4"
+  },
+  {
+    "complex":"King's Indian Defense",
+    "size":112,
+    "pgn":"1. d4 Nf6 2. c4 g6 3. g3"
+  },
+  {
+    "complex":"Caro-Kann Defense",
+    "size":97,
+    "pgn":"1. e4 c6"
+  },
+  {
+    "complex":"Nimzo-Indian Defense",
+    "size":80,
+    "pgn":"1. d4 Nf6 2. c4 e6 3. Nc3 Bb4"
+  },
+  {
+    "complex":"Dutch Defense",
+    "size":66,
+    "pgn":"1. d4 f5"
+  },
+  {
+    "complex":"Queen's Pawn Game",
+    "size":58,
+    "pgn":"1. d4"
+  },
+  {
+    "complex":"Gr\u00fcnfeld Defense",
+    "size":57,
+    "pgn":"1. d4 Nf6 2. c4 g6 3. Nc3 d5"
+  },
+  {
+    "complex":"Vienna Game",
+    "size":56,
+    "pgn":"1. e4 e5 2. Nc3"
+  },
+  {
+    "complex":"Scotch Game",
+    "size":56,
+    "pgn":"1. e4 e5 2. Nf3 Nc6 3. d4"
+  },
+  {
+    "complex":"Alekhine Defense",
+    "size":54,
+    "pgn":"1. e4 Nf6"
+  },
+  {
+    "complex":"Benoni Defense",
+    "size":53,
+    "pgn":"1. d4 c5"
+  },
+  {
+    "complex":"Semi-Slav Defense",
+    "size":52,
+    "pgn":"1. d4 d5 2. c4 e6 3. Nc3 c6"
+  },
+  {
+    "complex":"King's Gambit Declined",
+    "size":51,
+    "pgn":"1. e4 e5 2. f4 d5"
+  },
+  {
+    "complex":"Queen's Gambit Accepted",
+    "size":50,
+    "pgn":"1. d4 d5 2. c4 dxc4"
+  },
+  {
+    "complex":"Indian Defense",
+    "size":50,
+    "pgn":"1. d4 Nf6"
+  },
+  {
+    "complex":"Queen's Indian Defense",
+    "size":50,
+    "pgn":"1. d4 Nf6 2. Nf3 b6"
+  },
+  {
+    "complex":"Russian Game",
+    "size":49,
+    "pgn":"1. e4 e5 2. Nf3 Nf6"
+  },
+  {
+    "complex":"Slav Defense",
+    "size":46,
+    "pgn":"1. d4 d5 2. c4 c6"
+  },
+  {
+    "complex":"Philidor Defense",
+    "size":45,
+    "pgn":"1. e4 e5 2. Nf3 d6"
+  },
+  {
+    "complex":"Four Knights Game",
+    "size":44,
+    "pgn":"1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6"
+  },
+  {
+    "complex":"Nimzowitsch Defense",
+    "size":44,
+    "pgn":"1. e4 Nc6"
+  },
+  {
+    "complex":"Zukertort Opening",
+    "size":43,
+    "pgn":"1. Nf3"
+  },
+  {
+    "complex":"Bishop's Opening",
+    "size":40,
+    "pgn":"1. e4 e5 2. Bc4"
+  },
+  {
+    "complex":"Modern Defense",
+    "size":40,
+    "pgn":"1. e4 g6"
+  },
+  {
+    "complex":"King's Pawn Game",
+    "size":37,
+    "pgn":"1. e4 e5"
+  },
+  {
+    "complex":"Scandinavian Defense",
+    "size":35,
+    "pgn":"1. e4 d5"
+  },
+  {
+    "complex":"Van Geet Opening",
+    "size":34,
+    "pgn":"1. Nc3"
+  },
+  {
+    "complex":"Pterodactyl Defense",
+    "size":34,
+    "pgn":"1. d4 g6 2. e4 Bg7 3. Nc3 c5 4. d5"
+  },
+  {
+    "complex":"Blackmar-Diemer Gambit",
+    "size":33,
+    "pgn":"1. d4 Nf6 2. Nc3 d5 3. e4"
+  },
+  {
+    "complex":"Pirc Defense",
+    "size":30,
+    "pgn":"1. e4 d6"
+  },
+  {
+    "complex":"Bird Opening",
+    "size":28,
+    "pgn":"1. f4"
+  },
+  {
+    "complex":"Polish Opening",
+    "size":27,
+    "pgn":"1. b4"
+  },
+  {
+    "complex":"Tarrasch Defense",
+    "size":25,
+    "pgn":"1. d4 d5 2. c4 e6 3. Nc3 c5"
+  },
+  {
+    "complex":"Catalan Opening",
+    "size":22,
+    "pgn":"1. d4 Nf6 2. c4 e6 3. g3"
+  },
+  {
+    "complex":"Grob Opening",
+    "size":20,
+    "pgn":"1. g4"
+  },
+  {
+    "complex":"Hungarian Opening",
+    "size":20,
+    "pgn":"1. g3"
+  },
+  {
+    "complex":"Center Game",
+    "size":19,
+    "pgn":"1. e4 e5 2. d4"
+  },
+  {
+    "complex":"R\u00e9ti Opening",
+    "size":17,
+    "pgn":"1. Nf3 d5 2. c4"
+  },
+  {
+    "complex":"Latvian Gambit",
+    "size":17,
+    "pgn":"1. e4 e5 2. Nf3 f5"
+  },
+  {
+    "complex":"Nimzo-Larsen Attack",
+    "size":17,
+    "pgn":"1. b3"
+  },
+  {
+    "complex":"King's Indian Attack",
+    "size":16,
+    "pgn":"1. Nf3 d5 2. g3"
+  },
+  {
+    "complex":"Old Indian Defense",
+    "size":15,
+    "pgn":"1. d4 d6 2. c4"
+  },
+  {
+    "complex":"Ponziani Opening",
+    "size":14,
+    "pgn":"1. e4 e5 2. Nf3 Nc6 3. c3"
+  },
+  {
+    "complex":"Neo-Gr\u00fcnfeld Defense",
+    "size":13,
+    "pgn":"1. d4 Nf6 2. c4 g6 3. g3 d5"
+  },
+  {
+    "complex":"Benko Gambit Accepted",
+    "size":10,
+    "pgn":"1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6"
+  },
+  {
+    "complex":"Rat Defense",
+    "size":10,
+    "pgn":"1. e4 d6 2. h4"
+  },
+  {
+    "complex":"Bogo-Indian Defense",
+    "size":10,
+    "pgn":"1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+"
+  },
+  {
+    "complex":"Trompowsky Attack",
+    "size":10,
+    "pgn":"1. d4 Nf6 2. Bg5"
+  },
+  {
+    "complex":"Latvian Gambit Accepted",
+    "size":9,
+    "pgn":"1. e4 e5 2. Nf3 f5 3. exf5"
+  },
+  {
+    "complex":"St. George Defense",
+    "size":9,
+    "pgn":"1. e4 a6"
+  },
+  {
+    "complex":"Englund Gambit Complex",
+    "size":9,
+    "pgn":"1. d4 e5 2. dxe5 d6"
+  },
+  {
+    "complex":"K\u00e1das Opening",
+    "size":8,
+    "pgn":"1. h4"
+  },
+  {
+    "complex":"Benko Gambit",
+    "size":8,
+    "pgn":"1. d4 Nf6 2. c4 c5 3. d5 b5"
+  },
+  {
+    "complex":"English Defense",
+    "size":8,
+    "pgn":"1. d4 b6"
+  },
+  {
+    "complex":"Owen Defense",
+    "size":7,
+    "pgn":"1. e4 b6"
+  },
+  {
+    "complex":"Blackmar-Diemer Gambit Declined",
+    "size":7,
+    "pgn":"1. d4 d5 2. e4 dxe4 3. Nc3 Bd7"
+  },
+  {
+    "complex":"Benko Gambit Declined",
+    "size":6,
+    "pgn":"1. d4 Nf6 2. c4 c5 3. d5 b5 4. f3"
+  },
+  {
+    "complex":"Van't Kruijs Opening",
+    "size":6,
+    "pgn":"1. e3"
+  },
+  {
+    "complex":"Danish Gambit Accepted",
+    "size":6,
+    "pgn":"1. e4 e5 2. d4 exd4 3. c3 Ne7"
+  },
+  {
+    "complex":"Torre Attack",
+    "size":6,
+    "pgn":"1. d4 Nf6 2. Nf3 e6 3. Bg5"
+  },
+  {
+    "complex":"Three Knights Opening",
+    "size":6,
+    "pgn":"1. e4 e5 2. Nf3 Nc6 3. Nc3"
+  },
+  {
+    "complex":"Borg Defense",
+    "size":5,
+    "pgn":"1. e4 g5"
+  },
+  {
+    "complex":"Ware Opening",
+    "size":5,
+    "pgn":"1. a4"
+  },
+  {
+    "complex":"Lion Defense",
+    "size":5,
+    "pgn":"1. e4 d6 2. d4 Nf6 3. f3"
+  },
+  {
+    "complex":"Englund Gambit Declined",
+    "size":5,
+    "pgn":"1. e3 e5 2. d4"
+  },
+  {
+    "complex":"Barnes Opening",
+    "size":5,
+    "pgn":"1. f3 e5 2. Kf2"
+  },
+  {
+    "complex":"Elephant Gambit",
+    "size":4,
+    "pgn":"1. e4 e5 2. Nf3 d5"
+  },
+  {
+    "complex":"Mikenas Defense",
+    "size":4,
+    "pgn":"1. d4 Nc6"
+  },
+  {
+    "complex":"Rubinstein Opening",
+    "size":4,
+    "pgn":"1. d4 Nf6 2. Nf3 e6 3. e3 c5 4. Bd3 d5 5. b3"
+  },
+  {
+    "complex":"Sodium Attack",
+    "size":4,
+    "pgn":"1. Na3"
+  },
+  {
+    "complex":"Blumenfeld Countergambit",
+    "size":4,
+    "pgn":"1. d4 Nf6 2. c4 e6 3. Nf3 c5"
+  },
+  {
+    "complex":"Portuguese Opening",
+    "size":3,
+    "pgn":"1. e4 e5 2. Bb5"
+  },
+  {
+    "complex":"Colle System",
+    "size":3,
+    "pgn":"1. d4 g6 2. Nf3 Bg7 3. e3 c5 4. Bd3 Qa5+"
+  },
+  {
+    "complex":"King's Knight Opening",
+    "size":3,
+    "pgn":"1. e4 e5 2. Nf3"
+  },
+  {
+    "complex":"Amar Opening",
+    "size":3,
+    "pgn":"1. Nh3"
+  },
+  {
+    "complex":"King's Pawn Opening",
+    "size":3,
+    "pgn":"1. e4 e5 2. b3"
+  },
+  {
+    "complex":"Formation",
+    "size":3,
+    "pgn":"1. a3 e5 2. b3 d5 3. c3 Nf6 4. d3 Nc6 5. e3 Bd6 6. f3 O-O 7. g3"
+  },
+  {
+    "complex":"Horwitz Defense",
+    "size":3,
+    "pgn":"1. d4 e6"
+  },
+  {
+    "complex":"Mieses Opening",
+    "size":3,
+    "pgn":"1. d3"
+  },
+  {
+    "complex":"Mexican Defense",
+    "size":2,
+    "pgn":"1. d4 Nf6 2. c4 Nc6"
+  },
+  {
+    "complex":"Clemenz Opening",
+    "size":2,
+    "pgn":"1. h3"
+  },
+  {
+    "complex":"Richter-Veresov Attack",
+    "size":2,
+    "pgn":"1. d4 Nf6 2. Nc3 d5 3. Bg5"
+  },
+  {
+    "complex":"Carr Defense",
+    "size":2,
+    "pgn":"1. e4 h6"
+  },
+  {
+    "complex":"Polish Defense",
+    "size":2,
+    "pgn":"1. d4 b5"
+  },
+  {
+    "complex":"Ware Defense",
+    "size":2,
+    "pgn":"1. e4 a5"
+  },
+  {
+    "complex":"Englund Gambit Complex Declined",
+    "size":2,
+    "pgn":"1. d4 e5 2. d5"
+  },
+  {
+    "complex":"Anderssen's Opening",
+    "size":2,
+    "pgn":"1. a3"
+  },
+  {
+    "complex":"King's Gambit",
+    "size":2,
+    "pgn":"1. e4 e5 2. f4"
+  },
+  {
+    "complex":"Kangaroo Defense",
+    "size":2,
+    "pgn":"1. d4 e6 2. c4 Bb4+"
+  },
+  {
+    "complex":"Zukertort Defense",
+    "size":2,
+    "pgn":"1. d4 g6 2. Nf3 Nh6"
+  },
+  {
+    "complex":"Slav Indian",
+    "size":2,
+    "pgn":"1. d4 Nf6 2. c4 c6"
+  },
+  {
+    "complex":"Amazon Attack",
+    "size":2,
+    "pgn":"1. d4 d5 2. Qd3"
+  },
+  {
+    "complex":"Hippopotamus Defense",
+    "size":2,
+    "pgn":"1. e4 Nh6"
+  },
+  {
+    "complex":"London System",
+    "size":2,
+    "pgn":"1. d4 Nf6 2. Nf3 g6 3. Bf4"
+  },
+  {
+    "complex":"Goldsmith Defense",
+    "size":2,
+    "pgn":"1. e4 h5"
+  },
+  {
+    "complex":"Venezolana Opening",
+    "size":1,
+    "pgn":"1. d3 c5 2. Nc3 Nc6 3. g3"
+  },
+  {
+    "complex":"System",
+    "size":1,
+    "pgn":"1. f4 f5 2. d4 d5"
+  },
+  {
+    "complex":"Queen's Pawn, Mengarini Attack",
+    "size":1,
+    "pgn":"1. d4 Nf6 2. c4 g6 3. Qc2"
+  },
+  {
+    "complex":"Rapport-Jobava System",
+    "size":1,
+    "pgn":"1. d4 d5 2. Nc3 Nf6 3. Bf4"
+  },
+  {
+    "complex":"Yusupov-Rubinstein System",
+    "size":1,
+    "pgn":"1. d4 Nf6 2. Nf3 e6 3. e3"
+  },
+  {
+    "complex":"Australian Defense",
+    "size":1,
+    "pgn":"1. d4 Na6"
+  },
+  {
+    "complex":"Semi-Slav Defense Accepted",
+    "size":1,
+    "pgn":"1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 dxc4"
+  },
+  {
+    "complex":"Wade Defense",
+    "size":1,
+    "pgn":"1. d4 d6 2. Nf3 Bg4"
+  },
+  {
+    "complex":"Zaire Defense",
+    "size":1,
+    "pgn":"1. d4 Nc6 2. d5 Nb8 3. e4 Nf6 4. e5 Ng8"
+  },
+  {
+    "complex":"Vulture Defense",
+    "size":1,
+    "pgn":"1. d4 Nf6 2. c4 c5 3. d5 Ne4"
+  },
+  {
+    "complex":"Robatsch Defense",
+    "size":1,
+    "pgn":"1. d4 d6 2. Nf3 g6 3. c4 Bg7 4. e4 Bg4"
+  },
+  {
+    "complex":"Amsterdam Attack",
+    "size":1,
+    "pgn":"1. e3 e5 2. c4 d6 3. Nc3 Nc6 4. b3 Nf6"
+  },
+  {
+    "complex":"Saragossa Opening",
+    "size":1,
+    "pgn":"1. c3"
+  },
+  {
+    "complex":"Veresov Opening",
+    "size":1,
+    "pgn":"1. d4 Nf6 2. Nc3 d5 3. Bg5 c5 4. Bxf6 gxf6 5. e4 dxe4 6. d5"
+  },
+  {
+    "complex":"Valencia Opening",
+    "size":1,
+    "pgn":"1. d3 e5 2. Nd2"
+  },
+  {
+    "complex":"Blackmar Gambit",
+    "size":1,
+    "pgn":"1. d4 d5 2. e4"
+  },
+  {
+    "complex":"Queen's Indian Accelerated",
+    "size":1,
+    "pgn":"1. d4 Nf6 2. c4 b6"
+  },
+  {
+    "complex":"Crab Opening",
+    "size":1,
+    "pgn":"1. a4 e5 2. h4"
+  },
+  {
+    "complex":"D\u00f6ry Defense",
+    "size":1,
+    "pgn":"1. d4 Nf6 2. Nf3 Ne4"
+  },
+  {
+    "complex":"Duras Gambit",
+    "size":1,
+    "pgn":"1. e4 f5"
+  },
+  {
+    "complex":"Dresden Opening",
+    "size":1,
+    "pgn":"1. e4 e5 2. Nf3 Nc6 3. c4 Nf6 4. Nxe5"
+  },
+  {
+    "complex":"Danish Gambit Declined",
+    "size":1,
+    "pgn":"1. e4 e5 2. d4 exd4 3. c3 d5"
+  },
+  {
+    "complex":"Danish Gambit",
+    "size":1,
+    "pgn":"1. e4 e5 2. d4 exd4 3. c3"
+  },
+  {
+    "complex":"Czech Defense",
+    "size":1,
+    "pgn":"1. e4 d6 2. d4 Nf6 3. Nc3 c6"
+  },
+  {
+    "complex":"Creepy Crawly Formation",
+    "size":1,
+    "pgn":"1. h3 d5 2. a3 e5"
+  },
+  {
+    "complex":"Center Game Accepted",
+    "size":1,
+    "pgn":"1. e4 e5 2. d4 exd4"
+  },
+  {
+    "complex":"English Orangutan",
+    "size":1,
+    "pgn":"1. c4 Nf6 2. b4"
+  },
+  {
+    "complex":"Blackburne Shilling Gambit",
+    "size":1,
+    "pgn":"1. e4 e5 2. Nf3 Nc6 3. Bc4 Nd4 4. Nxe5 Qg5 5. Nxf7 Qxg2 6. Rf1 Qxe4+ 7. Be2 Nf3#"
+  },
+  {
+    "complex":"Canard Opening",
+    "size":1,
+    "pgn":"1. d4 Nf6 2. f4"
+  },
+  {
+    "complex":"Bronstein Gambit",
+    "size":1,
+    "pgn":"1. d4 Nf6 2. g4"
+  },
+  {
+    "complex":"Borg Opening",
+    "size":1,
+    "pgn":"1. e4 g5 2. d4 e5"
+  },
+  {
+    "complex":"Bongcloud Attack",
+    "size":1,
+    "pgn":"1. e4 e5 2. Ke2"
+  },
+  {
+    "complex":"Blumenfeld Countergambit Accepted",
+    "size":1,
+    "pgn":"1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 b5 5. dxe6 fxe6 6. cxb5 d5"
+  },
+  {
+    "complex":"Blackmar-Diemer, Lemberger Countergambit",
+    "size":1,
+    "pgn":"1. d4 d5 2. Nc3 Nf6 3. e4 e5"
+  },
+  {
+    "complex":"East Indian Defense",
+    "size":1,
+    "pgn":"1. d4 Nf6 2. Nf3 g6"
+  },
+  {
+    "complex":"English Rat",
+    "size":1,
+    "pgn":"1. d4 d6 2. c4 e5 3. dxe5 Be6"
+  },
+  {
+    "complex":"Barnes Defense",
+    "size":1,
+    "pgn":"1. e4 f6"
+  },
+  {
+    "complex":"King's Pawn",
+    "size":1,
+    "pgn":"1. e4"
+  },
+  {
+    "complex":"Queen's Gambit",
+    "size":1,
+    "pgn":"1. d4 d5 2. c4"
+  },
+  {
+    "complex":"Paleface Attack",
+    "size":1,
+    "pgn":"1. d4 Nf6 2. f3"
+  },
+  {
+    "complex":"Norwegian Defense",
+    "size":1,
+    "pgn":"1. e4 g6 2. d4 Nf6 3. e5 Nh5 4. g4 Ng7"
+  },
+  {
+    "complex":"Montevideo Defense",
+    "size":1,
+    "pgn":"1. d4 Nc6 2. d5 Nb8"
+  },
+  {
+    "complex":"Marienbad System",
+    "size":1,
+    "pgn":"1. d4 Nf6 2. Nf3 b6 3. g3 Bb7 4. Bg2 c5"
+  },
+  {
+    "complex":"Lemming Defense",
+    "size":1,
+    "pgn":"1. e4 Na6"
+  },
+  {
+    "complex":"Lasker Simul Special",
+    "size":1,
+    "pgn":"1. g3 h5"
+  },
+  {
+    "complex":"Amar Gambit",
+    "size":1,
+    "pgn":"1. Nh3 d5 2. g3 e5 3. f4 Bxh3 4. Bxh3 exf4"
+  },
+  {
+    "complex":"Englund Gambit",
+    "size":1,
+    "pgn":"1. d4 e5"
+  },
+  {
+    "complex":"Irish Gambit",
+    "size":1,
+    "pgn":"1. e4 e5 2. Nf3 Nc6 3. Nxe5"
+  },
+  {
+    "complex":"Gunderam Defense",
+    "size":1,
+    "pgn":"1. e4 e5 2. Nf3 Qe7"
+  },
+  {
+    "complex":"Guatemala Defense",
+    "size":1,
+    "pgn":"1. e4 b6 2. d4 Ba6"
+  },
+  {
+    "complex":"Global Opening",
+    "size":1,
+    "pgn":"1. h3 e5 2. a3"
+  },
+  {
+    "complex":"Giuoco Piano",
+    "size":1,
+    "pgn":"1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5"
+  },
+  {
+    "complex":"Gedult's Opening",
+    "size":1,
+    "pgn":"1. f3"
+  },
+  {
+    "complex":"Fried Fox Defense",
+    "size":1,
+    "pgn":"1. e4 f6 2. d4 Kf7"
+  },
+  {
+    "complex":"empty",
+    "size":1,
+    "pgn":"root"
+  }
+]

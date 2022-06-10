@@ -1,4 +1,4 @@
-from cairosvg import svg2png
+#from cairosvg import svg2png
 import chess.pgn
 import chess.svg
 import chess
@@ -32,7 +32,7 @@ def get_lichess_openings() -> pd.DataFrame:
         tmp = pd.read_csv(opening, sep="\t")
         df = pd.concat([df, tmp], axis=0)
 
-    df.to_csv("../data/00-lichess-openings.csv", sep=";")
+    df.to_csv("../../shared/lichess-openings.csv", sep=";")
     return df
 
 
@@ -127,8 +127,10 @@ def gen_hierarchy(df: pd.DataFrame) -> pd.DataFrame:
             except ValueError:
                 if pgn == "":
                     continue
-                tmp = pd.DataFrame({"pgn": [pgn], "name": ["P00"], "eco": [None]})
-                placeholders = pd.concat([placeholders, tmp], axis=0, ignore_index=True)
+                tmp = pd.DataFrame(
+                    {"pgn": [pgn], "name": ["P00"], "eco": [None]})
+                placeholders = pd.concat(
+                    [placeholders, tmp], axis=0, ignore_index=True)
 
     # remove duplicate pgns from placeholders
     placeholders.drop_duplicates(subset=["pgn"], keep="first", inplace=True)
@@ -136,9 +138,11 @@ def gen_hierarchy(df: pd.DataFrame) -> pd.DataFrame:
 
     df["parent"] = df["pgn"].apply(lambda x: pop_last_move(x))
     df["move_count"] = df["pgn"].apply(lambda x: get_moves(x))
-
     df["id"] = range(0, df["pgn"].size)
-    df["path"] = df["id"].apply(lambda x: "img/" + str(x) + ".webp")
+    df["path_png"] = df["id"].apply(lambda x: "..shared/img/png/" + str(x) + ".png")
+    df["path_webp"] = df["id"].apply(lambda x: "..shared/img/webp/" + str(x) + ".webp")
+    df["path_svg"] = df["id"].apply(lambda x: "..shared/img/svg/" + str(x) + ".svg")
+    df["complex"] = df['name'].str.split(':', 1, expand=True)[0]
 
     # add root
     root_row = pd.DataFrame(
@@ -147,9 +151,12 @@ def gen_hierarchy(df: pd.DataFrame) -> pd.DataFrame:
             "name": ["empty"],
             "pgn": ["root"],
             "parent": ["empty"],
-            "move_count": ["empty"],
-            "path": ["empty"],
+            "move_count": [0],
+            "path_png": ["empty"],
+            "path_webp": ["empty"],
+            "path_svg": ["empty"],
             "id": [-1],
+            "complex": ["empty"],
         }
     )
 
@@ -222,7 +229,8 @@ def gen_images(
         else:
             last_move = board.peek()
             color = row.color
-            highlight = {"square light lastmove": color, "square dark lastmove": color}
+            highlight = {"square light lastmove": color,
+                         "square dark lastmove": color}
 
             board_svg = chess.svg.board(
                 board, size=size, lastmove=last_move, colors=highlight
@@ -251,23 +259,26 @@ def gen_treetxt(df: pd.DataFrame, output_folder: str):
     parent_list = list(df["parent"])
 
     for index, element in enumerate(pgn_list):
-        tree.create_node(tag=element, identifier=element, parent=parent_list[index])
+        tree.create_node(tag=element, identifier=element,
+                         parent=parent_list[index])
 
     tree.save2file(f"{output_folder}/tree.txt")
 
 
 def gen_treejson(df: pd.DataFrame, output_folder: str):
     if (
-        set(["eco", "pgn", "name", "parent", "path", "move_count"]).issubset(df.columns)
+        set(["eco", "pgn", "name", "parent", "path_png", "path_webp", "path_svg",
+            "move_count"]).issubset(df.columns)
         is False
     ):
         exit("malformed format")
 
     g = nx.from_pandas_edgelist(df, "parent", "pgn", create_using=nx.DiGraph())
     d = {
-        v: {"id": e, "path": p, "name": n, "move_count": m, "index": i, "color": c}
-        for v, e, n, p, m, i, c in zip(
-            df.pgn, df.eco, df.name, df.path, df.move_count, df.id, df.color
+        v: {"id": e, "path_png": png, "path_svg": svg, "path_webp": webp, "name": n,
+            "move_count": m, "index": i, "color": c}
+        for v, e, n, png, svg, webp, m, i, c in zip(
+            df.pgn, df.eco, df.name, df.path_png, df.path_webp, df.path_svg, df.move_count, df.id, df.color
         )
     }
     nx.set_node_attributes(g, d)
@@ -284,12 +295,24 @@ def gen_treejson(df: pd.DataFrame, output_folder: str):
         json.dump(out, outfile)
 
 
+def extract_clusters(df: pd.DataFrame):
+    lines =  df[df["complex"] != "P00"].groupby(
+        ["complex"], as_index=False).size().sort_values(by="size", ascending=False,axis="index").reset_index(drop="True")
+
+    starting_pgns=  df.loc[df[df["complex"] != "P00"].groupby('complex').move_count.idxmin()].reset_index(drop="True")
+
+    result = lines.merge(starting_pgns[["complex","pgn"]],on="complex",how="left")
+    result.to_json("../../shared/clusters.json", orient="records", indent=2)
+
+
 if __name__ == "__main__":
     lichess = get_lichess_openings()
     lichess = gen_hierarchy(lichess)
-    lichess.to_csv("../output/04-lichess-openings.csv", sep=";", index=False)
+    lichess.to_csv("../../shared/lichess_hierarchy.csv", sep=";", index=False)
 
-    gen_treejson(lichess, "../output/")
+    gen_treejson(lichess, "../../shared/")
 
-    gen_images(lichess, "../output/img", 100, False, True)
+    #gen_images(lichess, "../output/img", 100, False, True)
     # gen_treetxt(lichess, "../output/")
+
+    extract_clusters(lichess)

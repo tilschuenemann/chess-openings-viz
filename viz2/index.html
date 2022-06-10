@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Chess Viz</title>
+    <meta name="description" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css"
+    />    <!-- <link rel="stylesheet" href="./index.css" /> -->
+  </head>
+
+    <!--menu-->
+    
+    <div class="ui center aligned container">
+      <br>
+      <div class="ui">
+
+        <!-- increase depth button-->
+        <div class="ui labeled button"  tabindex="0">
+          <div class="ui button" onclick="buttonClick()">
+            <i class="plus icon"></i>
+            Increase Depth
+          </div>
+            <div class="ui input">
+              <input type="text" id="inc" value = "3">
+            </div>
+        </div>
+
+        <script>
+          var i = 1;
+          function buttonClick() {
+              document.getElementById('inc').value = ++i;
+          }
+        </script>
+
+        <!-- select opening button-->
+        <div class="ui floating dropdown labeled search icon button" id="search-select">
+          <i class="chess icon"></i>
+          <span class="text">Select Opening</span>
+          <div class="menu" id="search-select3">
+          </div>
+        </div>
+        <!-- download svg -->
+        <button class="ui labeled icon button">
+          <i class="download icon"></i>
+          Download SVG
+        </button>
+        <!-- show about -->
+        <button class="ui labeled icon button" onclick='showAbout()'>
+          <i class="address card icon" ></i>
+          About
+        </button>
+      </div>
+    </div>
+
+    <!--content-->
+    <div class="ui card centered" id="about" style="display: none;">
+      <div class="content">
+        <h1>About</h1>
+        <p>Minim enim velit ipsum et consectetur laboris magna reprehenderit labore irure. Aliquip tempor occaecat veniam cillum anim laboris consectetur officia deserunt laborum proident. Ipsum officia irure officia reprehenderit. Commodo tempor ut ullamco aliquip cupidatat laborum eiusmod irure. Excepteur id exercitation deserunt amet qui esse velit pariatur officia proident. Labore enim cillum et dolore labore pariatur minim. Consequat occaecat laboris magna cupidatat occaecat.</p>
+      </div>
+    </div>
+    <div id="root"></div>
+    
+    <!-- scripts-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.js" async defer></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/d3-path@3"></script>
+    <script src="https://cdn.jsdelivr.net/npm/d3-shape@3"></script>
+    <script src="./visTree.js"></script>
+    <script src="./pop-select.js"></script>
+    <script src="./index.js"></script>
+  </body>
+</html>
