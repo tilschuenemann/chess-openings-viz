@@ -1,7 +1,8 @@
-fetch("../shared/clusters.json")
+// TODO reference clusters.json in shared folder
+fetch("clusters.json")
 .then(res => res.json())
 .then(data => {
-    var ele = document.getElementById('search-select3');
+    var ele = document.getElementById('search-select');
 
     for (var i = 0; i < data.length; i++) {
         ele.innerHTML = ele.innerHTML +
@@ -12,6 +13,8 @@ fetch("../shared/clusters.json")
     }
 });
 
-$(document).ready(function(){
-    $('#search-select').dropdown()
-}); 
+
+$( document ).ready(function() {
+    $('#search-select-parent')
+  .dropdown()
+});

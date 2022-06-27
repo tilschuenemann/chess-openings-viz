@@ -9,8 +9,3 @@ function showAbout() {
       x.style.display = "none";
     }
   } 
-
-
-  $('#search-select')
-  .dropdown()
-;

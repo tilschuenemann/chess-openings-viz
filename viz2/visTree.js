@@ -34,18 +34,29 @@ function prune(data,depth){
     } else {
         copy.children = []
     }
+    return copy
 }
 
-fetch("../shared/tree.json")
+
+function removeAllChildNodes(parent) {
+    while (parent.firstChild) {
+        parent.removeChild(parent.firstChild);
+    }
+}
+
+function setupTree(){
+
+fetch("tree.json")
     .then(response => {
         return response.json();
     })
     .then(data => {
         const start = search(data, "1. b4","id");
         
-        const test = prune(start,4)
+        depth = document.getElementById('inc').value;
+        const test = prune(start,depth);
 
-        const root = start
+        const root = test
         
         //const root = data[0].children[3];
         root.x0 = 0;
@@ -216,5 +227,5 @@ fetch("../shared/tree.json")
         });*/
 
     });
-
-
+}
+setupTree()
